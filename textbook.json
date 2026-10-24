@@ -4,7 +4,7 @@
   "site_url": "https://aaryavvatts-lab.github.io/gut-brain-textbook/",
   "mascot_name": "Vee",
   "words_min": 4500,
-  "words_max": 9500,
+  "words_max": 10000,
   "quiz_questions": 10,
   "max_same_answer_letter": 3,
   "references_min": 8,

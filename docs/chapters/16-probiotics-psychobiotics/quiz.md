@@ -182,7 +182,7 @@ In a 2008 study, published journal articles made about 94% of antidepressant tri
 
 #### Question 10
 
-Three meta-analyses of probiotics for depression report effect sizes of about 0.24, 0.26, and 0.96. Which explanation from the chapter best accounts for the difference?
+Three meta-analyses of probiotics (and related treatments) for depression report effect sizes of about 0.24, 0.26, and 0.96. Which explanation from the chapter best accounts for the difference?
 
 <div class="upper-alpha" markdown>
 1. One of the reviews must have made a math mistake.
@@ -192,7 +192,7 @@ Three meta-analyses of probiotics for depression report effect sizes of about 0.
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **D**. The reviews pooled different sets of trials: for example, Asad 2025 included only people with a diagnosis and reported high heterogeneity, while Liu 2019 also included people without a diagnosis (and found a bigger effect in those with one). Strain specificity means "probiotics" can mean different products in each review. Option C is wrong because a bigger effect size does not mean better design.
+    The correct answer is **D**. The reviews pooled different sets of trials: for example, Asad 2025 included only people with a diagnosis and reported high heterogeneity, while Liu 2019 also included people without a diagnosis (and found a bigger effect in clinical samples). Strain specificity means "probiotics" can mean different products in each review. Option C is wrong because a bigger effect size does not mean better design.
 
     **Concept Tested:** Systematic Review
     **Bloom's Level:** Analyze

@@ -125,7 +125,7 @@ This pathway links back to Chapter 4. Dantzer's review describes how some pro-in
 
 In Chapter 2 you met enteroendocrine cells, the hormone-releasing sensor cells scattered through the gut lining. One type does most of the body's serotonin work.
 
-An **enterochromaffin cell** (EC cell) is a type of enteroendocrine cell in the gut lining that senses conditions inside the gut and releases serotonin, making most of the body's serotonin using the enzyme TPH1. The canonical fact used throughout this book is this:
+An **enterochromaffin cell** (EC cell) is a type of enteroendocrine cell in the gut lining that senses conditions inside the gut and releases serotonin, making most of the body's serotonin using the enzyme TPH1. Here is the fact this book uses throughout:
 
 > More than 90% of the body's serotonin is made in the gut, mostly by enterochromaffin cells (some estimates say about 95%).
 
@@ -148,7 +148,7 @@ Now for the wall in our two-towns picture.
 
 The **blood-brain barrier** (BBB) is the specialized lining of the brain's blood vessels, made of tightly sealed endothelial cells supported by other cells, that tightly controls which ions, molecules, and cells can pass from the blood into the brain. A 2015 review by [Daneman and Prat](https://pubmed.ncbi.nlm.nih.gov/25561720/) describes how these vessel cells regulate traffic between blood and brain far more strictly than vessels elsewhere in the body. Think of it as the wall with a few guarded gates: specific transporter proteins act as gates that let in nutrients the brain needs, such as certain amino acids.
 
-Here is the canonical fact at the heart of this chapter:
+Here is the fact at the heart of this chapter:
 
 > Serotonin made in the gut does not cross the blood-brain barrier. The brain makes its own serotonin from tryptophan, an amino acid that can cross.
 
@@ -189,7 +189,7 @@ Press **Release gut serotonin** and follow the purple dots. Some hit the gold ne
 Now press **Eat protein (tryptophan)**. Most green dots turn gray and fade (used by the kynurenine pathway and other routes), but a few find the gates in the barrier, cross, and turn purple inside the brain's neurons. Finally, check **SSRI (blocks SERT)** and release more gut serotonin. With reuptake blocked, more serotonin reaches the gut nerves, which is one reason SSRIs can cause nausea or loose stools. Ask yourself: did the SSRI change how much gut serotonin reaches the brain?
 
 !!! model-limits "What this model leaves out"
-    - Real serotonin release is constant and tiny, measured in molecules, not a few dozen dots on a button press; the percentages are made-up teaching values.
+    - Real serotonin release is constant and tiny, measured in molecules, not a few dozen dots on a button press; the percentages are made-up teaching values. In real life, far more of the tryptophan you eat goes to other pathways than the sim shows (more than 95%).
     - The model shows only one type of serotonin receptor on one nerve. The gut has many serotonin receptor types with different effects, including on gut muscle and the lining.
     - The brain's serotonin neurons are in the brainstem and send fibers across the whole brain; the sim shows three cartoon neurons.
     - The sim leaves out how the body breaks down serotonin in the blood over time, and serotonin's roles in bone and clotting.
@@ -241,7 +241,7 @@ In July 2022, [Joanna Moncrieff and colleagues](https://pubmed.ncbi.nlm.nih.gov/
 
 The review sparked strong reactions, and many comments and replies were published. In 2023, a group of 35 psychiatrists and brain scientists led by Sameer Jauhar answered in the same journal ([Jauhar and colleagues, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10618084/)). They argued that the review's conclusion was overstated. They criticized how it chose and reported studies, and they said that tryptophan depletion experiments and brain imaging do point to a role for serotonin in people who are vulnerable to or living with depression. Moncrieff's team published a reply the same year and stood by its conclusion.
 
-New data keep arriving, too. In a 2023 brain-imaging (PET) study, Erritzoe and colleagues gave a single dose of amphetamine, a drug that makes neurons release serotonin, to 17 adults in a depressive episode who were not taking antidepressants and to 20 adults without depression ([Erritzoe and colleagues, 2023](https://pubmed.ncbi.nlm.nih.gov/36635177/)). The scans showed less serotonin release in the depressed group. That is one small study. It measured release during an episode, not whether low serotonin comes first, so it can't settle the cause question. The debate is still going on. Two points help you read it fairly:
+New data keep arriving, too. In a 2023 brain-imaging (PET) study, Erritzoe and colleagues gave a single dose of amphetamine, a drug that makes neurons release serotonin (along with other messengers), to 17 adults in a depressive episode who were not taking antidepressants and to 20 adults without depression ([Erritzoe and colleagues, 2023](https://pubmed.ncbi.nlm.nih.gov/36635177/)). The scans showed less serotonin release in the depressed group. That is one small study. It measured release during an episode, not whether low serotonin comes first, so it can't settle the cause question. The debate is still going on. Two points help you read it fairly:
 
 - **What the review is about:** whether low serotonin is the *cause* of depression. Rejecting a simple "low serotonin" story is not the same as saying serotonin plays no role in mood.
 - **What the review is not about:** whether antidepressants help. The review didn't test that, and it isn't evidence that people should stop their medicine. SSRIs could help through effects that develop over weeks, even if depression doesn't start with low serotonin.
@@ -289,9 +289,9 @@ Two cautions keep this honest. First, "bacteria can make GABA" is not the same a
 
 A 2021 review by [Kara Margolis, John Cryan, and Emeran Mayer](https://pubmed.ncbi.nlm.nih.gov/33493503/) sums up the field: animal studies of the microbiota-gut-brain axis have shown much promise, but they haven't yet been turned into proven diagnoses or treatments for patients.
 
-!!! hype-preliminary "Hype Meter: "Gut bacteria make neurotransmitters that reach your brain""
+!!! hype-hype "Hype Meter: "Gut bacteria make neurotransmitters that reach your brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
-    **Verdict: Preliminary.** It's well shown in lab cultures that common gut bacteria make GABA and other neurotransmitter molecules, and in mice that bacteria raise the gut's own serotonin production. But the "reach your brain" part is not shown in people: most of these molecules act in the gut, and human links between microbes and depression (about 1,000 people in one major study) are correlations.
+    **Verdict: Hype, as stated.** The first half is real: it's well shown in lab cultures that common gut bacteria make GABA and other neurotransmitter molecules, and in mice that bacteria raise the gut's own serotonin production. But the "reach your brain" part is not shown in people: most of these molecules act in the gut, and human links between microbes and depression (about 1,000 people in one major study) are correlations.
     **What would change the grade:** Human studies tracing a microbe-made molecule from the gut into the brain, followed by controlled trials showing that changing those microbes changes brain chemistry and mood.
 
 ## At the Bedside: Stomach Trouble on a New Medicine
@@ -311,7 +311,7 @@ A 2021 review by [Kara Margolis, John Cryan, and Emeran Mayer](https://pubmed.nc
 
 **Treatment today:** Depression in teens is commonly treated with therapy, medicine, or both. Any change to an SSRI, such as timing, dose, or switching medicines, is decided with the prescriber, not at home. The care team may suggest practical steps for nausea and will watch whether side effects fade over the first weeks.
 
-**What's new in research:** Scientists have developed drugs that block tryptophan hydroxylase to lower serotonin production outside the brain; Mawe and Hoffman's 2013 review describes versions designed not to cross the blood-brain barrier. In February 2017, the FDA [approved telotristat ethyl (Xermelo)](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=208794), a tryptophan hydroxylase blocker that lowers serotonin production, for adults with carcinoid syndrome diarrhea, taken together with somatostatin analog therapy when that therapy alone doesn't control it. (Carcinoid syndrome is caused by tumors that release too much serotonin.) A 4-week placebo-controlled trial of a related compound, LX-1031, in 155 people with non-constipating IBS found some symptom relief, but the improvement on its main measure was statistically clear only in the first week ([Brown and colleagues, 2011](https://pubmed.ncbi.nlm.nih.gov/21684281/)). **Evidence grade: Preliminary** for IBS (small, short, not approved for that use).
+**What's new in research:** Scientists have developed drugs that block tryptophan hydroxylase to lower serotonin production outside the brain; Mawe and Hoffman's 2013 review describes versions designed not to cross the blood-brain barrier. In February 2017, the FDA [approved telotristat ethyl (Xermelo)](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=208794), a tryptophan hydroxylase blocker that lowers serotonin production, for adults with carcinoid syndrome diarrhea, taken together with somatostatin analog therapy when that therapy alone doesn't control it. (Carcinoid syndrome is caused by tumors that release too much serotonin.) A 4-week placebo-controlled trial of a related compound, LX-1031, in 155 people with non-constipating IBS found some symptom relief, but the improvement on its main measure was statistically clear only in the first week ([Brown and colleagues, 2011](https://pubmed.ncbi.nlm.nih.gov/21684281/)). The drug's maker ran that trial, and LX-1031 has not been approved for any use. **Evidence grade: Preliminary** for IBS (one small, short, company-run trial).
 
 ??? question "Your turn: reason through a variation"
     A few weeks later, Jordan's stomach symptoms have faded and mood is starting to improve. Jordan's aunt says, "See, the medicine fixed the serotonin in Jordan's gut, and that's what made Jordan happier." What's wrong with that explanation?

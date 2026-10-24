@@ -87,7 +87,7 @@ People don't all agree, though. A 2016 UK survey of 3,470 people by [Kenny and c
 
 ## 13.3 Real Gut Problems, Worth Treating
 
-Here's a finding that has held up well. **GI symptoms in autism** refers to the higher rate of digestive problems, such as constipation, diarrhea, and belly pain, reported in autistic children compared with non-autistic children; these are real health issues that deserve diagnosis and treatment, separate from autism itself.
+One finding has held up well. **GI symptoms in autism** refers to the higher rate of digestive problems, such as constipation, diarrhea, and belly pain, reported in autistic children compared with non-autistic children; these are real health issues that deserve diagnosis and treatment, separate from autism itself.
 
 The best summary comes from a 2014 meta-analysis (a study that pools results from many studies) by [McElhanon and colleagues](https://pubmed.ncbi.nlm.nih.gov/24777214/) in the journal *Pediatrics*. They combined 15 studies that compared autistic children with other children. Here's what they found, as odds ratios. (An odds ratio compares the odds of something in one group with the odds in another; 1.0 means no difference.)
 
@@ -105,7 +105,7 @@ So autistic children had roughly four times the odds of general GI symptoms. Tha
     **Verdict: Strong (as an association).** A 2014 meta-analysis of 15 comparison studies found that autistic children had higher odds of general GI symptoms (about 4.4 times), constipation, diarrhea, and belly pain. The link is consistent across studies, though the size varies and the causes are not known. This grade is about the *association*; it does not mean the gut causes autism.
     **What would change the grade:** Very little would undo the association. Large studies with standard symptom measures would pin down how big it is and why it happens.
 
-Why does this matter? Because gut pain is painful. Constipation can cause belly pain, poor sleep, and a bad mood in anyone. When doctors and families recognize gut problems in autistic children, they can treat them with the same tools they use for other children. A 2010 set of expert recommendations in *Pediatrics*, led by Buie, concluded that autistic children with GI problems can benefit from [adapting the standard pediatric guidelines for evaluating](https://pubmed.ncbi.nlm.nih.gov/20048084/) belly pain, chronic constipation, and reflux.
+Why does this matter? Because these problems hurt. Constipation can cause belly pain, poor sleep, and a bad mood in anyone. When doctors and families recognize gut problems in autistic children, they can treat them with the same tools they use for other children. A 2010 set of expert recommendations in *Pediatrics*, led by Buie, concluded that autistic children with GI problems can benefit from [adapting the standard pediatric guidelines for evaluating](https://pubmed.ncbi.nlm.nih.gov/20048084/) belly pain, chronic constipation, and reflux.
 
 ## 13.4 Why Gut Pain Can Be Hard to See
 
@@ -148,7 +148,7 @@ flowchart LR
 
 ### The 2021 study that changed the conversation
 
-In 2021, [Yap and colleagues](https://pubmed.ncbi.nlm.nih.gov/34767757/) published the study mentioned in this chapter's opening. They analyzed stool samples from 247 children and teens, from the Australian Autism Biobank and the Queensland Twin Adolescent Brain project, using metagenomics (reading all the microbial DNA in a sample). Crucially, they also collected detailed information on diet, age, stool consistency, and other factors.
+In 2021, [Yap and colleagues](https://pubmed.ncbi.nlm.nih.gov/34767757/) published the study mentioned in this chapter's opening. They analyzed stool samples from 247 children and teens, from the Australian Autism Biobank and the Queensland Twin Adolescent Brain project, using metagenomics (reading all the microbial DNA in a sample). They also collected detailed information on diet, age, stool consistency, and other factors.
 
 Their main findings:
 
@@ -160,7 +160,7 @@ The authors concluded that microbiome differences in autism may reflect dietary 
 
 ### A second look from another angle
 
-Science moves forward by checking results in different ways. In 2023, [Morton and colleagues](https://pubmed.ncbi.nlm.nih.gov/37365313/) pooled 10 microbiome data sets plus 15 other data sets (diet, metabolism, immune markers, brain gene activity) in *Nature Neuroscience*. They did find autism-linked microbial and chemical patterns, and those patterns were associated with restrictive diets and inflammation markers. But here's the telling detail: the pattern showed up when autistic children were compared with unrelated children matched by age and sex, and **did not** show up when autistic children were compared with their own siblings, who share their home, family meals, and much of their environment.
+Science moves forward by checking results in different ways. In 2023, [Morton and colleagues](https://pubmed.ncbi.nlm.nih.gov/37365313/) pooled 10 microbiome data sets plus 15 other data sets (diet, metabolism, immune markers, brain gene activity) in *Nature Neuroscience*. They did find autism-linked microbial and chemical patterns, and those patterns were associated with restrictive diets and inflammation markers. The key detail is that the pattern showed up when autistic children were compared with unrelated children matched by age and sex, and **did not** show up when autistic children were compared with their own siblings, who share their home, family meals, and much of their environment.
 
 That's what you'd expect if shared environment and diet, not autism itself, explained much of the difference. Neither study shows that microbes cause autism. Together, they make diet a leading suspect for why the microbiomes differ.
 
@@ -223,7 +223,7 @@ Whether maternal immune activation plays any role in human autism is still an op
 
 ## 13.7 Reading Treatment Studies: Open Labels, Placebos, and Sample Size
 
-Suppose someone claims a treatment helps. How do you judge it? Three features of a study design matter enormously.
+Suppose someone claims a treatment helps. How do you judge it? Three parts of a study's design matter a lot.
 
 An **open-label trial** is a study in which participants, families, and researchers all know who is getting the treatment; there's usually no placebo group, so improvements may come from expectations, extra attention, or time passing rather than the treatment. Think of tasting two sodas when you can see the labels. Your opinion is shaped by what you expect.
 
@@ -255,7 +255,7 @@ The authors themselves called their study exploratory and said a double-blind, p
 
 In 2024, [Wan and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC11347384/) reported a randomized, double-blind, placebo-controlled trial of oral fecal microbiota transplants in 103 autistic children in China (52 got the transplant, 51 got a placebo). Their main measure was a social-behavior rating scale. Both groups improved, and the difference between the transplant and placebo groups on that main measure was **not** statistically significant. The authors noted a substantial placebo effect.
 
-(One secondary measure of social skills did favor the transplant group, but the authors described such secondary results as preliminary, and the trial was reported only as a short research letter.) That's exactly the kind of result an open-label study can't reveal: when everyone knows they're being treated, part of the improvement can come from expectations.
+(One secondary measure of social skills did favor the transplant group, but the authors described such secondary results as preliminary, and the trial was reported only as a short research letter.) An open-label study can't reveal a result like this: when everyone knows they're being treated, part of the improvement can come from expectations.
 
 It's also worth asking what the goal of a treatment should be. Many autistic people and their allies question whether lowering scores on autism rating scales should be a treatment goal at all, since autism is a part of who someone is. Relieving constipation, belly pain, and diarrhea, on the other hand, is a goal everyone can agree on. That's why some newer trials measure gut symptoms as their main outcome (see the At the Bedside section).
 
@@ -292,7 +292,7 @@ Here's how harm can happen:
 
 Compared with autism, research on ADHD and the gut is younger and thinner.
 
-A 2025 systematic review by [Dias and colleagues](https://pubmed.ncbi.nlm.nih.gov/41075498/) found 14 studies on the gut microbiome in ADHD, with 1,319 participants, mostly children and teens aged 4 to 18, from Europe and East Asia. Some studies reported differences in particular bacteria (for example, less of one group called *Faecalibacterium* in some studies), but results on overall microbial diversity were inconclusive. As with autism, these are correlations, and diet, medications, sleep, and other factors could explain differences. Nobody has shown that gut bacteria cause ADHD.
+A 2025 systematic review by [Dias and colleagues](https://pubmed.ncbi.nlm.nih.gov/41075498/) found 14 studies on the gut microbiome in ADHD, with 1,319 participants, mostly children and teens aged 4 to 18, from Europe and East Asia. Some studies reported differences in particular bacteria (for example, less of a group called *Faecalibacterium*), but results on overall microbial diversity were inconclusive. As with autism, these are correlations, and diet, medications, sleep, and other factors could explain differences. Nobody has shown that gut bacteria cause ADHD.
 
 What about sugar? The idea that sugar causes hyperactivity is one of the most widely believed food myths. In a 1995 meta-analysis in *JAMA*, [Wolraich and colleagues](https://pubmed.ncbi.nlm.nih.gov/7474248/) pooled 23 studies in which children were given either sugar or an artificial sweetener, with neither the children, their parents, nor the researchers knowing which. They found that sugar did not affect children's behavior or thinking. The authors suggested that parents' strong belief might come from expectation and from the settings where kids eat sugar (birthday parties are exciting with or without cake), while noting that a small effect, or effects in some individual children, could not be completely ruled out.
 
@@ -336,7 +336,7 @@ That might include:
 
 **The mind-body side:** Leo's parents were worried his "behavior was getting worse." The care team helped them reframe it: Leo was communicating pain. The doctor tells the family clearly that treating constipation is about Leo's comfort and health, not about changing who he is. An occupational therapist suggests sensory-friendly ways to try new foods slowly, at Leo's pace. His parents work with him on a simple visual chart for rating stomach pain, so he has a tool to use next time.
 
-**Treatment today:** The pediatrician recommends standard treatment for childhood constipation, which may include a medicine to soften stool, regular toilet routines, and gradual changes to fluids and fiber that work with Leo's food preferences. The family is told to follow the doctor's specific instructions rather than trying supplements or restrictive diets on their own. Within weeks, Leo is sleeping better and seems more like himself.
+**Treatment today:** The pediatrician recommends standard treatment for childhood constipation, which may include first clearing out the stool that has built up, then a daily medicine to keep stool soft, regular toilet routines, and gradual changes to fluids and fiber that work with Leo's food preferences. The family is told to follow the doctor's specific instructions rather than trying supplements or restrictive diets on their own. Within weeks, Leo is sleeping better and seems more like himself.
 
 **What's new in research:** The Gut Bugs in Autism Trial in New Zealand, whose protocol was published in 2024 by [Tweedie-Cullen and colleagues](https://pubmed.ncbi.nlm.nih.gov/38320845/), plans to randomly assign 100 autistic teens and adults aged 16 to 45 with GI symptoms to receive either donor-microbe capsules or a placebo, with neither participants nor researchers knowing who gets which. Its main outcome is a GI symptom score at 6 weeks, a design focused on gut comfort and well-being. As of October 2026, its results had not been published, and the trial's University of Auckland study page still had no link to findings. **Evidence grade: Preliminary** for microbiome treatments as a way to ease GI symptoms in autistic people; this is an experimental approach, not standard care.
 

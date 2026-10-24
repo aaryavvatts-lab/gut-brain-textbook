@@ -76,7 +76,7 @@ Now imagine someone mowing the shaggy mat down until it is nearly flat. The mat 
 
 ### Who can get it: the gene "key"
 
-Here is a fact that surprises many people: you can't get celiac disease unless you carry certain gene variants. Think of it like a lock and key. The genes make a "display stand" on immune cells, and only some display stands hold gluten pieces in a way that sets off an alarm.
+This next fact surprises many people: celiac disease almost never develops unless a person carries certain gene variants. Think of it like a lock and key. The genes make a "display stand" on immune cells, and only some display stands hold gluten pieces in a way that sets off an alarm.
 
 **HLA-DQ2 and HLA-DQ8** are versions (variants) of immune-system genes in the human leukocyte antigen (HLA) family that make proteins on certain immune cells; nearly everyone with celiac disease carries one or both. MedlinePlus Genetics, a US National Library of Medicine site, explains that HLA proteins hold up small protein fragments so other immune cells can check whether they are "self" or "foreign." In celiac disease, the immune system wrongly treats fragments of gluten as a threat.
 
@@ -97,11 +97,11 @@ NIDDK notes that many people with celiac disease have not been diagnosed, that s
 
 !!! mascot-thinking "A gene that's necessary, not sufficient"
     ![Vee thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
-    I like to think of DQ2 and DQ8 as a ticket to a concert: you can't get in without one, but holding a ticket doesn't mean you'll go. About 30% of people hold the ticket, and only about 3% of them ever get celiac disease.
+    I like to think of DQ2 and DQ8 as a ticket to a concert: almost nobody gets in without one, but holding a ticket doesn't mean you'll go. About 30% of people hold the ticket, and only about 3% of them ever get celiac disease.
 
 ## 12.4 Villous Atrophy: What the Damage Looks Like
 
-What happens when someone with celiac disease eats gluten? Here is the chain of events in plain steps.
+What happens when someone with celiac disease eats gluten? The chain of events goes like this.
 
 1. **Gluten arrives.** Gluten proteins are tough, and some fragments survive digestion and reach the lining of the small intestine.
 2. **An enzyme changes the fragments.** An enzyme in the intestine called tissue transglutaminase (tTG) chemically modifies gluten fragments. A 2021 trial report by [Schuppan and colleagues](https://pubmed.ncbi.nlm.nih.gov/34192430/) in the *New England Journal of Medicine* explains that this change makes the fragments stimulate immune T cells more strongly.
@@ -144,7 +144,7 @@ Type: microsim
 
 Start with **Has celiac disease** and **Eats gluten**, then press Start. Over the first few simulated months, purple immune cells crowd into the lining, the villi shrink, and the absorption meter drops. Press **Run tests** once the villi look short: the blood test and biopsy both come back positive. Now switch the diet to **Gluten-free diet** and keep watching. The symptom meter falls fast, but the villi take much longer to grow back, and the antibody meter falls slowly.
 
-Here is the key experiment. Press Reset, let the villi shrink again, then switch to gluten-free *before* running the tests. Wait about a year and a half of simulated time and press **Run tests**. The tests may now come back negative, even though the person still has celiac disease. Finally, choose **Does not have celiac disease** and run either diet: the villi stay tall no matter what.
+Now try the key experiment. Press Reset, let the villi shrink again, then switch to gluten-free *before* running the tests. Wait about a year and a half of simulated time and press **Run tests**. The tests may now come back negative, even though the person still has celiac disease. Finally, choose **Does not have celiac disease** and run either diet: the villi stay tall no matter what.
 
 !!! model-limits "What this model leaves out"
     - Real villous damage is patchy and graded by pathologists on scales with several levels; the sim shows one smooth "height."
@@ -256,7 +256,7 @@ There's also the placebo and nocebo side. When people expect a food to make them
 
 !!! hype-preliminary "Hype Meter: "Many people who think they're gluten sensitive are really reacting to fructans""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
-    **Verdict: Preliminary.** Blinded studies point away from gluten for many people: in one double-blind crossover trial of 59 adults, fructan raised symptom scores while gluten matched placebo, and an earlier trial of 37 adults found gluten-specific effects in only 8%. But these are small, short studies of adults, results differ between trials, and other wheat components may matter for some people.
+    **Verdict: Preliminary.** Blinded studies point away from gluten for many people: in one double-blind crossover trial of 59 adults, symptom scores were highest with fructan (clearly higher than with gluten), while gluten matched placebo, and an earlier trial of 37 adults found gluten-specific effects in only 8%. But these are small, short studies of adults, results differ between trials, and other wheat components may matter for some people.
     **What would change the grade:** Larger blinded trials in several countries, including teens, that test gluten, fructans, and other wheat parts separately and find the same pattern would raise it to Moderate.
 
 The honest summary: NCGS is debated, not disproven. The symptoms are real; the trigger is uncertain, and for many people it may not be gluten. Because celiac disease must be ruled out first, and because diet changes have costs, the right path for anyone who suspects a wheat problem starts with a doctor.
@@ -328,7 +328,7 @@ None of this means food reactions are imaginary. It means the order matters: get
 
 **Treatment today:** A strict, lifelong gluten-free diet, taught by a registered dietitian, is the only proven treatment. Her team checks for and treats nutrient shortfalls such as low iron, monitors her growth, and rechecks her antibody levels over time. They also suggest that her close relatives talk to their doctors about testing.
 
-**What's new in research:** Scientists are testing medicines that might reduce damage from accidental gluten exposure. In a 2021 trial in the *New England Journal of Medicine*, Schuppan and colleagues gave 163 adults with well-controlled celiac disease either a placebo or an experimental pill (ZED1227) that blocks the tTG enzyme, while all of them ate a measured amount of gluten daily for 6 weeks. Biopsies showed less gluten-induced damage to the villi in the drug groups than in the placebo group. The trial was funded by the drug's developer. **Evidence grade: Preliminary.** It was a short, early trial in adults; the drug is experimental and is not an approved treatment, and it was tested as an add-on to the diet, not a replacement. As of September 2026, no medicine is FDA approved to treat celiac disease, though several are being tested in trials.
+**What's new in research:** Scientists are testing medicines that might reduce damage from accidental gluten exposure. In a 2021 trial in the *New England Journal of Medicine*, Schuppan and colleagues gave 163 adults with well-controlled celiac disease either a placebo or an experimental pill (ZED1227) that blocks the tTG enzyme, while all of them ate a measured amount of gluten daily for 6 weeks. Biopsies showed less gluten-induced damage to the villi in the drug groups than in the placebo group. The trial was funded by the drug's developer. **Evidence grade: Preliminary.** It was a short, early trial in adults; the drug is experimental and is not an approved treatment, and it was tested as an add-on to the diet, not a replacement. As of October 2026, no medicine is FDA approved to treat celiac disease, though several are being tested in trials.
 
 ??? question "Your turn: reason through a variation"
     Lucía's older brother, 17, has no symptoms, but after her diagnosis he decides to stop eating gluten "to be safe." Two months later, his doctor orders a tTG antibody test, and it is normal. Does this show he doesn't have celiac disease?
@@ -379,7 +379,7 @@ Test yourself. Try each one before you open the answer.
 | Placebo | 34.3 | 22 |
 
 ??? question "5. What does this data show, and what can't it show?"
-    On average, symptoms were highest during the fructan week, and the gluten week was no worse than placebo (33.1 vs 34.3). Notice that 22 people had their worst week on placebo, which shows how strongly expectation and day-to-day variation affect symptoms. The data can't show that *no one* reacts to gluten, since averages can hide a few true responders, and it can't be generalized to teens or other countries from 59 adults in Norway tested for one week per food. A useful follow-up would be a larger blinded trial, including teens, that repeats each challenge more than once per person to see whether individual reactions are consistent.
+    On average, symptoms were highest during the fructan week, and the gluten week was no worse than placebo (33.1 vs 34.3). The paper reports fructan as significantly worse than gluten; its gap over placebo (38.6 vs 34.3) was smaller. Notice that 22 people had their worst week on placebo, which shows how strongly expectation and day-to-day variation affect symptoms. The data can't show that *no one* reacts to gluten, since averages can hide a few true responders, and it can't be generalized to teens or other countries from 59 adults in Norway tested for one week per food. A useful follow-up would be a larger blinded trial, including teens, that repeats each challenge more than once per person to see whether individual reactions are consistent.
 
 ## Exercises
 

@@ -75,9 +75,13 @@ The **bacteria-to-human cell ratio** is the number of bacterial cells in a perso
 
 > A typical adult has roughly 38 trillion bacterial cells and 30 trillion human cells, about 1.3 to 1. The old "10 to 1" figure is wrong.
 
-Sender, Fuchs, and Milo published their estimate in 2016 in the journal *PLoS Biology*, using a "reference man," a standard 70-kilogram adult used in calculations. They estimated about 38 trillion bacteria (written \( 3.8 \times 10^{13} \)) and about 30 trillion human cells (\( 3.0 \times 10^{13} \)). They also found that all those bacteria weigh only about 0.2 kilograms in total, because bacterial cells are tiny.
+Sender, Fuchs, and Milo published [their full estimate](https://pubmed.ncbi.nlm.nih.gov/27541692/) in 2016 in the journal *PLoS Biology*, using a "reference man," a standard 70-kilogram adult used in calculations. They estimated about 38 trillion bacteria (written \( 3.8 \times 10^{13} \)) and about 30 trillion human cells (\( 3.0 \times 10^{13} \)). They also found that all those bacteria weigh only about 0.2 kilograms in total, because bacterial cells are tiny.
 
 $$ \frac{38 \text{ trillion bacteria}}{30 \text{ trillion human cells}} \approx 1.3 $$
+
+![Bar chart: a typical adult has about 38 trillion bacterial cells and about 30 trillion human cells, roughly 1.3 to 1](../../img/charts/ch03-bacteria-human-cells.png)
+
+*Source: Sender, Fuchs, and Milo 2016, PLOS Biology. Estimates for a reference adult (20 to 30 years old, about 70 kg); the old "10 to 1" figure is wrong.*
 
 Several details make this number more interesting than a single ratio:
 
@@ -144,7 +148,7 @@ A 2015 Swedish study by [Bäckhed and colleagues](https://pubmed.ncbi.nlm.nih.go
 
 Human milk contains something surprising: sugars the baby can't digest. **Human milk oligosaccharides** (HMOs) are a family of complex sugar molecules found in large amounts in human milk that the baby can't digest, which instead feed certain beneficial gut bacteria, such as *Bifidobacterium*. A 2012 review by [Lars Bode](https://pubmed.ncbi.nlm.nih.gov/22513036/) explains that HMOs were first discovered as a "bifidus factor," food for helpful bacteria. HMOs may also act as decoys that keep some pathogens from sticking to the gut lining. Bode is careful to note that most of that evidence comes from lab, animal, or association studies, and that randomized trials are needed to confirm the benefits in babies.
 
-So breast milk doesn't just feed the baby; it also feeds selected microbes. That's why exclusively breastfed babies tend to have a gut community dominated by a few milk-loving groups. A 2018 meta-analysis by [Ho and colleagues](https://pubmed.ncbi.nlm.nih.gov/30301893/), combining data from 684 infants in several countries, found that exclusively breastfed infants had *lower* diversity in their first 6 months than other infants. That's normal. Bäckhed's study also found that what most pushed the infant microbiome toward an adult-like state was stopping breastfeeding, more than starting solid food.
+So breast milk feeds the baby and also feeds selected microbes. That's why exclusively breastfed babies tend to have a gut community dominated by a few milk-loving groups. A 2018 meta-analysis by [Ho and colleagues](https://pubmed.ncbi.nlm.nih.gov/30301893/), combining data from 684 infants in several countries, found that exclusively breastfed infants had *lower* diversity in their first 6 months than other infants. That's normal. Bäckhed's study also found that what most pushed the infant microbiome toward an adult-like state was stopping breastfeeding, more than starting solid food.
 
 !!! hype-strong "Hype Meter: "C-section babies start life with different gut microbes""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
@@ -190,7 +194,7 @@ Antibiotics can also open the door to a dangerous opportunist. According to [the
 
 !!! hype-hype "Hype Meter: "One round of antibiotics ruins your microbiome forever""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
-    **Verdict: Hype (as stated).** Human studies show that antibiotics quickly reduce gut diversity, and that recovery can be incomplete, with a few species missing for months in some people. But the same studies show that most of the community regrows within weeks to a couple of months in healthy adults. "Ruins forever" turns a real, modest, long-lasting change into a scare, and it can push people to avoid antibiotics they truly need.
+    **Verdict: Hype (as stated).** Human studies show that antibiotics quickly reduce gut diversity, and that recovery can be incomplete, with a few species missing for months in some people. But the same studies show that most of the community regrows within weeks to a couple of months in healthy adults. "Ruins forever" turns a real, modest, long-lasting change into a scare, and it can push people to avoid antibiotics they need.
     **What would change the grade:** A careful version, "antibiotics can leave small, lasting changes in the gut microbiota," is well supported (Moderate to Strong). Long-term studies showing that those lasting changes harm health would strengthen the case for caution, which doctors already practice by prescribing antibiotics only when needed.
 
 !!! mascot-warning "Don't skip antibiotics you need"
@@ -240,7 +244,7 @@ Next, press **New person** and give the same antibiotic course. Does this person
 
 ## 3.10 Reading a Microbiome: 16S and Metagenomic Sequencing
 
-For most of the history of microbiology, scientists studied bacteria by growing them in dishes. But many gut microbes are anaerobes with picky needs, and they're hard to grow. A 2019 study by [Strandwitz and colleagues](https://pubmed.ncbi.nlm.nih.gov/30531975/) notes that an estimated 23 to 65% of species in the human gut have not yet been grown in the lab. So researchers turned to reading DNA instead.
+For most of the history of microbiology, scientists studied bacteria by growing them in dishes. But many gut microbes are anaerobes with picky needs, and they're hard to grow. A 2019 study by [Strandwitz and colleagues](https://pubmed.ncbi.nlm.nih.gov/30531975/) noted that, at the time, an estimated 23 to 65% of species in the human gut had never been grown in the lab. So researchers turned to reading DNA instead.
 
 There are two main approaches, and you'll see both in research papers.
 
@@ -268,7 +272,7 @@ This brings us back to Sam's cousin and the home gut test kit. These tests usual
 
 You'll often read that a disease is linked to "dysbiosis." **Dysbiosis** is a term for a change in the gut microbiota away from its usual makeup that is thought to be harmful, such as lower diversity, loss of beneficial groups, or overgrowth of potentially harmful ones. It's a useful word, but scientists warn that it's slippery.
 
-The problem is in the definition. To say a microbiome has gone "wrong," you need to know what "right" looks like. **Defining a healthy microbiome** is the scientific challenge of identifying which features of a gut microbial community reliably support health, and what their normal ranges are, given that healthy people's microbiomes differ greatly. A 2016 review by [Lloyd-Price, Abu-Ali, and Huttenhower](https://pubmed.ncbi.nlm.nih.gov/27122046/) describes cataloguing the features of the microbiome that support health as an essential first step that is still underway. In other words, as of now there is no single "healthy microbiome," and two healthy people can have very different communities, just like two healthy rainforests.
+The problem is in the definition. To say a microbiome has gone "wrong," you need to know what "right" looks like. **Defining a healthy microbiome** is the scientific challenge of identifying which features of a gut microbial community reliably support health, and what their normal ranges are, given that healthy people's microbiomes differ greatly. A 2016 review by [Lloyd-Price, Abu-Ali, and Huttenhower](https://pubmed.ncbi.nlm.nih.gov/27122046/) describes cataloguing the features of the microbiome that support health as an essential first step that is still underway. So far, no one has defined a single "healthy microbiome," and two healthy people can have very different communities, just like two healthy rainforests.
 
 A 2020 essay by [Harald Brüssow](https://pubmed.ncbi.nlm.nih.gov/31448542/) lists more problems. Many studies that compare people with a disease to people without it are too small, and some reported "dysbiosis" patterns don't repeat in other studies. Even the most advanced statistics explain only a small share of why microbiomes differ between people. And there's a circular trap: if we define dysbiosis as "the microbiome people with this disease have," we can't then use dysbiosis to explain the disease.
 

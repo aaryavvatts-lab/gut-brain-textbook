@@ -18,6 +18,24 @@ Your gut has its own network of hundreds of millions of neurons, trillions of mi
     ![Vee the vagus nerve waving hello](img/mascot/welcome.png){ class="mascot-admonition-img" }
     I'm a cartoon vagus nerve, the long nerve that carries messages between your gut and your brainstem. Most of my real-life fibers carry news *up* from the gut, so I hear a lot of gossip from down there. Let's check what the gut is really telling the brain!
 
+## Five ways your gut talks to your brain
+
+The gut and brain stay in touch through several routes at once. Each one has its own chapter.
+
+```mermaid
+flowchart LR
+    G["Gut wall<br/>(enteric nervous system)"]
+    B["Brain"]
+    G -- "1. Vagus nerve (Ch. 2)" --> B
+    G -- "2. Spinal nerves: pain and stretch (Ch. 8)" --> B
+    G -- "3. Gut hormones such as GLP-1 (Ch. 2)" --> B
+    G -- "4. Immune messengers: cytokines (Ch. 4)" --> B
+    G -- "5. Microbe-made chemicals such as short-chain fatty acids (Ch. 6)" --> B
+    B -- "Stress hormones and nerve signals back down (Ch. 7)" --> G
+```
+
+The arrows run both ways, which is why stress can upset your stomach and a flare can change your mood. The strength of the evidence differs a lot between routes; the [Hype Meter](hype-meter.md) shows which links are solid in people and which come mostly from mice.
+
 ## What makes this book different
 
 <div class="grid cards" markdown>
@@ -53,10 +71,10 @@ Your gut has its own network of hundreds of millions of neurons, trillions of mi
 - **New to the topic?** Begin with [Chapter 1: The Brain in Your Belly](chapters/01-brain-in-your-belly/index.md).
 - **Living with Crohn's, colitis, IBS, or celiac disease?** Start with [Chapter 9](chapters/09-inflammatory-bowel-disease/index.md), [Chapter 10](chapters/10-ibs-and-dgbi/index.md), or [Chapter 12](chapters/12-celiac-and-food-reactions/index.md), and see [Questions to Ask Your Doctor](appendices/questions-for-your-doctor.md).
 - **Here for the mental-health side?** Read [Chapter 11: Anxiety, Depression, and the Gut](chapters/11-anxiety-depression-gut/index.md).
-- **Tired of wellness hype?** Learn [how the Hype Meter works](hype-meter.md), then jump to [Chapter 20: Be Your Own Scientist](chapters/20-be-your-own-scientist/index.md).
+- **Tired of wellness hype?** Learn [how the Hype Meter works](hype-meter.md), search every graded claim in the [Claim Explorer](claims-explorer.md), then jump to [Chapter 20: Be Your Own Scientist](chapters/20-be-your-own-scientist/index.md).
 - **A parent, sibling, or friend?** See [For Families](for-families.md).
 - **Teaching or running a club?** See [For Teachers](teachers.md), the [Club Kit](club-kit.md), and the [PDF downloads](downloads.md).
-- **Want to know how accurate it is?** Read [Accuracy and Corrections](accuracy.md).
+- **Want to know how it was made and checked?** Read [How This Book Was Made](methods.md) and [Accuracy and Corrections](accuracy.md).
 
 ## What's inside
 

@@ -820,7 +820,7 @@ In July 2025, the FDA approved implanted vagus nerve stimulation for which addit
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **D**. Implanted VNS is FDA approved for drug-resistant partial-onset epilepsy (1997, add-on), treatment-resistant depression in adults (2005, add-on), and, as the SetPoint System, moderate to severe rheumatoid arthritis in adults (July 30, 2025). It is not approved for Crohn's disease, IBS, or anxiety.
+    The correct answer is **D**. Implanted VNS is FDA approved for drug-resistant partial-onset epilepsy (1997, add-on), treatment-resistant depression in adults (2005, add-on), as the Vivistim System, arm-movement rehabilitation after stroke (August 27, 2021), and, as the SetPoint System, moderate to severe rheumatoid arthritis in adults (July 30, 2025). It is not approved for Crohn's disease, IBS, or anxiety.
 
     **Chapter:** [Chapter 17: Medicine for the Gut-Brain Axis](../chapters/17-medicine-gut-brain-axis/index.md)
     **Bloom's Level:** Remember

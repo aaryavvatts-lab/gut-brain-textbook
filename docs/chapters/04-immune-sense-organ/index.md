@@ -165,7 +165,7 @@ Dantzer's review also explains that pro-inflammatory cytokines drive the whole-b
 | Interleukin-6 (IL-6) | Immune cells during inflammation | Fever, liver's acute phase response (including CRP) | Common blood marker in human mood studies |
 | Tumor necrosis factor (TNF) | Macrophages and other immune cells | Drives and sustains inflammation in tissues | Target of anti-TNF drugs for Crohn's disease |
 
-The key point for the gut-brain axis: these messengers don't stay at the scene. Dantzer's review explains that cytokines made in the body also act on the brain to cause the behavioral symptoms of sickness. So how does a protein made in your gut wall get its message into your head?
+For the gut-brain axis, what matters is that these messengers don't stay at the scene. Dantzer's review explains that cytokines made in the body also act on the brain to cause the behavioral symptoms of sickness. So how does a protein made in your gut wall get its message into your head?
 
 ## 4.8 How Immune Messages Reach the Brain
 
@@ -200,7 +200,7 @@ flowchart LR
 
 ### The brain talks back
 
-The conversation runs both ways. In 2002, [Kevin Tracey](https://pubmed.ncbi.nlm.nih.gov/12490958/) described what he called the "inflammatory reflex" in the journal *Nature*. In animal experiments, signals traveling down the vagus nerve reduced the release of pro-inflammatory cytokines, meaning the nervous system can turn inflammation down in real time. In 2025, the FDA approved an implanted vagus nerve stimulator, [the SetPoint System](https://www.accessdata.fda.gov/cdrh_docs/pdf24/P240039B.pdf), for adults with moderate to severe rheumatoid arthritis who didn't respond to biologic or targeted drugs. It is not approved for Crohn's disease, IBS, or anxiety.
+The conversation runs both ways. In 2002, [Kevin Tracey](https://pubmed.ncbi.nlm.nih.gov/12490958/) described what he called the "inflammatory reflex" in the journal *Nature*. In animal experiments, signals traveling down the vagus nerve reduced the release of pro-inflammatory cytokines, meaning the nervous system can turn inflammation down in real time. On July 30, 2025, the FDA approved an implanted vagus nerve stimulator, [the SetPoint System](https://www.accessdata.fda.gov/cdrh_docs/pdf24/P240039B.pdf), for adults with moderate to severe rheumatoid arthritis who didn't respond to biologic or targeted drugs. It is not approved for Crohn's disease, IBS, or anxiety.
 
 ## 4.9 The Brain's Own Immune Cells: Microglia
 
@@ -282,7 +282,7 @@ Think of a microphone placed too close to a speaker. A small sound goes into the
 
 Put these together and you get a loop: gut inflammation raises cytokines, cytokines worsen sleep and mood, and poor sleep and stress may push inflammation a little higher.
 
-The good news is that loops have more than one place to intervene. Treating gut inflammation is the biggest lever for someone like Riya, but better sleep or stress management might also loosen the loop, which is part of why care teams look at the whole person. The simulation below lets you play with a simplified version.
+A loop also has more than one place where it can be broken. Treating gut inflammation is the biggest lever for someone like Riya, but better sleep or stress management might also loosen the loop, which is part of why care teams look at the whole person. The simulation below lets you play with a simplified version.
 
 #### Diagram: Cytokine Feedback Loop
 <iframe src="../../sims/ch04-cytokine-feedback-loop/main.html" height="612px" width="100%" scrolling="no"></iframe>
@@ -338,12 +338,12 @@ Finally, try the link menu (it starts on **No link broken**). Treating gut infla
 
 **Treatment today:** For most healthy teens, care for the flu means rest, fluids, and treatment for fever and aches as advised by the doctor or pharmacist. [The CDC](https://www.cdc.gov/flu/treatment/index.html) explains that prescription antiviral medicines work best when started within two days after symptoms begin, and doctors decide who should get them, especially people at higher risk.
 
-**What's new in research:** Scientists are testing whether the vagus nerve's inflammatory reflex can be used to treat inflammatory gut disease. In a 2016 pilot study by [Bonaz and colleagues](https://pubmed.ncbi.nlm.nih.gov/26920654/), 7 adults with active Crohn's disease received an implanted vagus nerve stimulator; 2 were withdrawn because their disease worsened, and 5 improved toward remission over 6 months. **Evidence grade: Preliminary.** The study was tiny and had no comparison group, and vagus nerve stimulation is not approved for Crohn's disease.
+**What's new in research:** Scientists are testing whether the vagus nerve's inflammatory reflex can be used to treat inflammatory gut disease. In a 2016 pilot study by [Bonaz and colleagues](https://pubmed.ncbi.nlm.nih.gov/26920654/), 7 adults with active Crohn's disease received an implanted vagus nerve stimulator; 2 were withdrawn because their disease worsened, and 5 improved toward remission over 6 months. A larger follow-up by [D'Haens and colleagues](https://pubmed.ncbi.nlm.nih.gov/37738465/), published in 2023, implanted stimulators in 17 adults with moderate to severe Crohn's disease that biologic drugs had not controlled; in the 16 who were treated, disease activity scores and a stool marker of gut inflammation (fecal calprotectin) fell over 16 weeks. **Evidence grade: Preliminary.** Both studies were small and open-label (everyone knew they were getting the device) with no comparison group, and as of October 2026 vagus nerve stimulation is not approved for Crohn's disease.
 
 ??? question "Your turn: reason through a variation"
     Three weeks later, Riya has a Crohn's flare. She feels tired, has no appetite, and her mood is low, much like Maya with the flu. But her flare lasts weeks, and even after her gut symptoms improve, some tiredness hangs on. Using this chapter, explain what is similar and what is different between the two cases.
 
-    **Answer:** Both involve the same basic pathway: inflammation releases cytokines that signal the brain and produce sickness behavior. The difference is time and source. Maya's inflammation comes from a short virus infection that clears; Riya's comes from her own immune system attacking her gut, which can last longer and return. Longer immune signaling may deepen fatigue and low mood, and after the flare, other parts of the loop (poor sleep, stress, worry about the next flare, anemia) can keep fatigue going. That's why Riya should tell Dr. Alvarez about lingering tiredness, so her care team can look for causes like anemia, poor sleep, or low mood that can be treated.
+    **Answer:** Both involve the same basic pathway: inflammation releases cytokines that signal the brain and produce sickness behavior. The difference is time and source. Maya's inflammation comes from a short virus infection that clears; Riya's comes from her own immune system overreacting in her gut, which can last longer and return. Longer immune signaling may deepen fatigue and low mood, and after the flare, other parts of the loop (poor sleep, stress, worry about the next flare, anemia) can keep fatigue going. That's why Riya should tell Dr. Alvarez about lingering tiredness, so her care team can look for causes like anemia, poor sleep, or low mood that can be treated.
 
 *This is a fictional teaching case. It is not medical advice. If you or someone you know has symptoms like these, talk to a doctor.*
 
@@ -380,7 +380,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "4. Apply: A 17-year-old with ulcerative colitis says, 'My gut is calm now, so why am I still exhausted? I must be lazy.' Using the feedback loop and the fatigue data in this chapter, what would you tell them?"
     Fatigue is common even in remission: in the 2022 meta-analysis, about 47% of adults with IBD in remission reported it. Other parts of the loop, such as poor sleep, stress, low mood, and anemia, can keep fatigue going after inflammation settles. That doesn't mean laziness. The best step is to tell their care team, who can check for treatable causes like anemia, sleep problems, or depression.
 
-**5. Read the data.** In the 2013 infliximab trial (Raison et al., *JAMA Psychiatry*), researchers looked at people who started with high inflammation (CRP above 5 mg/L) and counted how many had at least a 50% drop in depression scores:
+**5. Read the data.** In the 2013 infliximab trial (Raison et al., *JAMA Psychiatry*), researchers looked at people who started with high inflammation (CRP above 5 mg/L) and counted how many had at least a 50% drop in depression scores at any point during treatment:
 
 | Group (high CRP only) | People | Responded | Response rate |
 |---|---|---|---|

@@ -166,7 +166,7 @@ Maya, a fictional 16-year-old, reads that a Mediterranean diet helps depression 
 The SMILES trial found remission in 32.3% of the diet group versus 8.0% of the social support group, while the much larger PREDIMED trial found no significant overall effect of a Mediterranean diet on new depression. Which analysis best explains how both can be true?
 
 <div class="upper-alpha" markdown>
-1. PREDIMED must have been fraudulent.
+1. PREDIMED must have measured depression the wrong way.
 2. SMILES proves diet cures depression, so PREDIMED can be ignored.
 3. Both trials studied the same people in the same way, so they should agree exactly.
 4. They asked different questions in different people: SMILES treated adults already depressed for 12 weeks, while PREDIMED tried to prevent new depression in older adults at high heart risk.

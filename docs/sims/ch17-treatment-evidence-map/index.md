@@ -20,7 +20,7 @@ Headlines often blur the line between a treatment that is FDA approved, one that
 - **Experimental (still being tested):** studied in people, but the evidence isn't strong enough for approval or routine use.
 - **Unproven or unsafe:** no good evidence for the claim, or known to carry serious risk.
 
-After each choice, a feedback panel tells you whether you were right and gives a one-sentence reason drawn from the chapter's sources. The same technology can land in different bins: vagus nerve stimulation is approved for epilepsy, depression, and rheumatoid arthritis, but experimental for Crohn's disease. Statuses are for the United States as of October 2026.
+After each choice, a feedback panel tells you whether you were right and gives a one-sentence reason drawn from the chapter's sources. The same technology can land in different bins: vagus nerve stimulation is approved for epilepsy, depression, arm-movement rehabilitation after stroke, and rheumatoid arthritis, but experimental for Crohn's disease. Statuses are for the United States as of October 2026.
 
 ## How to Use
 

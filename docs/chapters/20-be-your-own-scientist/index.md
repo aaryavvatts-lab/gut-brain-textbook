@@ -206,7 +206,7 @@ Here is the ECOSPOR III trial run through the six questions:
 !!! claim-box "How to read a gut-brain claim: the ECOSPOR III microbiome pill trial"
     | Question | This study |
     |---|---|
-    | Mouse or human? | Human. 182 adults who had had at least three episodes of C. diff infection, each treated with standard antibiotics first. |
+    | Mouse or human? | Human. 182 adults who had had at least three episodes of C. diff infection (counting the current one), whose symptoms had cleared after standard antibiotics. |
     | Correlation or cause? | Cause. It was a randomized, double-blind, placebo-controlled phase 3 trial, the strongest single-study design for testing a treatment. |
     | How many? | 182 enrolled (281 were screened). Large enough to show a big difference, but rare side effects need larger numbers to detect. |
     | How long? | The main outcome was recurrence within 8 weeks. It doesn't show how people did years later. |
@@ -286,7 +286,7 @@ Here are the book's grades for some of the most common claims from earlier chapt
 | "Gut-directed hypnotherapy can ease IBS symptoms." | Moderate | A [2020 analysis](https://pubmed.ncbi.nlm.nih.gov/32276950/) of 41 trials of psychological therapies found benefit, but many had a high risk of bias | [18](../18-sleep-exercise-therapy/index.md) |
 | "Poor sleep is linked to later Crohn's flares." | Preliminary | One large patient study found a link; it needs repeating, and cause is not proven | [18](../18-sleep-exercise-therapy/index.md) |
 | "Probiotics treat depression." | Preliminary | Mixed results: one questionnaire out of four improved in a 2024 review | [16](../16-probiotics-psychobiotics/index.md) |
-| "Vagus nerve stimulation can calm Crohn's disease." | Preliminary | One pilot study of 7 patients; not approved for Crohn's | [17](../17-medicine-gut-brain-axis/index.md) |
+| "Vagus nerve stimulation can calm Crohn's disease." | Preliminary | Only small open-label studies (7 and 16 patients) with no comparison group; not approved for Crohn's | [17](../17-medicine-gut-brain-axis/index.md) |
 | "70% of your immune system lives in your gut." | Hype | About 70% of antibody-making plasma cells, but only about 3% of all immune cells | [4](../04-immune-sense-organ/index.md) |
 | "Leaky gut causes autism." | Hype | No human evidence of cause; autism is a neurodevelopmental difference, not a gut disease | [13](../13-autism-adhd-gut/index.md) |
 

@@ -78,7 +78,7 @@ Why does carrying the HLA-DQ2 or HLA-DQ8 gene variant NOT mean a person has celi
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **C**. The variants are necessary for celiac disease (nearly everyone with it has one), but they are not sufficient: about 30% of people carry them and only about 3% of carriers develop the disease. That's why a negative gene test helps rule celiac disease out, but a positive one can't rule it in. Option A is wrong because the test reliably detects the variants; the issue is what they mean.
+    The correct answer is **C**. The variants are almost always needed for celiac disease (nearly everyone with it has one), but they are not sufficient: about 30% of people carry them and only about 3% of carriers develop the disease. That's why a negative gene test helps rule celiac disease out, but a positive one can't rule it in. Option A is wrong because the test reliably detects the variants; the issue is what they mean.
 
     **Concept Tested:** HLA-DQ2 and HLA-DQ8
     **Bloom's Level:** Understand

@@ -1646,7 +1646,7 @@ A medicine that dampens the immune system's activity more slowly and steadily, u
 
 A small pulse generator placed under the skin by a surgeon and connected to the vagus nerve in the neck, which delivers programmed electrical pulses on a schedule.
 
-**Example:** Implanted VNS devices are FDA approved for drug-resistant partial-onset epilepsy (1997), treatment-resistant depression in adults (2005), and, with the SetPoint System, moderate to severe rheumatoid arthritis in adults (July 30, 2025).
+**Example:** Implanted VNS devices are FDA approved for drug-resistant partial-onset epilepsy (1997), treatment-resistant depression in adults (2005), with the Vivistim System, arm-movement rehabilitation after stroke (2021), and, with the SetPoint System, moderate to severe rheumatoid arthritis in adults (July 30, 2025).
 
 **See also:** [Vagus Nerve Stimulation](#vagus-nerve-stimulation), [Bioelectronic Medicine](#bioelectronic-medicine)
 

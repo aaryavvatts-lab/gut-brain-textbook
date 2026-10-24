@@ -51,7 +51,7 @@ Both of them are asking a sharp scientific question. A link between food and moo
 
 ## 15.2 Thinking in Patterns, Not Single Foods
 
-Here's an everyday comparison. If you wanted to know whether a soccer team is good, you wouldn't judge it by one player or one game. You'd look at how the whole team plays over a season. Nutrition researchers have learned to think the same way about food.
+Start with an everyday comparison. If you wanted to know whether a soccer team is good, you wouldn't judge it by one player or one game. You'd look at how the whole team plays over a season. Nutrition researchers have learned to think the same way about food.
 
 People don't eat single nutrients in isolation. They eat meals, made of many foods, in combinations that repeat over weeks and years. A **dietary pattern** is the overall combination of foods and drinks a person usually eats over time, studied as a whole instead of one food or nutrient at a time. Studying patterns helps because foods come in bundles. Someone who eats a lot of beans probably also eats differently in other ways, so looking at beans alone could be misleading.
 
@@ -113,7 +113,7 @@ Now for the most important tool in the chapter. Suppose you want to know whether
 
 **Way 2: Change one thing on purpose.** Take a group of people and use chance, like a coin flip, to decide who gets diet coaching and who doesn't. A **randomized controlled trial** (RCT) is an experiment in which participants are randomly assigned to receive a treatment or a comparison condition, so the groups start out alike on average, and any difference at the end can be credited to the treatment. Randomization is powerful because, on average, it balances everything, including things researchers didn't think to measure. In a small trial, chance can still leave the groups somewhat different.
 
-Here's why that matters so much in nutrition. In an observational study, people who eat differently also tend to live differently. Three traps show up again and again.
+This matters a lot in nutrition, because in an observational study, people who eat differently also tend to live differently. Three traps show up again and again.
 
 **Trap 1: Confounding.** A confounding variable is a hidden third factor that affects both the thing you think is the cause and the outcome. Money is a classic example: families with more money can usually afford more fresh food **and** have less financial stress, which affects mood. Diet and mood would be linked even if food itself did nothing.
 
@@ -167,9 +167,13 @@ To get closer to cause, researchers need randomized trials. There aren't many, a
 
 The **SMILES trial** (Supporting the Modification of lifestyle In Lowered Emotional States) was a 12-week randomized controlled trial, published in 2017 by [Felice Jacka and colleagues](https://pubmed.ncbi.nlm.nih.gov/28137247/) in Australia, that tested whether dietitian support toward a Mediterranean-style diet improved symptoms in adults with moderate to severe depression.
 
-Here's how it worked. The researchers enrolled 67 adults with moderate to severe depression and randomly assigned them to one of two groups. One group (33 people) had seven sessions with a clinical dietitian, who helped them shift toward the 12 food groups described in Section 15.3. The comparison group (34 people) got "social support": friendly sessions with a trained person, on the same schedule and for the same length of time, but with no diet advice. Most participants (55 of 67) were already getting therapy, medication, or both, so diet support was an **add-on**, not a replacement for treatment.
+The researchers enrolled 67 adults with moderate to severe depression and randomly assigned them to one of two groups. One group (33 people) had seven sessions with a clinical dietitian, who helped them shift toward the 12 food groups described in Section 15.3. The comparison group (34 people) got "social support": friendly sessions with a trained person, on the same schedule and for the same length of time, but with no diet advice. Most participants (55 of 67) were already getting therapy, medication, or both, so diet support was an **add-on**, not a replacement for treatment.
 
 The results: among people who had complete data at 12 weeks (31 in the diet group and 25 in the social support group), depression scores improved more in the diet group. Remission, meaning symptoms low enough to count as no longer depressed on the rating scale, happened in **32.3%** of the diet group (10 of 31) versus **8.0%** of the social support group (2 of 25).
+
+![Bar chart: in the SMILES trial, 32.3% of the diet-support group reached remission after 12 weeks, compared with 8.0% of the social-support group](../../img/charts/ch15-smiles.png)
+
+*Source: Jacka et al. 2017, BMC Medicine. 67 adults were randomized; percentages are among the 56 who finished (31 and 25), and participants knew which group they were in.*
 
 !!! claim-box "How to read a gut-brain claim: the SMILES trial"
     | Question | This study |
@@ -185,11 +189,11 @@ The conclusion: SMILES is a promising, carefully designed early trial, and its r
 
 ### Other trials
 
-Here's what came next, from smallest to largest.
+Three other studies help put SMILES in context.
 
 - **HELFIMED (2019).** [Parletta and colleagues](https://pubmed.ncbi.nlm.nih.gov/29215971/) recruited 152 adults with self-reported depression. One group got food hampers and Mediterranean-style cooking workshops for 3 months, plus fish oil supplements for 6 months; the other attended social groups. The diet group had a greater drop in depression at 3 months. But only 95 people completed the 3-month check, and because the diet came with fish oil, you can't credit the result to food alone.
 - **Firth and colleagues' meta-analysis (2019).** This combined [16 randomized trials](https://pubmed.ncbi.nlm.nih.gov/30720698/) with 45,826 participants, mostly people without diagnosed depression. Diet-improvement programs reduced depressive symptoms by a small amount (an effect size of about 0.16, where 0.2 is usually called "small") but did not significantly reduce anxiety.
-- **PREDIMED (2013).** In a [large Spanish heart-health trial](https://pubmed.ncbi.nlm.nih.gov/24229349/) of 3,923 older adults (ages 55 to 80) at high risk of heart disease, a Mediterranean diet with extra nuts did **not** significantly lower the overall risk of new depression compared with a low-fat diet. A benefit showed up only in the subgroup with type 2 diabetes, an exploratory finding in older adults, not teens.
+- **PREDIMED (2013).** In a [large Spanish heart-health trial](https://pubmed.ncbi.nlm.nih.gov/24229349/) of 3,923 older adults (ages 55 to 80) at high risk of heart disease, a Mediterranean diet with extra nuts did **not** significantly lower the overall risk of new depression compared with a low-fat diet. A benefit showed up only in the subgroup with type 2 diabetes, an exploratory finding in older adults, not teens. (PREDIMED's main 2013 heart-disease paper was [retracted and republished in 2018](https://pubmed.ncbi.nlm.nih.gov/29897866/) after problems were found with how some participants were randomized. This depression analysis comes from the same trial, so treat its subgroup result with extra caution.)
 
 !!! hype-preliminary "Hype Meter: "Eating a Mediterranean diet treats depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
@@ -256,7 +260,7 @@ There's one more reason this book is careful about food advice. Diet messages, e
 
 **Eating disorder risk** refers to the chance of developing an eating disorder, a serious illness marked by severe disturbances in eating behaviors, thoughts, and feelings about food; strict food rules, cutting out whole food groups, or intense focus on eating "perfectly" can be warning signs. [The National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/health/topics/eating-disorders) describes eating disorders as serious and sometimes life-threatening illnesses, and it stresses that they can be treated successfully and that early detection and treatment are important for recovery.
 
-Here's why that connects to this chapter. A headline that says "this food causes depression" can sound like a rule: never eat it. A teen who is already anxious might start cutting out more and more foods, hoping to feel better. That's the opposite of what the evidence supports. The trials in this chapter **added** variety and support; none of them tested cutting out food groups to improve mood. People with gut conditions face extra risk here, because they sometimes need medically supervised diets (like celiac disease's gluten-free diet), and the line between "medically needed" and "self-imposed" restriction can blur.
+This connects directly to the chapter. A headline that says "this food causes depression" can sound like a rule: never eat it. A teen who is already anxious might start cutting out more and more foods, hoping to feel better. That's the opposite of what the evidence supports. The trials in this chapter **added** variety and support; none of them tested cutting out food groups to improve mood. People with gut conditions face extra risk here, because they sometimes need medically supervised diets (like celiac disease's gluten-free diet), and the line between "medically needed" and "self-imposed" restriction can blur.
 
 !!! mascot-warning "Don't turn a headline into a food rule"
     ![Vee warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }

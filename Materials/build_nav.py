@@ -18,7 +18,7 @@ assert "{{" not in s, re.findall(r"{{\w+}}", s)
 
 def q(t): return '"' + t.replace('"', '\\"') + '"'
 lines = ["nav:", "  - Home: index.md", "  - About This Book: about.md", "  - How to Use This Book: how-to-use.md",
-         "  - The Hype Meter: hype-meter.md", "  - For Families: for-families.md", "  - For Teachers: teachers.md",
+         "  - The Hype Meter: hype-meter.md", "  - Claim Explorer (open dataset): claims-explorer.md", "  - For Families: for-families.md", "  - For Teachers: teachers.md",
          "  - Downloads (PDF): downloads.md", "  - Course Description: course-description.md",
          "  - Chapters:", "      - List of Chapters: chapters/index.md"]
 part = None
@@ -43,7 +43,7 @@ lines += ["      - Learning Graph Viewer: sims/graph-viewer/index.md",
           "      - G. Corrections and Review Log: accuracy.md",
           "  - Learning Graph:", "      - Introduction: learning-graph/index.md",
           "      - Quality Metrics: learning-graph/quality-metrics.md", "      - Taxonomy Distribution: learning-graph/taxonomy-distribution.md", "      - Book Metrics: learning-graph/book-metrics.md", "      - Chapter Metrics: learning-graph/chapter-metrics.md",
-          "  - FAQ: faq.md", "  - Roadmap: roadmap.md", "  - How to Cite: how-to-cite.md",
+          "  - FAQ: faq.md", "  - How This Book Was Made: methods.md", "  - Impact and Reviews: impact.md", "  - Roadmap: roadmap.md", "  - How to Cite: how-to-cite.md",
           "  - License: license.md", "  - Contact: contact.md"]
 s = re.sub(r"^nav:\n(?:(?:  |#).*\n|\s*\n)*?(?=^theme:)", "\n".join(lines) + "\n\n", s, flags=re.M)
 open("mkdocs.yml", "w").write(s)

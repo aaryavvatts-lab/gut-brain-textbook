@@ -99,6 +99,10 @@ Here is the most important meta-analysis for this chapter. In 2021, [Barberio an
 - People with **active IBD** (a flare) had higher rates than people with inactive disease: anxiety symptoms 57.6% vs 38.1%, and depression symptoms 38.9% vs 24.2%. (These active-versus-inactive numbers come from a smaller subset of the studies.)
 - People with Crohn's disease had slightly higher odds of both than people with ulcerative colitis, and women had higher rates of anxiety symptoms than men.
 
+![Bar chart: among adults with IBD, anxiety symptoms were reported by 57.6% during active disease versus 38.1% during inactive disease, and depression symptoms by 38.9% versus 24.2%](../../img/charts/ch11-ibd-mood.png)
+
+*Source: Barberio et al. 2021, Lancet Gastroenterology & Hepatology (meta-analysis of 77 studies). Symptom questionnaires, not diagnoses; the active-versus-inactive numbers come from a subset of the studies.*
+
 These are symptom questionnaires, not diagnoses, and they come from adults. For IBS, a 2019 meta-analysis by [Zamani and colleagues](https://pubmed.ncbi.nlm.nih.gov/31157418/) found anxiety symptoms in 39.1% and depression symptoms in 28.8% of people with IBS, about three times the odds seen in healthy people.
 
 What about teens? A 2018 meta-analysis by [Stapersma and colleagues](https://pubmed.ncbi.nlm.nih.gov/29984495/) pooled 28 studies of 8,107 children and teens with IBD (average age 14.3). It found anxiety symptoms in about 16.4% and depressive symptoms in about 15.0%, with lower rates of diagnosed anxiety disorders (4.2%) and depressive disorders (3.4%). These are lower than the adult numbers, but the authors warn that the studies used different questionnaires and cutoffs, so the figures should be read with caution. Studies with more active disease had higher rates of depressive symptoms, the same pattern seen in adults.
@@ -159,7 +163,7 @@ The authors concluded that the brain and gut interact in both directions in thes
 
 **A 2-year study of IBD in England.** In 2018, [Gracie and colleagues](https://pubmed.ncbi.nlm.nih.gov/29366841/) followed 405 adults with Crohn's disease or ulcerative colitis for at least two years, measuring anxiety and depression with a questionnaire and tracking flares, steroid prescriptions, hospital stays, and changes in treatment.
 
-- People whose IBD was **active** at the start were almost six times as likely to develop abnormal anxiety scores later (a hazard ratio of 5.77, meaning their risk was about 5.77 times higher over the follow-up).
+- People whose IBD was **active** at the start were almost six times as likely to develop abnormal anxiety scores later (a hazard ratio of 5.77, meaning their risk was about 5.77 times higher over the follow-up). That estimate is rough, though: the range of likely values ran from about 2 to 18 times higher.
 - Among people whose IBD was **quiet** at the start, those with abnormal anxiety scores were about twice as likely to later need steroids or have a flare (hazard ratio 2.08), and more likely to need their treatment stepped up.
 
 These links held even when the researchers used a stool test of gut inflammation to confirm that the disease was truly quiet at the start. Again, it's a cohort study, so confounders can't be completely ruled out, but it's strong evidence that in IBD, gut activity and mood each predict changes in the other.
@@ -274,7 +278,7 @@ For people with IBD, treating inflammation is important for many reasons, but st
 
 ## 11.11 Getting Help
 
-Knowing that gut conditions and mood are linked matters most if it helps people get care. Here are the last three ideas of the chapter.
+Knowing that gut conditions and mood are linked matters most if it helps people get care. The last three ideas of the chapter are about exactly that.
 
 ### Asking for help
 
@@ -295,7 +299,7 @@ NIMH's guide for teens suggests talking to a trusted adult, such as a parent, te
 
 What's the evidence? In 2023, [Riggott and colleagues](https://pubmed.ncbi.nlm.nih.gov/37543040/) (the same Leeds research group behind the Gracie studies) updated their [earlier 2017 analysis](https://pubmed.ncbi.nlm.nih.gov/28404134/) and pooled 25 randomized trials of psychological therapy in people with IBD aged 16 and up. In people whose disease was quiet, therapy lowered anxiety, depression, and stress scores and improved quality of life by small amounts at the end of treatment, and a small benefit for depression scores lasted to the end of follow-up. But therapy didn't change disease activity or prevent flares, and all 25 trials had a high risk of bias. Benefits were largest in trials that enrolled people who were already struggling with their mood, fatigue, or quality of life.
 
-A [2025 Cochrane review](https://pubmed.ncbi.nlm.nih.gov/40243391/) of 48 trials reached a similar conclusion: in adults, psychological care probably improves mood and quality of life slightly, with little to no effect on disease activity. In other words, therapy helps some people's mood and quality of life, but it isn't a treatment for the inflammation itself.
+A [2025 Cochrane review](https://pubmed.ncbi.nlm.nih.gov/40243391/) of 48 trials reached a similar conclusion: in adults, psychological care probably improves mood and quality of life slightly, and it may have little to no effect on disease activity. In other words, therapy helps some people's mood and quality of life, but it isn't a treatment for the inflammation itself.
 
 Barberio's 2021 meta-analysis and Gracie's 2018 cohort study both concluded that people with IBD should be checked for anxiety and depression as part of routine care.
 

@@ -135,7 +135,7 @@ Marcus, 15, sees an ad: "Our ear-clip vagus stimulator is backed by the same sci
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **A**. Approval is always for a specific device and use; implanted VNS is approved for epilepsy, treatment-resistant depression, and rheumatoid arthritis, not anxiety. A 2021 meta-analysis also found ear stimulation didn't change a heart-rate sign of vagus activity in healthy people. Option D overcorrects, since several VNS devices are approved or cleared for specific conditions.
+    The correct answer is **A**. Approval is always for a specific device and use; implanted VNS is approved for epilepsy, treatment-resistant depression, arm-movement rehabilitation after stroke (the Vivistim System), and rheumatoid arthritis, not anxiety. A 2021 meta-analysis also found ear stimulation didn't change a heart-rate sign of vagus activity in healthy people. Option D overcorrects, since several VNS devices are approved or cleared for specific conditions.
 
     **Concept Tested:** Consumer Wellness Device
     **Bloom's Level:** Apply

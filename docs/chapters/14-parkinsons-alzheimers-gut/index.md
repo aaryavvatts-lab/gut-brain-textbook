@@ -40,7 +40,7 @@ Parkinson's disease is best known for tremor and slow movement, but many people 
 
 !!! mascot-welcome "A mystery that starts far from the brain"
     ![Vee waving hello](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
-    Parkinson's and Alzheimer's are brain diseases, so why would a gut book spend a whole chapter on them? Because one of the biggest open questions in neurology right now is whether Parkinson's sometimes starts in the gut and climbs up my home, the vagus nerve. Many families, maybe yours, are touched by these diseases, and the online claims about them run far ahead of the evidence. Let's check the evidence together.
+    Parkinson's and Alzheimer's are brain diseases, so why would a gut book spend a whole chapter on them? Because one of the biggest open questions in neurology right now is whether Parkinson's sometimes starts in the gut and climbs up the vagus nerve. (That's me!) Many families, maybe yours, are touched by these diseases, and the online claims about them run far ahead of the evidence. Let's check the evidence together.
 
 ## 14.1 Riya's Grandfather and a Clue From Years Ago
 
@@ -268,7 +268,7 @@ Now test a prediction. Check **Cut the vagus nerve** and run each route. In the 
 
 ## 14.10 The Gut Matters for Treatment Too: Levodopa Absorption
 
-Even if Parkinson's turns out to start in the brain for most people, the gut still matters every single day for people living with it, because of how the main medicine works.
+Even if Parkinson's turns out to start in the brain for most people, the gut still matters every day for people living with it, because of how the main medicine works.
 
 People can't simply take dopamine, because dopamine in the blood doesn't easily cross the blood-brain barrier, the protective layer of cells that controls what gets into the brain. Instead, NINDS explains, the main Parkinson's medicine is levodopa, which the brain converts into dopamine. It's almost always combined with a second medicine, carbidopa, which keeps the body from breaking levodopa down too early, so more of it reaches the brain.
 
@@ -280,7 +280,7 @@ Each step can go wrong:
 - **Constipation and other gut problems.** A 2023 review by [Leta and colleagues](https://pubmed.ncbi.nlm.nih.gov/36757008/) lists swallowing problems, slow stomach emptying, constipation, a stomach infection called *H. pylori*, bacterial overgrowth in the small intestine, and changes in gut microbes as possible barriers to levodopa reaching the blood.
 - **Protein in meals.** Levodopa is carried across the gut wall by the same transport system that carries some amino acids (the building blocks of protein). A 2019 review by [van Kessel and El Aidy](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.01087/full) notes that dietary amino acids can interfere with levodopa absorption, and NINDS notes that too much protein may limit how well people absorb carbidopa-levodopa.
 
-This is why people with Parkinson's sometimes have unpredictable days when the medicine kicks in late or not at all. Their neurology team may adjust timing, treat the gut problems, or use forms of treatment that skip the gut entirely. Those decisions belong to the care team; NINDS warns that people should never stop carbidopa-levodopa suddenly without talking with a doctor.
+This is why people with Parkinson's sometimes have unpredictable days when the medicine kicks in late or not at all. Their neurology team may adjust timing, treat the gut problems, or use forms of treatment that skip the gut entirely. One example is a levodopa-type medicine pumped slowly and steadily under the skin through a thin tube ([Vyalev](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28e806e4-951c-40a9-9f0c-d0929caf054c)), which the FDA approved in October 2024 for motor fluctuations (swings between good and "off" periods) in adults with advanced Parkinson's. Those decisions belong to the care team; NINDS warns that people should never stop carbidopa-levodopa suddenly without talking with a doctor.
 
 ## 14.11 Alzheimer's Disease: Is the Gut Involved?
 
@@ -363,7 +363,7 @@ Test yourself. Try each one before you open the answer.
     **Grade: Hype.** The gut-first idea is a serious hypothesis (Moderate for some patients), supported by autopsy patterns, the constipation link, and mouse experiments. But nothing has "proven" it, human vagotomy and appendix studies are mixed, and no trial has shown that any probiotic prevents Parkinson's. The ad jumps from a contested hypothesis to a product. A careful version: "Some scientists think Parkinson's may begin in the gut in some people; researchers are still testing this idea."
 
 ??? question "2. Predict: Sam reads that Riya's grandfather has Parkinson's and asks whether Riya's Crohn's disease means she'll get it too. Using this chapter, what would you predict, and why?"
-    There's no reason from this chapter to predict that Riya will get Parkinson's. Parkinson's mostly starts in people in their 60s or later, and the gut evidence in this chapter is about constipation as an early sign in older adults, not about Crohn's disease. Having a grandparent with Parkinson's can matter a little in some families because genes play a part, but in most people the cause is unknown. If Riya is worried, the right step is to ask Dr. Alvarez, not to assume.
+    There's no good reason to predict that Riya will get Parkinson's. Parkinson's mostly starts in people in their 60s or later, and most of the gut evidence in this chapter is about constipation as an early sign in older adults. Sam's question isn't silly, though: large studies of adults have found that people with inflammatory bowel disease, including Crohn's, are diagnosed with Parkinson's somewhat more often later in life (about 1.4 times as often in a [2024 pooled analysis of 7 cohort studies](https://pubmed.ncbi.nlm.nih.gov/38271615/)). That is a relative number for an uncommon disease, it comes from observational studies that can't show cause, and most people with Crohn's never develop Parkinson's. Having a grandparent with Parkinson's can matter a little in some families because genes play a part, but in most people the cause is unknown. If Riya is worried, the right step is to ask Dr. Alvarez, not to assume.
 
 ??? question "3. Explain: Why did cutting the vagus nerve block the spread of misfolded alpha-synuclein to the brain in the 2019 mouse study?"
     The misfolded protein was injected into the gut wall, and the vagus nerve is the main nerve line linking the gut to the brainstem's vagus nucleus. Prion-like spread passes from neuron to connected neuron, so the protein needs an unbroken chain of nerve cells to travel. Cutting the vagus removed that chain, so the protein couldn't reach the brainstem, and the dopamine neuron loss and behavior problems didn't happen.

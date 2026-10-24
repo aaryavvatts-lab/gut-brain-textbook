@@ -23,6 +23,7 @@ nav:
   - About This Book: about.md
   - How to Use This Book: how-to-use.md
   - The Hype Meter: hype-meter.md
+  - Claim Explorer (open dataset): claims-explorer.md
   - For Families: for-families.md
   - For Teachers: teachers.md
   - Downloads (PDF): downloads.md
@@ -152,6 +153,8 @@ nav:
       - Book Metrics: learning-graph/book-metrics.md
       - Chapter Metrics: learning-graph/chapter-metrics.md
   - FAQ: faq.md
+  - How This Book Was Made: methods.md
+  - Impact and Reviews: impact.md
   - Roadmap: roadmap.md
   - How to Cite: how-to-cite.md
   - License: license.md
@@ -263,7 +266,7 @@ extra:
       link: https://github.com/aaryavvatts-lab/gut-brain-textbook
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
   textbook_name: 'Gut Check: The Neuroscience of How Your Gut and Brain Talk'
-  textbook_version: '1.0'
+  textbook_version: '1.1'
   development_stage: 'Complete (v1.0)'
   # The author adds Google Analytics later (needs their own GA4 ID):
   # analytics:

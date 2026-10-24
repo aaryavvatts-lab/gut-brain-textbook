@@ -111,7 +111,7 @@ Stigma is one of the biggest. In 2015, [Clement and colleagues](https://pubmed.n
 
 How big is the need among teens? In the CDC's [2023 Youth Risk Behavior Survey](https://www.cdc.gov/mmwr/volumes/73/su/su7304a9.htm), 39.7% of US high school students reported persistent feelings of sadness or hopelessness. In the [2025 survey](https://www.cdc.gov/mmwr/volumes/75/su/su7501a4.htm), published in October 2026, that figure was 33.3%, about one in three.
 
-The 2025 report also asked students with those feelings whether they had needed counseling or therapy but not gotten it. Overall, 28.8% reported this kind of unmet need. Unmet need was highest among Asian American students (38.4%) and Black students (33.9%). "Asian American" in that survey is a broad group that includes South Asian students along with many others, and the Asian estimate had a wide margin of uncertainty, but the pattern fits the idea that some communities face extra barriers to care.
+The 2025 report also asked students with those feelings whether they had needed counseling or therapy but not gotten it. Overall, 28.8% reported this kind of unmet need. Unmet need was higher among Asian American students (38.4%) and Black students (33.9%) than among White students (27.1%). "Asian American" in that survey is a broad group that includes South Asian students along with many others, and the Asian estimate had a wide margin of uncertainty, but the pattern fits the idea that some communities face extra barriers to care.
 
 !!! living-with "If you are struggling right now"
     If you are thinking about suicide or are in crisis, call or text **988** to reach the 988 Suicide & Crisis Lifeline (in the US), or go to the nearest emergency room. Outside the US, you can find a helpline at [findahelpline.com](https://findahelpline.com/). You can also talk to a parent, school counselor, or doctor.
@@ -167,8 +167,8 @@ What does this mean for Riya? Not much about her personally, since every individ
 
 !!! hype-hype "Hype Meter: "Eating more ghee (or any single traditional food) will heal Crohn's disease""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
-    **Verdict: Hype.** Crohn's disease is an immune-driven inflammatory condition, and according to [NIDDK](https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition), researchers have not found that specific foods cause or worsen Crohn's symptoms. No trial has shown that ghee, or any single food from any culture, heals Crohn's. Food still matters for nutrition, growth, comfort, and family connection, and a care team or dietitian can help plan meals that work during flares and remission.
-    **What would change the grade:** Randomized trials in people with Crohn's showing that a specific food reduces inflammation on scopes and blood tests, compared with a control diet, would be needed even to reach Preliminary.
+    **Verdict: Hype.** Crohn's disease is an immune-driven inflammatory condition, and according to [NIDDK](https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition), researchers have not found that specific foods cause or worsen Crohn's symptoms. No trial has shown that ghee, or any single food from any culture, heals Crohn's. The diet treatment with real evidence is different: a special liquid formula that doctors prescribe for some children with Crohn's ([Chapter 9](../09-inflammatory-bowel-disease/index.md#food-as-treatment-exclusive-enteral-nutrition)), planned and monitored by the care team. Food still matters for nutrition, growth, comfort, and family connection, and a care team or dietitian can help plan meals that work during flares and remission.
+    **What would change the grade:** Even reaching Preliminary would take controlled studies in people with Crohn's showing that a specific food lowers inflammation on scopes and blood tests compared with a control diet. Moving higher would take large randomized trials.
 
 ## 19.6 Culture, Family, and the South Asian Health Context
 
@@ -196,7 +196,7 @@ These are small studies that describe experiences, not percentages that apply to
     ![Vee warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
     "Some South Asian youth in one small study described stigma about mental health" is a careful finding. "South Asian families don't believe in therapy" is a stereotype. Always ask how many people were studied, where, and whether the result fits the specific person in front of you.
 
-These studies also don't capture strengths as well. Many families, South Asian and otherwise, offer deep support through shared meals, multigenerational households, and relatives who show up during hard times. The goal isn't to change a family's culture. It's to connect accurate medical information with the ways that family already shows love.
+These studies also say little about strengths. Many families, South Asian and otherwise, offer deep support through shared meals, multigenerational households, and relatives who show up during hard times. The goal isn't to change a family's culture. It's to connect accurate medical information with the ways that family already shows love.
 
 !!! families "For families"
     If someone in your family has a gut or mental health condition, food and advice are often how love gets expressed, and that's a strength. Try asking before advising: "What would help you right now?" Avoid comments about weight, eating, or "worrying too much" at the table, since a teen with IBD may be eating carefully on purpose. If you have questions about remedies from home or about the medicine, bring them to the care team together; doctors can talk through traditional foods and practices and how they fit with treatment.
@@ -241,7 +241,7 @@ According to a [2021 fact sheet](https://www.crohnscolitisfoundation.org/sites/d
 - Commonly requested accommodations include unlimited restroom access, "stop-the-clock" testing (pausing a test's timer during a restroom break), making up work missed for appointments or illness without penalty, tutoring after long absences, and full participation in activities even after missed classes.
 - The Foundation recommends having a plan in place at the start of every school year, even during remission, because flares are unpredictable.
 - A student doesn't have to be failing to qualify; the plan is about access, not grades.
-- Plans usually apply in public schools, and in private schools that receive federal funding. The fact sheet says a plan is valid for one year, so it should be created or updated every year.
+- Plans usually apply in public schools, and in private schools that receive federal funding. The fact sheet advises creating or updating the plan every year, even if nothing about the student's health has changed.
 - The student should help choose the accommodations, because someday they'll need to advocate for themselves.
 
 So the myth that teachers "aren't allowed" to make exceptions is backward: with a 504 plan in place, the school has agreed to them. Sam's IBS isn't the same as Riya's IBD, but students with IBS and other conditions can also ask about accommodations; the school decides case by case.
@@ -429,7 +429,7 @@ Test yourself. Try each one before you open the answer.
 
 - Stigma combines stereotypes, prejudice, and discrimination; self-stigma happens when people turn those beliefs on themselves, and mental health stigma targets mental illness and care-seeking.
 - Most adults with IBD in a 2009 survey (84%) reported feeling stigmatized, and stigma was linked to worse quality of life and distress; hiding symptoms (illness concealment) makes conditions harder to treat.
-- Stigma is a major barrier to mental health help, especially for young people and minority groups; in 2025, 33.3% of US high school students reported persistent sadness or hopelessness, and unmet need for counseling was highest among Asian American and Black students.
+- Stigma is a major barrier to mental health help, especially for young people and minority groups; in 2025, 33.3% of US high school students reported persistent sadness or hopelessness, and unmet need for counseling was higher among Asian American and Black students than among White students.
 - IBD is a global disease that is rising in newly industrialized countries; it is not only "Western," and no single food or culture causes or cures it.
 - Migration studies in England found ulcerative colitis (but not Crohn's) more common in South Asian residents than in Europeans, suggesting both environment and inherited factors matter; these data are older and regional.
 - South Asian communities are diverse; small studies describe stigma, family dynamics, and access problems as barriers, and family care is also a major strength.

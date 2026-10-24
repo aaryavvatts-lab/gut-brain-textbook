@@ -10,7 +10,7 @@ version: 1.0
 
 ## Summary
 
-Some gut-brain treatments have moved from the lab into real medicine. This chapter explains how fecal microbiota transplant became a lifesaving treatment for repeat *C. difficile* infections, and how two microbiome medicines made from donated stool earned FDA approval in 2022 and 2023. It follows vagus nerve stimulation from its approval for epilepsy in 1997 to depression in 2005 and rheumatoid arthritis in 2025, and contrasts those devices with consumer "vagus" gadgets. It explains why doctors prescribe low doses of old antidepressants for IBS pain. Along the way, you'll learn how treatments get approved (and how "approved," "cleared," and "off-label" differ), how doctors weigh benefits against risks, and how patients and doctors make these choices together.
+Some gut-brain treatments have moved from the lab into real medicine. This chapter explains how fecal microbiota transplant became a lifesaving treatment for repeat *C. difficile* infections, and how two microbiome medicines made from donated stool earned FDA approval in 2022 and 2023. It follows vagus nerve stimulation from its approval for epilepsy in 1997 to depression in 2005, stroke rehabilitation in 2021, and rheumatoid arthritis in 2025, and contrasts those devices with consumer "vagus" gadgets. It explains why doctors prescribe low doses of old antidepressants for IBS pain. Along the way, you'll learn how treatments get approved (and how "approved," "cleared," and "off-label" differ), how doctors weigh benefits against risks, and how patients and doctors make these choices together.
 
 ## Concepts Covered
 
@@ -50,7 +50,7 @@ Riya is in Dr. Alvarez's office for her regular checkup. Her Crohn's disease has
 
 Her second question came from Sam, who had seen an ad for a $300 ear clip that "activates your vagus nerve" to melt away anxiety. Riya had also read that doctors implant vagus nerve stimulators in some patients. "Are those the same thing?" (Riya, Sam, and Dr. Alvarez are fictional.)
 
-Dr. Alvarez smiles. "Great questions. One of those is FDA approved and works remarkably well, but only for one specific infection. One is still being tested. And one is a gadget that hasn't been shown to do what it claims." By the end of this chapter, you'll be able to sort them yourself.
+Dr. Alvarez smiles. "Great questions. One of those has FDA-approved versions and works remarkably well, but only for one specific infection. One is still being tested. And one is a gadget that hasn't been shown to do what it claims." By the end of this chapter, you'll be able to sort them yourself.
 
 ## 17.2 When Antibiotics Clear the Garden: C. difficile Infection
 
@@ -61,7 +61,7 @@ That's roughly what happens in one of the most common hospital infections in the
 According to the [Centers for Disease Control and Prevention](https://www.cdc.gov/c-diff/about/index.html) (CDC):
 
 - *C. diff* causes almost **half a million infections** in the United States each year.
-- People are up to **10 times more likely** to get it while taking an antibiotic.
+- People are up to **10 times more likely** to get it while taking an antibiotic, and the risk stays higher for about a month after.
 - Symptoms include diarrhea, fever, stomach pain or tenderness, loss of appetite, and nausea.
 - Risk is higher for adults 65 and older, people in hospitals and nursing homes, people with weakened immune systems, and people who have had *C. diff* before.
 
@@ -112,7 +112,11 @@ As of October 2026, two products made from donated human stool have been FDA app
 | [Rebyota](https://www.fda.gov/vaccines-blood-biologics/vaccines/rebyota) (fecal microbiota, live-jslm) | November 30, 2022 | Single rectal dose | Prevent *C. diff* infection from coming back in adults 18 and older, after antibiotic treatment for recurrent infection |
 | [Vowst](https://www.fda.gov/news-events/press-announcements/fda-approves-first-orally-administered-fecal-microbiota-product-prevention-recurrence-clostridioides) (fecal microbiota spores, live-brpk) | April 26, 2023 | Oral capsules, taken over 3 days | Same: prevent recurrence in adults 18 and older after antibiotic treatment for recurrent infection |
 
-Rebyota, made by Ferring Pharmaceuticals, was the first FDA-approved fecal microbiota product. Vowst, made by Seres Therapeutics, was the first one taken by mouth. In the trial the FDA described when it approved Vowst, 89 people received Vowst and 93 received a placebo after finishing antibiotics. Over the next 8 weeks, *C. diff* came back in **12.4%** of the Vowst group compared with **39.8%** of the placebo group.
+Rebyota, made by Ferring Pharmaceuticals, was the first FDA-approved fecal microbiota product. Vowst, developed by Seres Therapeutics and sold to Nestlé Health Science in 2024, was the first one taken by mouth. In the trial the FDA described when it approved Vowst, 89 people received Vowst and 93 received a placebo after finishing antibiotics. Over the next 8 weeks, *C. diff* came back in **12.4%** of the Vowst group compared with **39.8%** of the placebo group.
+
+![Bar chart: in the trial behind Vowst's approval, C. difficile came back within 8 weeks in 12.4% of the 89 people who took Vowst, compared with 39.8% of the 93 people who took a placebo](../../img/charts/ch17-vowst-trial.png)
+
+*Source: US FDA, April 26, 2023 approval announcement (ECOSPOR III trial). Adults with recurrent C. difficile infection, after antibiotic treatment.*
 
 Read the "approved use" column carefully, because the limits matter:
 
@@ -167,7 +171,7 @@ Once a drug is approved, doctors may sometimes prescribe it for a different cond
 
 Every treatment decision, by the FDA or by a patient and doctor, comes down to a **benefit-risk balance**: weighing how much a treatment is likely to help against how likely and how serious its harms are, for a particular person and a particular condition. The same treatment can have a great balance for one person and a poor one for another.
 
-FMT is a perfect example. For an adult whose *C. diff* keeps coming back despite antibiotics, the benefit is large (roughly 3 people treated for one extra cure), so a small risk of infection is worth taking. For a healthy person who wants to "optimize" their gut, there's no proven benefit, so any risk tips the balance the wrong way.
+FMT shows how this works. For an adult whose *C. diff* keeps coming back despite antibiotics, the benefit is large (roughly 3 people treated for one extra cure), so a small risk of infection is worth taking. For a healthy person who wants to "optimize" their gut, there's no proven benefit, so any risk tips the balance the wrong way.
 
 ## 17.6 FMT Beyond C. diff: Hope, Hype, and Ongoing Trials
 
@@ -200,14 +204,15 @@ Now to Riya's second question. Remember from [Chapter 2](../02-vagus-highway/ind
 
 **Vagus nerve stimulation** (VNS) is a treatment that delivers mild electrical pulses to the vagus nerve, either through a device implanted under the skin or through a handheld device placed on the skin, to change nerve signaling to the brain or the body. Think of it like tapping out a signal on a telegraph line that already runs between two cities. You aren't building new wiring; you're sending a message along wiring that's already there.
 
-### Implanted devices: three different approvals
+### Implanted devices: four different approvals
 
-An **implanted VNS device** is a small pulse generator placed under the skin by a surgeon and connected to the vagus nerve in the neck, which delivers programmed electrical pulses on a schedule. Different implanted devices have been approved for three very different conditions:
+An **implanted VNS device** is a small pulse generator placed under the skin by a surgeon and connected to the vagus nerve in the neck, which delivers programmed electrical pulses on a schedule. Different implanted devices have been approved for four very different conditions:
 
 | Year approved | Device | Approved for | Notes |
 |---|---|---|---|
 | 1997 (July 16) | [VNS Therapy System](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?id=P970003) (originally the NeuroCybernetic Prosthesis, now made by LivaNova) | Add-on treatment for drug-resistant partial-onset epilepsy | The first FDA-approved VNS device |
 | 2005 (July 15) | [VNS Therapy System](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?id=P970003S050) (new approved use) | Add-on, long-term treatment of chronic or recurrent depression in adults 18 and older in a major depressive episode who have not responded well to 4 or more adequate antidepressant treatments | For treatment-resistant depression only |
+| 2021 (August 27) | [Vivistim System](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P210007) | Use during rehabilitation therapy to reduce arm movement problems in people with chronic ischemic stroke and moderate to severe arm weakness | Stimulates the vagus nerve during rehabilitation exercises, not on a daily schedule |
 | 2025 (July 30) | [SetPoint System](https://www.accessdata.fda.gov/cdrh_docs/pdf24/P240039B.pdf) | Adults with moderately to severely active rheumatoid arthritis who did not respond well to, lost response to, or could not tolerate one or more biologic or targeted synthetic drugs | Stimulates the left vagus nerve for 1 minute once a day |
 
 Notice how specific each approval is. The depression approval is not for anyone with depression; it's an add-on for adults whose depression has resisted at least four other treatments. And as of October 2026, **no VNS device is approved for Crohn's disease, IBS, or anxiety.** (One prescription ear stimulator has a narrower FDA authorization for IBS pain in 11- to 18-year-olds; Section 17.8 explains it.)
@@ -219,17 +224,17 @@ Notice how specific each approval is. The depression approval is not for anyone 
 
 ### The inflammatory reflex
 
-Why would a nerve stimulator help arthritis, a disease of the immune system? The answer is one of the most exciting ideas in gut-brain science.
+Why would a nerve stimulator help arthritis, a disease of the immune system? The answer comes from a discovery about how nerves and immune cells talk to each other.
 
 Your body has reflexes for many things: pull your hand from a hot stove, and your spinal cord acts before you think. In 2002, Kevin Tracey, a scientist in New York, [described a reflex for inflammation](https://pubmed.ncbi.nlm.nih.gov/12490958/). The **inflammatory reflex** is a nerve circuit in which the brain senses inflammation (partly through incoming vagus signals) and responds by sending signals back out, largely through the vagus nerve, that calm the immune system's release of inflammatory chemicals such as cytokines (from [Chapter 4](../04-immune-sense-organ/index.md)). Tracey's key point was that the nervous system regulates inflammation in real time, the way it controls heart rate, and that neurons using the chemical messenger acetylcholine can shut down acute inflammation. Much of the detailed evidence for this circuit comes from animal studies.
 
-That idea led to a new field. **Bioelectronic medicine** is an approach to treatment that uses electrical stimulation of nerves, instead of or alongside drugs, to change how organs or the immune system work. The SetPoint System is a major milestone for the field: it was the first approved device designed to treat an autoimmune disease by stimulating the vagus nerve.
+That idea led to a new field. **Bioelectronic medicine** is an approach to treatment that uses electrical stimulation of nerves, instead of or alongside drugs, to change how organs or the immune system work. The SetPoint System is the first device the FDA has approved to treat rheumatoid arthritis, an autoimmune disease, by stimulating the vagus nerve.
 
 How strong is the evidence? SetPoint's first human pilot study, published in 2020 by [Genovese and colleagues](https://pubmed.ncbi.nlm.nih.gov/38273617/), enrolled just 14 patients and was funded by the company. The larger RESET-RA trial, [summarized by the FDA](https://www.accessdata.fda.gov/cdrh_docs/pdf24/P240039B.pdf), randomly assigned 242 adults to active stimulation or sham stimulation (an implanted device that wasn't turned on). After 12 weeks, 35.2% of the active group versus 24.2% of the sham group had at least a 20% improvement on a standard arthritis scale (ACR20). That's a real but modest difference from one sham-controlled trial. The full peer-reviewed results appeared in [*Nature Medicine* in December 2025](https://pubmed.ncbi.nlm.nih.gov/41429981/) (Tesser and colleagues) and reported the same 12-week numbers. After 12 weeks, everyone's device was switched on, and by 12 months 52.8% of the people who completed the study met the ACR20 mark. That later number is harder to interpret, because there was no longer a sham group to compare against, so some of the improvement could come from expectations or from the disease changing on its own. The trial was sponsored by SetPoint Medical, and several authors work for the company. Serious problems related to the device or surgery occurred in 1.6% of patients, all around the time of surgery, and all resolved.
 
 ### What about Crohn's disease?
 
-The same idea makes researchers wonder about Crohn's, another inflammatory disease. In a [2016 pilot study](https://pubmed.ncbi.nlm.nih.gov/26920654/), Bonaz and colleagues in France implanted vagus nerve stimulators in 7 patients with active Crohn's disease and followed them for 6 months. Two were taken out of the study at 3 months because their disease got worse; the other 5 moved toward remission. Seven patients with no control group is a starting point, not proof. VNS for Crohn's is **experimental**. Dr. Alvarez tells Riya it's an interesting area to watch, and that her biologic, which has strong evidence behind it, is doing its job.
+The same idea makes researchers wonder about Crohn's, another inflammatory disease. In a [2016 pilot study](https://pubmed.ncbi.nlm.nih.gov/26920654/), Bonaz and colleagues in France implanted vagus nerve stimulators in 7 patients with active Crohn's disease and followed them for 6 months. Two were taken out of the study at 3 months because their disease got worse; the other 5 moved toward remission. A second small study, [published in 2023](https://pubmed.ncbi.nlm.nih.gov/37738465/), treated 16 patients with drug-resistant Crohn's disease; D'Haens and colleagues reported lower disease activity and inflammation markers, but it was also open-label, with no comparison group. Two small studies without control groups are a starting point, not proof. VNS for Crohn's is **experimental**. Dr. Alvarez tells Riya it's an interesting area to watch, and that her biologic, which has strong evidence behind it, is doing its job.
 
 ## 17.8 Handheld Stimulators and Wellness Gadgets
 
@@ -239,6 +244,7 @@ Implanted devices require surgery. Could you stimulate the vagus nerve from outs
 
 - **April 14, 2017:** The FDA granted a De Novo authorization for gammaCore for the acute treatment of pain from episodic cluster headache in adults.
 - **January 23, 2018:** A 510(k) clearance added the acute treatment of pain from migraine headache in adults.
+- **February 12, 2021:** A later 510(k) clearance extended migraine treatment to teens 12 to 17. (Other clearances added more headache uses.)
 
 These are FDA **authorization** and **clearance**, not "approval," as Section 17.5 explained. And they are for headaches, not for anxiety, IBS, or Crohn's disease.
 
@@ -248,7 +254,7 @@ One ear device does have an FDA decision for a gut condition, and it was made fo
 
 Now Sam's ad. A **consumer wellness device** is a product sold directly to the public that claims to support general health or well-being, such as relaxation or stress relief, and is marketed without having to show the FDA that it treats any disease. The FDA has a ["general wellness" policy](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices) for low-risk products that promote a healthy lifestyle; the latest version of the guidance page was updated in January 2026. These products aren't reviewed like medical devices, which is exactly why they shouldn't claim to treat a disease like an anxiety disorder.
 
-Do these gadgets even affect the vagus nerve? Scientists often use heart rate variability (small beat-to-beat changes in heart rate, partly controlled by the vagus nerve) as a possible sign of vagus activity. A [2021 "living" meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34473846/) by Wolf and colleagues pooled 16 studies in healthy people that compared ear-based stimulation with sham (fake) stimulation. It found strong evidence for **no effect** on this heart rate measure during stimulation. That doesn't rule out every effect, but it gives no reliable sign that ear stimulation changes vagus activity, let alone cures anxiety.
+Do these gadgets even affect the vagus nerve? Scientists often use heart rate variability (small beat-to-beat changes in heart rate, partly controlled by the vagus nerve) as a possible sign of vagus activity. A [2021 "living" meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34473846/) by Wolf and colleagues pooled 16 studies in healthy people that compared ear-based stimulation with sham (fake) stimulation. It found strong evidence for **no effect** on this heart rate measure during stimulation. That doesn't rule out other effects, but this common heart-rate measure gave no sign that ear stimulation changes vagus activity, let alone that it cures anxiety.
 
 !!! hype-hype "Hype Meter: "This $300 vagus nerve gadget fixes anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
@@ -257,7 +263,7 @@ Do these gadgets even affect the vagus nerve? Scientists often use heart rate va
 
 !!! mascot-tip "Ask "approved for what?""
     ![Vee with a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
-    Whenever someone says a vagus device is "FDA approved," ask two follow-up questions: approved, cleared, or authorized, and for which condition? The honest answer will usually be epilepsy, treatment-resistant depression, rheumatoid arthritis, headache, or prescription-only teen IBS pain, not whatever the ad is selling.
+    Whenever someone says a vagus device is "FDA approved," ask two follow-up questions: approved, cleared, or authorized, and for which condition? The honest answer will usually be epilepsy, treatment-resistant depression, arm rehabilitation after stroke, rheumatoid arthritis, headache, or prescription-only teen IBS pain, not whatever the ad is selling.
 
 ## 17.9 Turning Down the Volume on Gut Pain: Tricyclic Antidepressants
 
@@ -279,13 +285,13 @@ Because amitriptyline's labeled use in the US is for depression (according to Me
 
 ### "Does my doctor think it's all in my head?"
 
-This is the question families ask most, and the answer is no. The doses used for gut pain are generally lower than those used for depression, and the goal is to calm pain signaling along the gut-brain axis. In the ATLANTIS trial, amitriptyline improved IBS symptoms, but an [ACG summary](https://gi.org/journals-publications/ebgi/schoenfeld_dec2023/) of the trial reported no evidence that it changed depression scores. In other words, it seemed to help the gut symptoms directly, not by treating depression. Being offered a TCA for IBS means your doctor is treating a real problem in how your gut and brain communicate.
+This is the question families ask most, and the answer is no. The doses used for gut pain are generally lower than those used for depression, and the goal is to calm pain signaling along the gut-brain axis. In the ATLANTIS trial, amitriptyline improved IBS symptoms, but an [ACG summary](https://gi.org/journals-publications/ebgi/schoenfeld_dec2023/) of the trial reported no evidence that it changed depression scores. Most people in the trial weren't depressed to begin with, so the result fits the idea that the medicine works on gut symptoms rather than by treating depression, though the trial wasn't built to prove exactly how it works. Being offered a TCA for IBS means your doctor is treating a real problem in how your gut and brain communicate.
 
 ## 17.10 How to Read a Gut-Brain Claim: The ATLANTIS Trial
 
 In 2023, Ford and colleagues in England published the ATLANTIS trial in *The Lancet*. They recruited adults with IBS (by Rome IV criteria) from 55 general medical practices whose symptoms continued despite first-line treatments such as diet changes. Participants were randomly assigned to a low dose of amitriptyline or a placebo for 6 months, and they could slowly adjust the dose within a set range based on symptoms and side effects. Nobody (participants, their doctors, or the researchers) knew who got which. The primary outcome was a standard IBS symptom severity score at 6 months.
 
-At 6 months, the amitriptyline group's symptom scores were about 27 points better than the placebo group's, a statistically significant difference. The authors concluded that low-dose amitriptyline was superior to placebo and safe. An ACG evidence summary, written by an outside expert, called the trial "a major achievement" but noted that the average benefit was modest and did not reach the 35-point difference often considered meaningful to patients; more people in the amitriptyline group did report relief of their overall symptoms. About 13% stopped amitriptyline because of side effects.
+At 6 months, the amitriptyline group's symptom scores were about 27 points better than the placebo group's, a statistically significant difference. The authors concluded that low-dose amitriptyline was superior to placebo and safe. An ACG evidence summary, written by an outside expert, called the trial "a major achievement" but noted that the average benefit was modest and did not reach the 35-point difference often considered meaningful to patients; more people in the amitriptyline group did report relief of their overall symptoms. About 13% stopped amitriptyline because of side effects, compared with 9% on placebo.
 
 !!! claim-box "How to read a gut-brain claim: the 2023 ATLANTIS trial"
     | Question | This study |
@@ -369,7 +375,7 @@ Medicine is also trying to get better at matching treatments to individuals from
 
 **Connecting the signals:** Each round of antibiotics kills *C. diff* but also keeps her normal gut bacteria from recovering, so the "bare lawn" invites the infection back. Her age raises her risk too. Her doctor explains that what she needs isn't just another antibiotic, but a way to restore the microbial community that normally keeps *C. diff* in check.
 
-**Diagnosis:** Recurrent *C. difficile* infection (third recurrence).
+**Diagnosis:** Recurrent *C. difficile* infection (second recurrence, her third episode).
 
 **Why it happens:** As Section 17.2 explained, antibiotics disrupt the gut microbiome and give *C. diff* room to grow, and the risk of another recurrence rises with each episode. Microbiome-based treatments work by replanting the missing community.
 
@@ -395,7 +401,7 @@ Medicine is also trying to get better at matching treatments to individuals from
 **Reality:** Medical FMT depends on donor screening, stool testing, and follow-up. Homemade versions skip all of them, so the risk of passing on an infection is much higher, and they're done for conditions where FMT hasn't been proven to help.
 
 **Myth:** If a treatment is FDA approved for one condition, it's approved for related conditions too.  
-**Reality:** FDA approval is always for a specific use. Vagus nerve stimulators are approved for epilepsy, treatment-resistant depression, and rheumatoid arthritis, but not for Crohn's disease, IBS, or anxiety (a separate ear device, IB-Stim, is authorized only for IBS belly pain in patients 11 to 18), and Vowst and Rebyota are approved only to prevent recurrent *C. diff*.
+**Reality:** FDA approval is always for a specific use. Vagus nerve stimulators are approved for epilepsy, treatment-resistant depression, arm-movement rehabilitation after stroke (the Vivistim System), and rheumatoid arthritis, but not for Crohn's disease, IBS, or anxiety (a separate ear device, IB-Stim, is authorized only for IBS belly pain in patients 11 to 18), and Vowst and Rebyota are approved only to prevent recurrent *C. diff*.
 
 **Myth:** If your doctor prescribes an antidepressant for IBS, they think your symptoms are all in your head.  
 **Reality:** Low-dose tricyclic antidepressants are used to calm pain signaling along the gut-brain axis. In the 2023 ATLANTIS trial, amitriptyline improved IBS symptoms without evidence of changing depression scores. It treats a real problem in gut-brain communication.
@@ -405,7 +411,7 @@ Medicine is also trying to get better at matching treatments to individuals from
 Test yourself. Try each one before you open the answer.
 
 ??? question "1. Claim Check: "FDA-approved vagus nerve stimulation is now available to heal your gut and calm your anxiety. Order our clinic-grade ear device today!""
-    **Grade: Hype.** The FDA-approved implanted VNS devices are for drug-resistant epilepsy, treatment-resistant depression in adults, and rheumatoid arthritis, and the handheld gammaCore is authorized and cleared for cluster headache and migraine. None is approved for gut disorders or anxiety; the closest is a prescription ear stimulator (IB-Stim) that is authorized only as an add-on for IBS pain in 11- to 18-year-olds, which is not what this ad is selling. A consumer ear gadget is a different product from the devices tested in trials, and a 2021 meta-analysis found ear stimulation didn't change a common heart-rate sign of vagus activity in healthy people. A careful version would say: "Vagus nerve stimulation is FDA approved for a few specific conditions; its use for gut disorders and anxiety is still being researched."
+    **Grade: Hype.** The FDA-approved implanted VNS devices are for drug-resistant epilepsy, treatment-resistant depression in adults, arm-movement rehabilitation after stroke, and rheumatoid arthritis, and the handheld gammaCore is authorized and cleared for cluster headache and migraine. None is approved for gut disorders or anxiety; the closest is a prescription ear stimulator (IB-Stim) that is authorized only as an add-on for IBS pain in 11- to 18-year-olds, which is not what this ad is selling. A consumer ear gadget is a different product from the devices tested in trials, and a 2021 meta-analysis found ear stimulation didn't change a common heart-rate sign of vagus activity in healthy people. A careful version would say: "Vagus nerve stimulation is FDA approved for a few specific conditions; its use for gut disorders and anxiety is still being researched."
 
 ??? question "2. Predict: Riya reads that her friend's grandfather had FMT and his recurrent C. diff never came back. She wonders whether FMT would work as well for her Crohn's disease. What would you predict, based on the evidence?"
     FMT probably would not work as reliably for Crohn's as it does for recurrent *C. diff*, and nobody knows for sure. *C. diff* is a single germ taking over a disrupted microbiome, so replanting the community directly fixes the problem. Crohn's disease involves the immune system, genes, and the environment, and a 2023 Cochrane review found the evidence for FMT in Crohn's very uncertain. Riya's biologic has much stronger evidence, so this is a question for Dr. Alvarez and possibly a future clinical trial.
@@ -436,10 +442,10 @@ Test yourself. Try each one before you open the answer.
 ??? note "Answer"
     Rebyota (approved November 30, 2022, given rectally) and Vowst (approved April 26, 2023, oral capsules). Both are approved to prevent *C. diff* infection from coming back in adults 18 and older after antibiotic treatment for recurrent infection.
 
-2. List the three conditions for which implanted vagus nerve stimulators are FDA approved, with the year of each approval.
+2. List the four conditions for which implanted vagus nerve stimulators are FDA approved, with the year of each approval.
 
 ??? note "Answer"
-    Drug-resistant partial-onset epilepsy as an add-on (1997); chronic or recurrent treatment-resistant depression in adults as an add-on after 4 or more failed treatments (2005); and moderate to severe rheumatoid arthritis in adults who didn't respond to biologic or targeted drugs (SetPoint System, July 30, 2025).
+    Drug-resistant partial-onset epilepsy as an add-on (1997); chronic or recurrent treatment-resistant depression in adults as an add-on after 4 or more failed treatments (2005); arm-movement rehabilitation after a chronic ischemic stroke (Vivistim System, August 27, 2021); and moderate to severe rheumatoid arthritis in adults who didn't respond to biologic or targeted drugs (SetPoint System, July 30, 2025).
 
 ### Understand
 
@@ -482,7 +488,7 @@ Test yourself. Try each one before you open the answer.
 - *C. difficile* infection often follows antibiotics and frequently comes back. Fecal microbiota transplant from screened donors clears recurrent infection far better than antibiotics alone (about 3 people treated per extra cure), but DIY FMT is unsafe.
 - Rebyota (November 30, 2022) and Vowst (April 26, 2023) are FDA-approved live biotherapeutic products made from donated stool, approved only to prevent recurrent *C. diff* in adults after antibiotics. FMT for ulcerative colitis, Crohn's, autism, and Parkinson's remains experimental.
 - FDA approval is always for a specific use. Devices can be approved (PMA), authorized (De Novo), or cleared (510(k)), and doctors may prescribe approved drugs off-label when medically appropriate.
-- Implanted vagus nerve stimulators are FDA approved for drug-resistant epilepsy (1997), treatment-resistant depression in adults (2005), and rheumatoid arthritis (July 30, 2025), building on the inflammatory reflex and the field of bioelectronic medicine. They are not approved for Crohn's, IBS, or anxiety.
+- Implanted vagus nerve stimulators are FDA approved for drug-resistant epilepsy (1997), treatment-resistant depression in adults (2005), arm-movement rehabilitation after stroke (Vivistim System, 2021), and rheumatoid arthritis (July 30, 2025), building on the inflammatory reflex and the field of bioelectronic medicine. They are not approved for Crohn's, IBS, or anxiety.
 - The noninvasive gammaCore is authorized and cleared for cluster headache (2017) and migraine (2018). Consumer "vagus" wellness gadgets are not the devices tested in trials, and claims that they fix anxiety are Hype.
 - Low-dose tricyclic antidepressants calm gut pain signaling in IBS; they're off-label but supported by trials (mostly in adults) and guidelines, they need extra care in young people, and they don't mean symptoms are "in your head."
 - Every treatment choice is a benefit-risk balance best made through shared decision-making, and precision medicine aims to match treatments to individuals in the future.

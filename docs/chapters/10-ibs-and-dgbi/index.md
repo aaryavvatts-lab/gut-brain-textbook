@@ -68,7 +68,7 @@ The problem is that many people heard "functional" as "fake" or "imaginary." [Th
 
 **Irritable bowel syndrome** (IBS) is a common disorder of gut-brain interaction marked by recurring belly pain linked to bowel movements and changes in how often stool happens or how it looks, without visible damage or disease in the digestive tract. NIDDK describes IBS as a group of symptoms that occur together, including repeated belly pain and changes in bowel movements, which may be diarrhea, constipation, or both. Other symptoms can include bloating, a feeling of not having finished a bowel movement, and whitish mucus in the stool.
 
-The good news: NIDDK says IBS can be painful but doesn't lead to other health problems or damage the digestive tract. IBS does not turn into IBD, and it does not cause cancer. It does, however, affect daily life. The symptoms tend to come and go over years.
+NIDDK says IBS can be painful but doesn't lead to other health problems or damage the digestive tract. IBS does not turn into IBD, and it does not cause cancer. It does, however, affect daily life. The symptoms tend to come and go over years.
 
 ### What goes wrong?
 
@@ -83,7 +83,11 @@ NIDDK lists factors that are more common in people with IBS and may play a role:
 
 ### How common is IBS?
 
-How many people have IBS depends on which criteria you use, so the numbers always need a label. By Rome IV criteria, 6.1% of US adults had IBS in a national online survey of 88,607 people done in May and June 2020 ([Almario and colleagues](https://pubmed.ncbi.nlm.nih.gov/37595647/), 2023). The authors noted that earlier US estimates were 4.7% to 5.3%, and they asked whether the COVID-19 pandemic, during which the survey ran, might have pushed the number up. Worldwide, by Rome IV criteria, about 4.1% of adults had IBS in internet surveys across 26 countries (Sperber and colleagues, 2021). In the same study, the older Rome III criteria gave 10.1%. Same people, different rules, very different numbers. IBS is more common in women than in men.
+How many people have IBS depends on which criteria you use, so the numbers always need a label. By Rome IV criteria, 6.1% of US adults had IBS in a national online survey of 88,607 people done in May and June 2020 ([Almario and colleagues](https://pubmed.ncbi.nlm.nih.gov/37595647/), 2023). The authors noted that earlier US estimates were 4.7% to 5.3%, and they asked whether the COVID-19 pandemic, during which the survey ran, might have pushed the number up. Worldwide, by Rome IV criteria, about 4.1% of adults had IBS in internet surveys across 26 countries (Sperber and colleagues, 2021). In the same study, the older Rome III criteria gave 10.1%. The people were the same; only the rules changed. IBS is more common in women than in men.
+
+![Bar chart: the share of adults meeting IBS criteria was 10.1% by Rome III and 4.1% by Rome IV in internet surveys of 26 countries, 1.5% by Rome IV in household interviews, and 6.1% by Rome IV in a 2020 US survey](../../img/charts/ch10-ibs-prevalence.png)
+
+*Source: Sperber et al. 2021, Gastroenterology (Rome Foundation Global Epidemiology Study); Almario et al. 2023, Gastroenterology (US survey). Different rules and survey methods give very different numbers.*
 
 In the Almario survey, the most common subtype was IBS with mixed bowel habits (33.9% of people with IBS), the type Sam has. You'll learn what the subtypes mean in Section 10.4.
 
@@ -247,13 +251,13 @@ How well do these therapies work? A 2020 network meta-analysis by [Black and col
 
 ### Gut-brain neuromodulators
 
-Some medicines act on the nerves and brain circuits that process gut signals. A **gut-brain neuromodulator** is a medicine that acts on the nervous system's processing of gut signals, often a low dose of a medicine first developed as an antidepressant, used to reduce gut pain and change gut movement in disorders of gut-brain interaction. The best studied are tricyclic antidepressants (TCAs). This part often confuses people: in IBS, TCAs are used at low doses as gut-brain neuromodulators, not to treat depression. A doctor prescribing one isn't saying the person is depressed. The medicine is turning down pain signaling.
+Some medicines act on the nerves and brain circuits that process gut signals. A **gut-brain neuromodulator** is a medicine that acts on the nervous system's processing of gut signals, often a low dose of a medicine first developed as an antidepressant, used to reduce gut pain and change gut movement in disorders of gut-brain interaction. The best studied are tricyclic antidepressants (TCAs). This confuses a lot of people. In IBS, TCAs are used at low doses as gut-brain neuromodulators, not to treat depression. A doctor prescribing one isn't saying the person is depressed. The medicine is turning down pain signaling.
 
-A 2026 network meta-analysis by [Khasawneh and colleagues](https://pubmed.ncbi.nlm.nih.gov/42362221/) combined 68 randomized trials with 6,694 adults. TCAs and another class called SNRIs ranked near the top for improving IBS symptoms or belly pain, but the authors rated the overall certainty of the evidence as low or very low for most comparisons. The American Gastroenterological Association's [2022 guideline](https://pubmed.ncbi.nlm.nih.gov/35738725/) for IBS with diarrhea includes TCAs among several options, with a conditional recommendation.
+A 2026 network meta-analysis by [Khasawneh and colleagues](https://pubmed.ncbi.nlm.nih.gov/42362221/) combined 68 randomized trials with 6,694 adults. Another class of medicines called SNRIs ranked first, but based on only six small trials; TCAs ranked second, based on 15 trials with 1,519 people. The authors rated the overall certainty of the evidence as low or very low for most comparisons. Guidelines differ in how strongly they back TCAs. The ACG's 2021 guideline gives them a strong recommendation for overall IBS symptoms, while the American Gastroenterological Association's [2022 guideline](https://pubmed.ncbi.nlm.nih.gov/35738725/) for IBS with diarrhea includes TCAs among several options, with a conditional recommendation.
 
 ### Peppermint oil
 
-**Peppermint oil** is an oil from the peppermint plant, usually taken in coated capsules that release it in the intestine, that relaxes gut smooth muscle and is used to ease IBS symptoms such as pain and cramping. It works somewhat like the antispasmodic medicines that relax gut muscle. A 2022 meta-analysis by [Ingrosso and colleagues](https://pubmed.ncbi.nlm.nih.gov/35942669/) combined 10 randomized trials with 1,030 patients. Peppermint oil did better than placebo for overall symptoms and belly pain, but side effects such as reflux (heartburn) were more common, and the authors rated the quality of the evidence as very low.
+**Peppermint oil** is an oil from the peppermint plant, usually taken in coated capsules that release it in the intestine, that relaxes gut smooth muscle and is used to ease IBS symptoms such as pain and cramping. It works somewhat like the antispasmodic medicines that relax gut muscle. A 2022 meta-analysis by [Ingrosso and colleagues](https://pubmed.ncbi.nlm.nih.gov/35942669/) combined 10 randomized trials with 1,030 patients. Peppermint oil did better than placebo for overall symptoms and belly pain, but side effects were more common than with placebo, and the authors rated the quality of the evidence as very low.
 
 On this book's scale, that makes it Preliminary: it may help some people, but the trials behind it are low quality, so the size of the benefit is uncertain. Being sold at a drugstore doesn't make a product right for everyone, so it's still a good idea to ask a doctor first.
 
@@ -264,12 +268,12 @@ The table below compares the treatments we just covered.
 | Low-FODMAP diet (with reintroduction) | Gas and stretch from fermented carbohydrates | 13 trials, 944 patients; ranked first among diets | Good for short-term relief; reintroduction understudied |
 | Cognitive behavioral therapy | Thought and behavior loops that amplify symptoms | Among the best-studied therapies (41 trials total) | Moderate; trials at risk of bias |
 | Gut-directed hypnotherapy | Gut sensations and how the brain processes them | Among the best-studied therapies | Moderate |
-| Low-dose TCAs (neuromodulators) | Pain signaling in nerves and brain | Ranked near the top in 68 trials | Moderate; low certainty |
-| Peppermint oil | Gut smooth muscle spasm | 10 trials, 1,030 patients | Preliminary; very low quality, more reflux |
+| Low-dose TCAs (neuromodulators) | Pain signaling in nerves and brain | Ranked second in a 68-trial analysis (15 TCA trials) | Moderate; low certainty |
+| Peppermint oil | Gut smooth muscle spasm | 10 trials, 1,030 patients | Preliminary; very low quality, more side effects |
 
 ## 10.9 The Placebo Response: Why IBS Trials Are Tricky
 
-Here's a puzzle that matters for every IBS treatment claim. In drug trials, a lot of people who get the fake pill feel better too.
+Every IBS treatment claim runs into the same problem. In drug trials, a lot of people who get the fake pill feel better too.
 
 The **placebo response** is the improvement in symptoms that people experience after receiving an inactive treatment (a placebo), caused by things like expectations, attention and care, the natural ups and downs of symptoms, and changes in how the brain processes body signals. It doesn't mean the person "was faking." Expectations and attention can really change pain processing, the same brain systems that IBS involves. Part of the response also comes from symptoms naturally swinging back toward average over time.
 
@@ -293,7 +297,7 @@ What should you conclude? It's a small, short, single-center study without blind
 
 ## 10.10 Is IBS "Just Anxiety"?
 
-Sam has test anxiety, and his IBS flares before tests and races. So is his IBS just anxiety in disguise? This idea is common, and it hurts people.
+Sam has test anxiety, and his IBS flares before tests and races. So is his IBS just anxiety in disguise? A lot of people believe this, and hearing it can make patients feel dismissed.
 
 !!! hype-hype "Hype Meter: "IBS is just anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>

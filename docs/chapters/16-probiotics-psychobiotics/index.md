@@ -187,7 +187,7 @@ Notice the type of evidence: **mice**, and an **experiment that tested cause**, 
 
 ### The human trial that didn't work
 
-Six years later, much of the same research group took the natural next step and gave the same strain to people. In a [2017 study](https://pubmed.ncbi.nlm.nih.gov/27865949/) in *Brain, Behavior, and Immunity*, Kelly and colleagues gave *L. rhamnosus* JB-1 or a placebo to 29 healthy men in an 8-week randomized, placebo-controlled crossover design (each man took the probiotic for 4 weeks and the placebo for 4 weeks, in random order, so he took both the probiotic and the placebo at different times, without knowing which was which). They measured mood, anxiety, stress, sleep quality, the stress hormone response to a lab stress test, inflammation, memory and attention, and brain waves on EEG.
+Six years later, much of the same research group took the natural next step and gave the same strain to people. In a [2017 study](https://pubmed.ncbi.nlm.nih.gov/27865949/) in *Brain, Behavior, and Immunity*, Kelly and colleagues gave *L. rhamnosus* JB-1 or a placebo to 29 healthy men in an 8-week randomized, placebo-controlled crossover design (each man took the probiotic for 4 weeks and the placebo for 4 weeks, in random order, without knowing which was which). They measured mood, anxiety, stress, sleep quality, the stress hormone response to a lab stress test, inflammation, memory and attention, and brain waves on EEG.
 
 The probiotic did no better than placebo on any of these. The paper's title asked, "Lost in translation?" The authors noted that the original mouse work used an especially anxious strain of mouse, while the human volunteers were healthy, and they called for studies in people with stress-related disorders.
 
@@ -215,14 +215,14 @@ Effect size answers a different question from "Was there an effect?" A huge stud
 
 ### Different reviews, different answers
 
-Here's what several recent reviews of probiotics for depression found. All are human studies, and all pool randomized controlled trials that compare a treatment group with a control group, so they are designed to test cause. But look how much they differ.
+Here's what four recent reviews of probiotics for depression found. (Liu also pooled prebiotic trials, and Pan pooled a wider group of "microbiome-targeted" treatments that includes probiotics.) All are human studies, and all pool randomized controlled trials that compare a treatment group with a control group, so they are designed to test cause. But look how much they differ.
 
 | Review | Trials included | Main finding for probiotics and depression | Notes |
 |---|---|---|---|
-| [Liu et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31004628/) | 34 controlled trials (probiotics and prebiotics) | Small effect, d = 0.24 | Prebiotics showed no effect; bigger effect in people with a diagnosis |
+| [Liu et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31004628/) | 34 controlled trials (probiotics and prebiotics) | Small effect, d = 0.24 | Prebiotics showed no effect; bigger effect in clinical samples, and 0.73 in a preliminary analysis of people with a psychiatric diagnosis |
 | [Rahmannia et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39245752/) | 12 trials, 707 people | Improvement on one questionnaire (BDI), not on three others | Authors urge cautious interpretation |
-| [Asad et al., 2025](https://pubmed.ncbi.nlm.nih.gov/39731509/) | 23 trials, 1,401 patients with a diagnosis | Large effect, about 0.96, but results varied a lot | High heterogeneity (trials disagreed with each other) |
-| [Pan et al., 2025](https://pubmed.ncbi.nlm.nih.gov/39838303/) | 34 trials | Small effect, about 0.26 | Benefit in Asian studies, not European ones; no benefit beyond 12 weeks |
+| [Asad et al., 2025](https://pubmed.ncbi.nlm.nih.gov/39731509/) | 23 trials, 1,401 patients with a diagnosis (18 trials tested probiotics for depression) | Large effect, about 0.96, but results varied a lot | High heterogeneity (trials disagreed with each other) |
+| [Pan et al., 2025](https://pubmed.ncbi.nlm.nih.gov/39838303/) | 34 trials of "microbiome-targeted" treatments, including probiotics | Small effect, about 0.26 | Benefit in Asian studies, not European ones; no benefit beyond 12 weeks |
 
 Why don't they agree? They included different trials, different people (healthy volunteers versus people with a diagnosis), different strains, and different lengths of treatment. Strain specificity alone means "probiotics" in one review might be completely different products from "probiotics" in another. When a review reports **high heterogeneity**, that's a warning that the trials inside it disagree so much that one average number may be misleading.
 
@@ -251,7 +251,7 @@ If publication bias can distort the evidence for heavily regulated medicines, it
 
 !!! hype-preliminary "Hype Meter: "Probiotics treat depression and anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
-    **Verdict: Preliminary.** Several meta-analyses of human randomized trials report some benefit, but the estimates range from small to large, the trials disagree a lot, and the results depend on the strain, the people, and the questionnaire. A 2024 review of 12 trials (707 people) found improvement on one depression scale but not on three others, and the best-designed add-on trial so far was a small pilot. No probiotic is approved to treat depression or anxiety.
+    **Verdict: Preliminary.** Several meta-analyses of human randomized trials report some benefit, but the estimates range from small to large, the trials disagree a lot, and the results depend on the strain, the people, and the questionnaire. A 2024 review of 12 trials (707 people) found improvement on one depression scale but not on three others, and one of the best-designed add-on trials so far (Section 16.10) was a small pilot. No probiotic is approved to treat depression or anxiety.
     **What would change the grade:** Large, preregistered, placebo-controlled trials of a specific strain in people with a diagnosed condition, with one primary outcome, that are then repeated by independent teams.
 
 ## 16.9 Try It Yourself: The Probiotic Trial Reader
@@ -329,7 +329,7 @@ The conclusion: this is a careful, honest small trial, and its authors described
 
 **The mind-body side:** NICU parents often feel powerless, and giving a probiotic can feel like one thing they can do. The care team treats Grace's question as loving and reasonable, not foolish. They explain the risks, invite her to be part of decisions, and point her toward things that are within her control and supported by the team, such as skin-to-skin holding when Amara is stable and help with providing breast milk if she chooses. A NICU social worker or parent support group can help with the stress.
 
-**Treatment today:** The team explains that hospital NICUs make their own policies about probiotics, weighing studies like those behind the 2020 AGA guideline against the 2023 FDA warning, and that no parent should add a store-bought supplement to a premature baby's feeds. Amara's care continues with standard NICU support: careful feeding, monitoring for infection and gut problems, and growth tracking.
+**Treatment today:** The team explains that hospital NICUs make their own policies about probiotics, weighing studies like those behind the 2020 AGA guideline against the 2023 FDA warning, and that no parent should add a store-bought supplement to a premature baby's feeds. The American Academy of Pediatrics, in a [2021 clinical report](https://pubmed.ncbi.nlm.nih.gov/34031231/), said current evidence does not support giving probiotics routinely to all preterm infants, especially babies who weighed less than 1,000 grams at birth. Amara's care continues with standard NICU support: careful feeding, monitoring for infection and gut problems, and growth tracking.
 
 **What's new in research:** A [2023 Cochrane review](https://pubmed.ncbi.nlm.nih.gov/37493095/) by Sharif and colleagues pooled 60 randomized trials with 11,156 very preterm or very low birth weight babies. Probiotics may lower the risk of necrotizing enterocolitis (low-certainty evidence) and probably lower the risk of death slightly (moderate-certainty evidence). But most trials were small, the products differed, and for the most premature and smallest babies the review found little or no clear effect. Researchers continue to study specific, well-characterized strains made to strict manufacturing standards. In its 2023 statement, the FDA said that for a probiotic to be lawfully marketed as a drug or biological product for infants, it would need FDA approval based on evidence of safety and effectiveness. **Evidence grade: Moderate for a benefit in very preterm babies, but not settled for routine use.** Many human trials point toward fewer cases of necrotizing enterocolitis, but certainty is low to moderate, results vary by strain and setting, serious infections have been documented, and no probiotic is approved as a drug for infants.
 

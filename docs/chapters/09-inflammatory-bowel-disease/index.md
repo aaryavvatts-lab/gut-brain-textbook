@@ -44,7 +44,7 @@ Inflammatory bowel disease (IBD) is a group of long-lasting conditions in which 
 
 !!! mascot-welcome "When the gut's defenses won't stand down"
     ![Vee waving hello](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
-    This is Riya's chapter. About 100,000 American kids and teens live with IBD, so there's a good chance someone in your school does, even if you'd never know it. Understanding what's actually happening inside their gut, and inside their head during a flare, is one of the kindest things you can learn. Let's check what the gut is really telling the brain!
+    This is Riya's chapter. About 100,000 American kids and teens live with IBD, so there's a good chance someone in your school does, even if you'd never know it. Knowing what's actually happening inside their gut, and inside their head during a flare, makes it much easier to be a good friend to them. Let's check what the gut is really telling the brain!
 
 ## 9.1 A Word Riya Had Never Heard
 
@@ -62,7 +62,7 @@ An **immune-mediated disease** is a condition in which the body's own immune res
 
 **Inflammatory bowel disease** (IBD) is a group of chronic conditions in which abnormal immune reactions cause long-lasting, recurring inflammation of the digestive tract. "Chronic" means long-lasting, often lifelong. [The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)](https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts) describes both main forms of IBD as chronic diseases in which abnormal reactions of the immune system cause inflammation in the gut. A [2021 review](https://pubmed.ncbi.nlm.nih.gov/33721557/) in *Lancet Gastroenterology & Hepatology* calls IBD a lifelong condition with no cure.
 
-"No cure" can sound scary, so here is the other half of the truth: there are many treatments that can calm the inflammation, let the gut heal, and keep people well for long stretches.
+"No cure" can sound scary. The other half of the story is that there are many treatments that can calm the inflammation, let the gut heal, and keep people well for long stretches.
 
 !!! mascot-thinking "Inflammation is the real target"
     ![Vee thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
@@ -70,9 +70,9 @@ An **immune-mediated disease** is a condition in which the body's own immune res
 
 ## 9.3 Two Main Types: Ulcerative Colitis and Crohn's Disease
 
-IBD has two main forms. (A third, called microscopic colitis, mostly affects older adults and isn't covered here.) They share a lot, but they differ in two big ways: **where** the inflammation happens and **how deep** it goes.
+IBD has two main forms. (A third, called microscopic colitis, mostly affects older adults and isn't covered here. And some people, especially young children, have colitis that doesn't clearly fit either main form at first; doctors call this IBD-unclassified, according to the [revised Porto criteria](https://pubmed.ncbi.nlm.nih.gov/24231644/) for diagnosing IBD in children.) They share a lot, but they differ in two big ways: **where** the inflammation happens and **how deep** it goes.
 
-**Ulcerative colitis** (UC) is a form of IBD in which inflammation affects only the large intestine (colon) and rectum, starting at the rectum and spreading upward in one continuous stretch, and stays in the inner layers of the gut wall. Recall the four gut wall layers from Chapter 1: mucosa, submucosa, muscularis, and serosa. In UC, the inflammation stays in the mucosa and submucosa, according to the [StatPearls review of ulcerative colitis](https://pubmed.ncbi.nlm.nih.gov/29083748/). The inflamed lining develops sores called ulcers, which bleed. A 2023 review in *The Lancet* by [Le Berre and colleagues](https://pubmed.ncbi.nlm.nih.gov/37573077/) says people with UC usually first see a doctor because of bloody diarrhea. Other common symptoms, according to NIDDK, are belly cramps, mucus in the stool, an urgent need to go, and a feeling of needing to go even when the bowel is empty.
+**Ulcerative colitis** (UC) is a form of IBD in which inflammation affects only the large intestine (colon) and rectum, starting at the rectum and spreading upward in one continuous stretch, and stays in the inner layers of the gut wall. Recall the four gut wall layers from Chapter 1: mucosa, submucosa, muscularis, and serosa. In UC, the inflammation stays in the inner layers, the mucosa and submucosa, according to the [StatPearls review of ulcerative colitis](https://pubmed.ncbi.nlm.nih.gov/29083748/). Most of it is in the innermost lining, the mucosa, which is how the [FDA](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-stelara-pediatric-ulcerative-colitis) describes UC. The inflamed lining develops sores called ulcers, which bleed. A 2023 review in *The Lancet* by [Le Berre and colleagues](https://pubmed.ncbi.nlm.nih.gov/37573077/) says people with UC usually first see a doctor because of bloody diarrhea. Other common symptoms, according to NIDDK, are belly cramps, mucus in the stool, an urgent need to go, and a feeling of needing to go even when the bowel is empty.
 
 **Crohn's disease** is a form of IBD that can affect any part of the digestive tract, from the mouth to the anus, most often the end of the small intestine (the ileum) and the beginning of the colon, often in patches with healthy sections in between. Doctors call those healthy gaps "skip lesions." Riya's Crohn's affects the end of her small intestine and part of her colon, the most common pattern. A 2024 *Lancet* review by [Dolinger, Torres, and Vermeire](https://pubmed.ncbi.nlm.nih.gov/38437854/) describes Crohn's inflammation as often patchy and segmental, commonly in the terminal ileum and nearby colon. NIDDK lists diarrhea, belly cramps and pain, and weight loss as the most common symptoms.
 
@@ -86,13 +86,13 @@ Why does depth matter? Picture a garden hose. If irritation eats through every l
 
 According to the [StatPearls review of Crohn's disease](https://pubmed.ncbi.nlm.nih.gov/28613792/), about half of patients develop one of these complications within 20 years of diagnosis. This is one reason doctors now treat Crohn's early and aim to heal the lining before damage builds up (Section 9.9).
 
-The table below pulls together the differences we just discussed.
+The table sums up the differences.
 
 | Feature | Ulcerative colitis | Crohn's disease |
 |---|---|---|
 | Where | Colon and rectum only | Anywhere from mouth to anus; most often end of small intestine and start of colon |
 | Pattern | Continuous, starting at the rectum | Patchy, with healthy "skip" areas |
-| Depth | Inner layers (mucosa, submucosa) | Transmural (through the whole wall) |
+| Depth | Inner layers (mostly the mucosa) | Transmural (through the whole wall) |
 | Typical first complaint | Bloody diarrhea | Diarrhea, belly pain, weight loss |
 | Possible complications | Severe bleeding, a dangerously swollen colon | Strictures, fistulas, abscesses |
 | Can surgery remove the disease? | Removing the colon and rectum removes the disease from the gut | No; it can come back in another part of the gut |
@@ -107,7 +107,7 @@ IBD isn't rare, though counting it is tricky. One method uses insurance claims, 
 
 Using claims data, a [2023 study](https://pubmed.ncbi.nlm.nih.gov/37481117/) in *Gastroenterology* led by James Lewis estimated that IBD is diagnosed in about 721 of every 100,000 Americans, roughly 0.7% of the population, or about 2.39 million people. A 2025 study by [Kappelman and colleagues](https://pubmed.ncbi.nlm.nih.gov/39577811/), using the same kind of data, found about 122 cases per 100,000 people under age 20, or roughly 100,000 young people.
 
-National surveys give a higher number: in 2023 to 2024, 1.6% of US adults (about 4.1 million) said a doctor had told them they had Crohn's disease or ulcerative colitis, according to a [2026 report from the National Center for Health Statistics](https://www.cdc.gov/nchs/data/hestat/hestat122.htm). Surveys count anyone who was ever told they had the disease, which can include old or mistaken diagnoses, so the claims figure is the better estimate of how many people are living with diagnosed IBD.
+National surveys give a higher number: in 2023 to 2024, 1.6% of US adults (about 4.1 million) said a doctor had told them they had Crohn's disease or ulcerative colitis, according to a [2026 report from the National Center for Health Statistics](https://www.cdc.gov/nchs/data/hestat/hestat122.htm). Surveys count anyone who was ever told they had the disease, which can include old or mistaken diagnoses, so the claims figure is probably the better estimate of how many people are living with diagnosed IBD. (Claims data have gaps too: they can't count people who had no insurance record in the years studied.)
 
 IBD can start at any age, but it most often begins in young adulthood. The Lewis study found that new diagnoses peak in people's twenties. NIDDK says UC most often begins between ages 15 and 30, and Crohn's is most likely to begin between ages 20 and 29. The Lewis study also found that IBD is diagnosed less often in Black, Asian, and Hispanic Americans than in white Americans, although a 2023 *Lancet* review notes that IBD is becoming more common around the world.
 
@@ -140,7 +140,7 @@ IBD rarely stays the same for long. It tends to come in waves.
 
 A **disease flare** is a period when IBD becomes active, with increased inflammation and symptoms such as diarrhea, pain, bleeding, and tiredness. **Remission** is a period when IBD is quiet: symptoms fade or disappear, and ideally the inflammation settles too. NIDDK says periods of remission can last for weeks or years, and that the goal of treatment is to keep people in remission long term.
 
-Here is an everyday way to think about it. A flare is like a wildfire season, and remission is the quiet season in between. The quiet season is real and can last a long time, but the underlying conditions haven't vanished. Firefighters don't sell their trucks when the fires stop. In the same way, people with IBD usually keep taking maintenance medicine during remission, because it is the medicine that keeps the quiet season going. NIDDK says people with ulcerative colitis typically need lifelong treatment with medicines unless they have surgery to remove the colon and rectum.
+Think of it like the seasons in a dry forest. A flare is like a wildfire season, and remission is the quiet season in between. The quiet season is real and can last a long time, but the underlying conditions haven't vanished. Firefighters don't sell their trucks when the fires stop. In the same way, people with IBD usually keep taking maintenance medicine during remission, because it is the medicine that keeps the quiet season going. NIDDK says people with ulcerative colitis typically need lifelong treatment with medicines unless they have surgery to remove the colon and rectum.
 
 Doctors distinguish clinical remission (the person feels well) from endoscopic healing (the gut lining looks healed on a camera exam). These don't always match: a person can feel fine while inflammation still simmers, which is why doctors keep checking (Section 9.7).
 
@@ -179,7 +179,7 @@ Think of fecal calprotectin as a smoke detector: it can tell you there is probab
 
 **Colonoscopy** is a procedure in which a doctor passes a long, thin, flexible tube with a light and a tiny camera through the anus to look at the lining of the rectum and entire colon, and often the end of the small intestine, usually while the patient is sedated. NIDDK says endoscopy tests, which include colonoscopy, are the most accurate way to diagnose Crohn's disease. During the colonoscopy, the doctor takes biopsies: tiny pieces of the lining, painless to remove, that a pathologist examines under a microscope.
 
-The doctor looks for the pattern of inflammation. Continuous inflammation starting at the rectum points to ulcerative colitis. Patchy inflammation with skip areas, especially at the end of the small intestine, points to Crohn's. Because Crohn's can affect parts of the small intestine a colonoscope can't reach, doctors may add imaging such as MRI, or a capsule endoscopy, where the patient swallows a pill-sized camera (NIDDK).
+The doctor looks for the pattern of inflammation. Continuous inflammation starting at the rectum points to ulcerative colitis. Patchy inflammation with skip areas, especially at the end of the small intestine, points to Crohn's. Because Crohn's can affect parts of the small intestine a colonoscope can't reach, doctors may add imaging such as MRI, or a capsule endoscopy, where the patient swallows a pill-sized camera (NIDDK). For children and teens, the revised Porto criteria recommend both an upper endoscopy (a camera passed through the mouth to view the esophagus, stomach, and first part of the small intestine) and a colonoscopy for everyone suspected of having IBD, plus imaging of the small intestine unless the picture is clearly typical UC.
 
 Here is how the two main tests compare.
 
@@ -189,6 +189,8 @@ Here is how the two main tests compare.
 | What it tells you | Whether there is likely inflammation | Where the inflammation is, how severe, what type |
 | Invasive? | No | Yes (bowel prep, sedation) |
 | Main use | Screening and repeat monitoring | Diagnosis and checking for healing |
+
+Colonoscopy also has a long-term job. People who have had IBD in a large part of the colon for many years are more likely to develop colorectal cancer. NIDDK says people with long-standing ulcerative colitis that involves a third or more of the colon need closer screening, and that people with Crohn's disease in the large intestine may be advised to have screening colonoscopies to look for cancer or precancerous cells (called dysplasia). For Crohn's, NIDDK adds that the risk is higher the longer someone has had the disease, and in people who also have PSC or a family history of colorectal cancer. These screening checks are a routine part of long-term IBD care.
 
 ## 9.8 The Treatment Toolbox
 
@@ -351,7 +353,7 @@ Now choose **Missed biologic doses**, set the month to 6, and add it. Inflammati
 !!! note "Meet the patient (fictional)"
     Riya is 14 and in the spring of eighth grade. For about six months she has had cramping pain in her lower right belly, diarrhea several times a day, and a tiredness that sleep doesn't fix. She has lost weight without trying and has stopped finishing meals. Her parents notice she has quit practicing violin and goes to bed early.
 
-**What the doctor checks:** Dr. Alvarez asks how long the symptoms have lasted, about blood in the stool, nighttime symptoms, joint pain, rashes, and family history, and checks Riya's growth chart. Blood tests show mild anemia and signs of inflammation. A stool test rules out infection and shows a high fecal calprotectin. Next come a colonoscopy with biopsies and an MRI of the small intestine.
+**What the doctor checks:** Dr. Alvarez asks how long the symptoms have lasted, about blood in the stool, nighttime symptoms, joint pain, rashes, and family history, and checks Riya's growth chart. Blood tests show mild anemia and signs of inflammation. A stool test rules out infection and shows a high fecal calprotectin. Next come an upper endoscopy and a colonoscopy, both with biopsies, and an MRI of the small intestine.
 
 **Connecting the signals:** Months of diarrhea, weight loss, and fatigue with a high calprotectin point to real inflammation, not a disorder of gut-brain interaction like IBS. The colonoscopy shows patchy ulcers with healthy skip areas in the end of the small intestine and part of the colon, the biopsies show inflammation typical of Crohn's, and the MRI shows thickening through the bowel wall, a sign of transmural inflammation.
 
@@ -361,7 +363,7 @@ Now choose **Missed biologic doses**, set the month to 6, and add it. Inflammati
 
 **The mind-body side:** Riya's mood had dropped well before diagnosis, partly from feeling sick and embarrassed and perhaps partly from inflammatory signals reaching her brain (Section 9.10). She also began worrying that a flare might start during an orchestra concert. Dr. Alvarez's team screens her for anxiety and depression and connects her with the clinic psychologist, who teaches coping skills for pre-flare worry. The school nurse sets up a plan for restroom access and missed work.
 
-**Treatment today:** Because Riya's symptoms were moderate and she was losing weight, Dr. Alvarez talked with the family about two ways to calm the flare quickly: exclusive enteral nutrition or a short course of steroids. They chose steroids, with a careful taper, and Dr. Alvarez planned a biologic medicine by injection for long-term maintenance. (Care teams weigh these choices for each child; neither is right for everyone.) Within weeks Riya felt better, and within a few months her calprotectin came down. A follow-up check showed her lining healing, which is the goal of "treat to target." Now 16, she is mostly in remission and keeps taking her biologic, with occasional flares that her care team manages. She is back to violin and cooking with her grandmother.
+**Treatment today:** Because Riya's symptoms were moderate and she was losing weight, Dr. Alvarez talked with the family about two ways to calm the flare quickly: exclusive enteral nutrition, which European pediatric guidelines prefer for children with lower-risk disease, or a short course of steroids. They chose steroids, with a careful taper, and Dr. Alvarez planned a biologic medicine by injection for long-term maintenance. (Care teams weigh these choices for each child; neither is right for everyone.) Within weeks Riya felt better, and within a few months her calprotectin came down. A follow-up check showed her lining healing, which is the goal of "treat to target." Now 16, she is mostly in remission and keeps taking her biologic, with occasional flares that her care team manages. She is back to violin and cooking with her grandmother.
 
 **What's new in research:** Pediatric care is moving toward advanced medicines earlier. A 2026 study of 787 US children with newly diagnosed Crohn's disease found that 75% of those diagnosed in 2019 to 2023 started an advanced therapy, such as a biologic, within a year (Gonzalez et al., *American Journal of Gastroenterology*, 2026). **Evidence grade: Moderate.** It is a large observational study of insurance records from commercially insured children. It shows a clear change in practice, but it couldn't confirm whether earlier treatment lowered the need for surgery, so randomized and longer studies are still needed.
 

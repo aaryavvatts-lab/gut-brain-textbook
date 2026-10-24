@@ -23,11 +23,12 @@ Every chapter went through these layers before publication (October 2026). Each 
 | **3. Independent fact-check** | A separate reviewer re-checked every chapter's facts, quiz answers, links, and simulation, and fixed what was wrong. The supporting pages (FAQ, mock exam, teacher materials) got their own reviewer. |
 | **4. Expert subject edit and currency pass** | Editors working as a pediatric gastroenterologist, a gut-brain researcher, and an adolescent psychiatrist looked for oversimplifications that had become false, missing caveats, and outdated facts, and updated everything to October 2026. |
 | **5. Plain-language edit with a fact guard** | A final edit made the writing clearer. A script compared every file before and after to prove no fact, number, name, or link changed. |
-| **6. Whole-book checks** | Scripts checked every chapter's structure, the learning graph, the glossary, the FAQ links, every external link, and the built website. Every simulation was tested and looked at. |
+| **6. Final specialist pass** | A last full read of every chapter by editors working as a senior ulcerative colitis and Crohn's specialist, a neuroscientist, and a literary editor, checking every claim, grade, and quiz answer and removing anything that sounded machine-written. |
+| **7. Whole-book checks** | Scripts checked every chapter's structure, the learning graph, the glossary, the FAQ links, every external link, and the built website. Every simulation was tested and looked at. |
 
 The lead editor personally re-opened the sources behind the biggest and newest claims, including every recent FDA approval, the 2026 Rome V criteria, the August 2026 CDC estimate of adult IBD, and the October 2026 CDC youth survey.
 
-**How many fixes?** The review logs record about 120 corrections from the independent fact-check of the 20 chapters, 12 on the supporting pages, and about 95 more fixes and updates from the expert edit. Most were small (a softened word, a clearer caveat). The most important ones are listed below.
+**How many fixes?** The review logs record about 120 corrections from the independent fact-check of the 20 chapters, 12 on the supporting pages, about 95 more fixes and updates from the expert edit, and about 120 more from the final specialist pass. Most were small (a softened word, a clearer caveat). The most important ones are listed below.
 
 ## Corrections made before publication
 
@@ -47,6 +48,12 @@ The lead editor personally re-opened the sources behind the biggest and newest c
 | Chapter 11, home page | Used the 2023 youth survey figure (39.7%). | Updated to the 2025 survey, published October 15, 2026 (33.3%). |
 | Chapter 12 | A case listed a relative with type 1 diabetes as a celiac risk factor. | Changed to match NIDDK: family history of celiac disease is the listed risk factor. |
 | Hype Meter page, teacher guide | Used a Strong claim as the example of Moderate. | Replaced with a true Moderate example. |
+| Chapter 2, Chapter 17 | Lists of FDA-approved vagus nerve stimulators left out one device. | Added the Vivistim System (approved August 27, 2021) for arm rehabilitation after stroke. |
+| Chapter 5 | "Gut bacteria make neurotransmitters that reach your brain" was graded Preliminary, even though the chapter said the "reach your brain" part isn't shown in people. | Regraded Hype, as stated. |
+| Chapter 9 | The chapter didn't cover colorectal cancer screening in IBD or the full pediatric diagnostic workup. | Added both, from NIDDK and the pediatric Porto criteria. |
+| Chapter 12 | Said celiac disease can't happen without the DQ2 or DQ8 genes, and implied fructan beat placebo in a key trial. | Now "almost never" (NIDDK), and the trial result is described as the study reported it. |
+| Chapter 17 | A quote implied fecal transplant itself is FDA approved, and Vowst's owner was out of date. | Only Rebyota and Vowst are approved; Vowst was sold by Seres to Nestlé Health Science in 2024. |
+| Chapter 18 | A breathing exercise said ten slow breaths take "about a minute." | Corrected (about six breaths a minute at that pace). |
 
 ## Corrections after publication
 

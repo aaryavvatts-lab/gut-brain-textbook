@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.0 (2026-10-24)
+
+- Specialist review of all 20 chapters (neuroscience and clinical accuracy, plain-language edit); corrections are listed in the accuracy page
+- Seven charts built from numbers already verified in the book, each with a source line
+- Claims dataset (60 graded claims) and an interactive Claim Explorer
+- New Methods and Impact pages; routes diagram on the home page
+- Vivistim (FDA, 2021) and the 2023 vagus nerve stimulation study in Crohn's disease added
+- PDFs rebuilt (full book 671 pages)
+
 ## v1.0.0 (2026-10-24)
 
 First public release.

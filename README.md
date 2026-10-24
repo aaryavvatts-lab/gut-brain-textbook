@@ -11,6 +11,8 @@
 - **The Hype Meter.** Popular gut-brain claims get a visible evidence grade: Strong, Moderate, Preliminary, or Hype. Every study is labeled as mouse or human, correlation or cause.
 - **20 interactive MicroSims** built with p5.js, each with a note on what the model leaves out.
 - **The patient and family side.** Every chapter has a fictional At the Bedside case that includes mood, stress, sleep, and school, plus sidebars for families and for teens living with a gut condition.
+- **An open claims dataset.** Every graded claim in the book (60 so far) is published as JSON and CSV, with a searchable [Claim Explorer](https://aaryavvatts-lab.github.io/gut-brain-textbook/claims-explorer/) and charts, so teachers and students can reuse it.
+- **Real data, shown visually.** Charts built only from verified numbers (IBD and mood, IBS prevalence under different criteria, trial results), plus a diagram of the five gut-to-brain routes.
 - **Free and open** under CC BY-NC-SA 4.0.
 
 ## What's inside
@@ -26,10 +28,11 @@
 | FAQ questions | 80 |
 | Words in the chapters | about 221,000 |
 | Appendices | Mock exam, glossary, teacher guide, club kit, pilot study kit, questions to ask your doctor, corrections log |
+| Open data | `docs/data/hype-meter-claims.json` and `.csv` (graded claims), `docs/learning-graph/learning-graph.csv` (337 concepts) |
 
 ## How it was checked
 
-Every chapter went through separate layers: a verified-source dossier before writing, a writer's fact log, an independent fact-check, an expert subject edit and currency pass (current as of October 2026), and a plain-language edit guarded by a script that proves no facts changed. Every PubMed and PMC link was confirmed through NCBI's official APIs. See the [Accuracy and Corrections](https://aaryavvatts-lab.github.io/gut-brain-textbook/accuracy/) page for the process and the corrections log.
+Every chapter went through separate layers: a verified-source dossier before writing, a writer's fact log, an independent fact-check, an expert subject edit and currency pass (current as of October 2026), and a plain-language edit guarded by a script that proves no facts changed. Every PubMed and PMC link was confirmed through NCBI's official APIs. See [How This Book Was Made](https://aaryavvatts-lab.github.io/gut-brain-textbook/methods/) for exactly who decided what and how AI was used, the [Accuracy and Corrections](https://aaryavvatts-lab.github.io/gut-brain-textbook/accuracy/) page for the corrections log, and [Impact and Reviews](https://aaryavvatts-lab.github.io/gut-brain-textbook/impact/) for outside reviews and classroom use as they happen.
 
 This book has not yet been reviewed by an outside physician. Expert reviewers are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 

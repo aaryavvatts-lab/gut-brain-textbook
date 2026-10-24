@@ -50,7 +50,7 @@ const CARDS = [
     why: 'The SetPoint System was FDA approved July 30, 2025 for adults whose RA did not respond to biologic or targeted drugs.' },
   { label: 'Vagus nerve stimulation for Crohn\'s disease', short: 'VNS Crohn\'s',
     bin: 'experimental',
-    why: 'Only tiny pilot studies (one followed 7 patients). Not approved for Crohn\'s disease.' },
+    why: 'Only two small open-label studies so far (7 patients in 2016, 16 patients in 2023), with no comparison group. Not FDA approved for Crohn\'s disease.' },
   { label: 'Handheld neck stimulator (gammaCore) for cluster headache', short: 'gammaCore',
     bin: 'approved',
     why: 'FDA authorized it in 2017 (cluster headache) and cleared it in 2018 (migraine) for adults. Authorized and cleared, not "approved."' },
