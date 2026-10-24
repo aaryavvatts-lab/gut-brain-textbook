@@ -96,7 +96,7 @@ The best evidence for strain specificity comes from a [2018 systematic review](h
 
 Strain specificity matters for Dev's bottle. A label that says only "*Lactobacillus* blend" or "bifidobacteria" doesn't tell you which strains you're getting, so it's impossible to match the product to any study.
 
-!!! hype-hype "Hype Meter: \"All probiotics are basically the same, so just grab any one\""
+!!! hype-hype "Hype Meter: "All probiotics are basically the same, so just grab any one""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** A 2018 systematic review of 228 trials found that probiotic effects depend on both the specific strain and the specific condition, and NCCIH says a benefit from one strain doesn't carry over to others. Strains from the same species can behave differently, and a strain that helps one problem may not help another.
     **What would change the grade:** Large head-to-head trials showing that many different strains give the same benefit for the same condition. So far, the evidence points the other way.
@@ -161,7 +161,7 @@ The clearest warning came in 2023. On October 26, 2023, the [FDA announced](http
 
 There's a real scientific debate behind this. In 2020, the [American Gastroenterological Association (AGA) guideline on probiotics](https://pubmed.ncbi.nlm.nih.gov/32531291/) conditionally suggested certain strains for preventing necrotizing enterocolitis in preterm, low-birth-weight babies. Three years later, the FDA warned about serious infections and said no probiotic is approved as a drug for infants. Both statements are real, and they point in different directions. That's why decisions about very sick babies belong to the hospital care team and the family together, not to a supplement label.
 
-!!! hype-hype "Hype Meter: \"Probiotics are always safe because they're natural\""
+!!! hype-hype "Hype Meter: "Probiotics are always safe because they're natural""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Probiotics have a long record of apparently safe use in healthy people, but NCCIH says risk is greater for people with severe illness or weakened immune systems, and few studies have measured side effects in detail. In 2023, the FDA reported that probiotics given to hospitalized preterm infants contributed to invasive disease, including a death. "Natural" describes where something comes from, not how safe it is for a particular person.
     **What would change the grade:** Nothing about the "always" part. Better safety studies could show more precisely who is at risk and who isn't.
@@ -249,7 +249,7 @@ The most famous demonstration comes from antidepressant medicines, not probiotic
 
 If publication bias can distort the evidence for heavily regulated medicines, it can affect probiotic research too, where many trials are small. Systematic reviews try to detect it with statistical checks, and trial registries (public lists where trials are recorded before they start) help reveal studies that disappeared. But a meta-analysis of the published trials can only be as honest as the trials that got published.
 
-!!! hype-preliminary "Hype Meter: \"Probiotics treat depression and anxiety\""
+!!! hype-preliminary "Hype Meter: "Probiotics treat depression and anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** Several meta-analyses of human randomized trials report some benefit, but the estimates range from small to large, the trials disagree a lot, and the results depend on the strain, the people, and the questionnaire. A 2024 review of 12 trials (707 people) found improvement on one depression scale but not on three others, and the best-designed add-on trial so far was a small pilot. No probiotic is approved to treat depression or anxiety.
     **What would change the grade:** Large, preregistered, placebo-controlled trials of a specific strain in people with a diagnosed condition, with one primary outcome, that are then repeated by independent teams.
@@ -358,7 +358,7 @@ The conclusion: this is a careful, honest small trial, and its authors described
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Clinically proven psychobiotic! 50 billion CFU of our exclusive Lactobacillus blend for calm, focus, and mood.\""
+??? question "1. Claim Check: "Clinically proven psychobiotic! 50 billion CFU of our exclusive Lactobacillus blend for calm, focus, and mood.""
     **Grade: Hype.** "Psychobiotic" is a research term, not an approved category, and "clinically proven" means nothing unless the specific strains were tested in well-designed human trials. A "Lactobacillus blend" gives no strain codes, so you can't match it to any study, and strain specificity means results don't transfer between strains. A large CFU count doesn't make up for missing evidence. A careful version would say: "Some specific probiotic strains are being studied for mood, with mixed and preliminary results in human trials. This product's strains have not been tested for that."
 
 ??? question "2. Predict: Sam reads that a new probiotic strain reduced anxiety-like behavior in mice whose vagus nerves were intact, but not in mice whose vagus nerves were cut. He wonders what a trial of the same strain in healthy teens would find. What would you predict, and why?"
@@ -367,7 +367,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: A meta-analysis of 12 probiotic trials found a significant improvement on the Beck Depression Inventory but not on three other depression scales. Explain why this result should be interpreted cautiously."
     When you measure several outcomes, the chance that at least one looks significant by luck goes up, even if the treatment does nothing. Only one of four scales showed a benefit, and the two clinician-rated scales did not. Different trials also used different strains and people, so the result could reflect certain trials rather than probiotics in general. The authors themselves called for cautious interpretation.
 
-??? question "4. Apply: Riya's grandmother wants to buy her a probiotic labeled \"supports digestive health\" to help her Crohn's disease. Using this chapter, what should Riya know before taking it?"
+??? question "4. Apply: Riya's grandmother wants to buy her a probiotic labeled "supports digestive health" to help her Crohn's disease. Using this chapter, what should Riya know before taking it?"
     The label is a structure-function claim that a supplement can make without FDA review; it doesn't mean the product treats Crohn's, and it isn't allowed to claim that. The AGA 2020 guideline recommends probiotics for Crohn's only within clinical trials. Riya also takes a biologic, which affects her immune system, so she should show the product to Dr. Alvarez before taking it. Her grandmother's care is real, and Riya can thank her while explaining that her doctor needs to check first.
 
 **5. Read the data.** In a 2017 randomized, placebo-controlled crossover trial, Kelly and colleagues gave the probiotic strain *L. rhamnosus* JB-1 or a placebo to healthy men for 4 weeks each (8 weeks in total). Compare it with the earlier mouse study of the same strain (Bravo 2011):

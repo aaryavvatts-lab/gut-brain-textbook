@@ -123,7 +123,7 @@ Germ-free mice are an extreme case, though. They show what happens when microbes
 
 Butyrate also appears to do more than feed cells. In mice, SCFAs, and butyrate in particular, help the colon build up regulatory T cells, the immune cells that calm inflammation. Two 2013 papers showed this: [Smith and colleagues](https://pubmed.ncbi.nlm.nih.gov/23828891/) in *Science* found that SCFAs regulated the size and function of the colon's regulatory T cell population and protected mice against colitis (colon inflammation), and [Furusawa and colleagues](https://pubmed.ncbi.nlm.nih.gov/24226770/) in *Nature* found that butyrate drove immature T cells to become regulatory T cells and reduced colitis in a mouse model. These are mouse findings. They help explain why scientists are interested in butyrate for inflammatory bowel disease, but they don't show that eating more fiber treats Crohn's disease or ulcerative colitis in people.
 
-!!! hype-moderate "Hype Meter: \"Butyrate helps protect the gut lining\""
+!!! hype-moderate "Hype Meter: "Butyrate helps protect the gut lining""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** In mice, butyrate is the main fuel for colonocytes (Donohoe 2011) and helps build calming regulatory T cells that protect against colitis (Smith 2013; Furusawa 2013). In people, the evidence is real but small: the colon lining takes up butyrate preferentially (Cummings 1987, autopsy data), colon cells from surgery specimens burn it as a main fuel (Roediger 1980, lab study), and in 4 patients with diversion colitis (inflammation in a stretch of colon cut off from the stool stream after surgery) rinsing that stretch with SCFAs cleared the inflammation over four to six weeks ([Harig 1989](https://pubmed.ncbi.nlm.nih.gov/2909876/)). What's missing is strong evidence from larger human trials that raising butyrate improves the gut lining or prevents disease.
     **What would change the grade:** Randomized trials in people showing that raising colon butyrate (through diet or another route) improves measured barrier function or disease outcomes would move this up. Trials showing no effect would move it down.
@@ -215,7 +215,7 @@ One molecule appears in many leaky gut ads. **Zonulin** is a protein that some r
 
 The bigger problem is the test. In 2018, [Scheffler and colleagues](https://pubmed.ncbi.nlm.nih.gov/29459849/) measured "zonulin" with a widely used commercial test kit in 376 people. The results didn't match the people's haptoglobin genes, which they should have if the kit measured pre-haptoglobin 2. When the team checked what the kit actually grabbed, it wasn't pre-haptoglobin 2 at all; it detected related proteins instead, most likely one called properdin. In 2019, a separate team in Australia, [Ajamian and colleagues](https://pubmed.ncbi.nlm.nih.gov/30640940/), tested two other commercial kits and found they mostly detected haptoglobin and complement C3, other blood proteins. They advised caution about using serum zonulin as a marker of gut barrier health until the tests improve. So a teen who gets a "high zonulin" result from a consumer test may not have learned anything about their gut.
 
-!!! hype-hype "Hype Meter: \"Leaky gut causes autism, depression, and everything else\""
+!!! hype-hype "Hype Meter: "Leaky gut causes autism, depression, and everything else""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Intestinal permeability is real and can be measured, and it rises in some diseases and stressful states. But reviews describe the human data as mostly correlative, no disease has been cured by fixing permeability, and "leaky gut syndrome" is not a recognized diagnosis. Popular zonulin blood tests don't reliably measure zonulin.
     **What would change the grade:** Large human studies showing that increased permeability comes before a specific condition, plus randomized trials showing that repairing the barrier prevents or improves that condition, could move a narrow version of the claim (one condition, not "everything") toward Preliminary.
@@ -251,7 +251,7 @@ In a 2020 triple-blind trial, [Dalile and colleagues](https://pubmed.ncbi.nlm.ni
     ![Vee with a warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
     Germ-free mice have zero microbes from birth, which no human ever has. When you read "gut bacteria protect the blood-brain barrier," check whether the study compared mice with no microbes to mice with normal ones, because that's a big difference that doesn't translate directly to fiber on your plate.
 
-!!! hype-preliminary "Hype Meter: \"Short-chain fatty acids protect the human blood-brain barrier\""
+!!! hype-preliminary "Hype Meter: "Short-chain fatty acids protect the human blood-brain barrier""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** In germ-free mice, the BBB is leakier and microglia are immature, and adding microbes or butyrate partly reverses this (Braniste 2014; Erny 2015). But no human study has shown that gut microbes or SCFAs change BBB permeability. The one small human trial of colon-delivered SCFAs (66 men, one week) found a lower cortisol response to stress, not a change in the brain barrier or mood.
     **What would change the grade:** Human studies that measure BBB permeability directly (for example, with brain imaging) before and after changes in gut SCFAs, repeated in larger and more varied groups, would be needed to move it up. Animal research has a mixed record here: only about one in three highly cited animal studies were later tested successfully in human trials.
@@ -314,7 +314,7 @@ The conclusion: this is careful mouse work showing that, in mice, having microbe
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Your brain fog is caused by a leaky gut. Toxins are leaking into your blood and crossing into your brain. My gut-sealing powder fixes both barriers in 30 days!\""
+??? question "1. Claim Check: "Your brain fog is caused by a leaky gut. Toxins are leaking into your blood and crossing into your brain. My gut-sealing powder fixes both barriers in 30 days!""
     **Grade: Hype.** Intestinal permeability is real, and the BBB is real, but this post chains together claims the evidence doesn't support. "Leaky gut syndrome" isn't a recognized diagnosis, no disease has been cured by fixing gut permeability, and no human study shows that gut changes alter the BBB. Someone is also selling a product with a promised timeline. A careful version would say: "The gut lining's permeability can change, and scientists are studying whether that matters for some diseases, but it isn't a proven cause of brain fog."
 
 ??? question "2. Predict: Riya's family switches from white rice to a mix of rice and lentils at most meals. Assuming her care team agrees with the change, what would you predict happens to fermentation in her colon over the next few weeks, and which SCFA would her colon lining use most?"
@@ -323,7 +323,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: In the 1987 autopsy study, total SCFAs were about 375 micromoles per liter in the portal vein but only about 79 in peripheral blood. Explain the drop."
     The portal vein carries blood directly from the gut to the liver, so it holds SCFAs fresh from the colon. On the way, the colon lining uses much of the butyrate, and then the liver takes up much of the propionate (and some acetate). By the time blood reaches the rest of the body, mostly acetate is left, at a much lower concentration.
 
-??? question "4. Apply: A news story says, \"Study finds mice without gut bacteria have leaky blood-brain barriers, so probiotics could protect your brain.\" Use the six questions to identify the two biggest problems."
+??? question "4. Apply: A news story says, "Study finds mice without gut bacteria have leaky blood-brain barriers, so probiotics could protect your brain." Use the six questions to identify the two biggest problems."
     First, mouse or human: the study is in mice, so it can't show what happens in people. Second, the comparison: germ-free mice have no microbes at all, while a person taking a probiotic already has trillions of microbes. The study tested having microbes versus having none, not adding one product to a normal gut. The headline also skips the question of whether the probiotic in question even makes the relevant molecules.
 
 **5. Read the data.** In the 1987 study by Cummings and colleagues, researchers measured total SCFAs in intestinal contents from people who had died suddenly:

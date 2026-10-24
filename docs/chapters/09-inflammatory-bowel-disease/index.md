@@ -129,7 +129,7 @@ Here are the main risk factors with good human evidence:
 
 Notice what is *not* on that list as a proven cause: stress or "bad diet." Large studies have found some links worth investigating. For example, a 2021 study that followed more than 116,000 adults in 21 countries for about 10 years ([Narula and colleagues, *BMJ*](https://pubmed.ncbi.nlm.nih.gov/34261638/)) found that people who ate more ultra-processed foods were more likely to be diagnosed with IBD later. That is a correlation, not proof of cause, and it says nothing about any one person. Stress and diet come up constantly online, and both deserve a Hype Meter check. (Need a refresher on how the grades work? See [the Hype Meter](../../hype-meter.md).)
 
-!!! hype-hype "Hype Meter: \"IBD is caused by stress\""
+!!! hype-hype "Hype Meter: "IBD is caused by stress""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** No good evidence shows that stress causes IBD to start; the causes involve genes, the immune system, gut microbes, and the environment. One large study of more than 150,000 US nurses found that women with recent depression symptoms were more likely to be diagnosed with Crohn's disease later (but not ulcerative colitis), an association that doesn't show cause ([Ananthakrishnan and colleagues, 2013](https://pubmed.ncbi.nlm.nih.gov/22944733/)). A 2009 review by Singh, Graff, and Bernstein found strong evidence for an *association* between perceived stress and flares in people who already have IBD, and a weaker link with stressful life events. That is correlation, not cause: a flare can raise stress just as easily as stress might nudge a flare.
     **What would change the grade:** More large, long-term studies following healthy people before diagnosis, showing that stress consistently predicts who develops IBD after accounting for genes, smoking, and other factors, plus evidence of how it would work. Even then, "stress is one risk factor" would be very different from "stress causes IBD."
@@ -235,7 +235,7 @@ New medicines keep arriving, including for children. In April 2026, [the FDA app
 
 For children with Crohn's disease, a liquid formula can be a real medical treatment. In **exclusive enteral nutrition** (EEN), a child drinks a nutritionally complete formula, and usually nothing else, for a set number of weeks under a care team's supervision. The [newest guideline on pediatric Crohn's disease](https://pubmed.ncbi.nlm.nih.gov/42618885/) from two European expert groups (ECCO and ESPGHAN), published in 2026, names two preferred ways to induce remission in children with lower-risk Crohn's disease in the bowel: EEN, or the Crohn's Disease Exclusion Diet combined with partial enteral nutrition (a structured list of allowed foods plus formula for part of each day). For children at high risk of a complicated course, the same guideline recommends starting an anti-TNF biologic as the first treatment. Both nutrition therapies are supervised medical treatments with a defined plan, not lifestyle diets, and long-term care still aims for a healed lining and normal growth.
 
-!!! hype-hype "Hype Meter: \"Diet alone can cure Crohn's disease\""
+!!! hype-hype "Hype Meter: "Diet alone can cure Crohn's disease""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** No diet has been shown to cure Crohn's disease. The real finding is narrower: the 2026 ECCO-ESPGHAN guideline update prefers exclusive enteral nutrition (a supervised liquid-formula treatment), or a structured exclusion diet combined with partial formula, to induce remission in children with lower-risk Crohn's. Inducing remission is not curing, and a nutrition therapy planned and monitored by a care team is not a diet plan sold online.
     **What would change the grade:** Long-term randomized trials showing that a specific diet keeps people in lasting remission with a healed lining, without medicine, would make a narrower claim worth grading. "Cure" would require the disease to stay gone for good.
@@ -290,7 +290,7 @@ Here are the main routes scientists are studying, building on earlier chapters:
 
 Because the vagus nerve can calm inflammation, some researchers have asked whether stimulating it with an implanted device could treat Crohn's. This idea gets shared online more confidently than the evidence allows.
 
-!!! hype-preliminary "Hype Meter: \"Vagus nerve stimulation can treat Crohn's disease\""
+!!! hype-preliminary "Hype Meter: "Vagus nerve stimulation can treat Crohn's disease""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** Bonaz and colleagues had shown that vagus nerve stimulation improved colitis in rats. In a 2016 pilot study, they implanted stimulators in 7 people with active Crohn's disease and followed them for 6 months. Two were removed from the study at 3 months because they got worse; five reached remission. With only 7 people and no comparison group, the study shows the approach is feasible, not that it works. Implanted vagus nerve stimulators are FDA approved for some other conditions, but **not** for Crohn's disease.
     **What would change the grade:** Larger randomized trials comparing real stimulation with sham (fake) stimulation in people with Crohn's, measuring both symptoms and healing of the gut lining.
@@ -393,7 +393,7 @@ Now choose **Missed biologic doses**, set the month to 6, and add it. Inflammati
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"I healed my Crohn's in 30 days with this gut-reset cleanse. Doctors just want to keep you on drugs! Link in bio.\""
+??? question "1. Claim Check: "I healed my Crohn's in 30 days with this gut-reset cleanse. Doctors just want to keep you on drugs! Link in bio.""
     **Grade: Hype.** No cleanse or diet has been shown to cure Crohn's disease, and one person's story can't separate the cleanse from a natural period of remission, which can happen on its own. The real evidence for nutrition is narrower: supervised exclusive enteral nutrition can induce remission in some children with Crohn's, and it is followed by maintenance medicine. The "link in bio" means something is being sold. A careful version would say: "Some nutrition therapies, prescribed by a care team, can help induce remission in certain children with Crohn's, but they are not a cure."
 
 ??? question "2. Predict: Riya goes to a month-long summer music camp and forgets to bring her biologic, so she misses two doses. She feels fine for the first couple of weeks. What would you predict, and why?"
@@ -402,7 +402,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: At a check-up, Riya says she feels great, but her fecal calprotectin is higher than last time. Explain how both can be true and why her doctor cares."
     Calprotectin comes from neutrophils that move into an inflamed gut wall, so a higher level suggests inflammation is increasing, even if it isn't yet causing symptoms. Symptoms often lag behind inflammation or don't match it closely. Her doctor cares because the treatment target is a healed lining, not just feeling well, and simmering inflammation in Crohn's can slowly lead to complications like strictures. The doctor might repeat the test, order imaging or a colonoscopy, or adjust treatment.
 
-??? question "4. Apply: A 17-year-old with ulcerative colitis has had painful, swollen knees and red, sore eyes during his last two flares. His friend says, \"That can't be related to your gut.\" Use this chapter to respond."
+??? question "4. Apply: A 17-year-old with ulcerative colitis has had painful, swollen knees and red, sore eyes during his last two flares. His friend says, "That can't be related to your gut." Use this chapter to respond."
     Both can be extraintestinal manifestations of IBD. NIDDK lists certain types of arthritis and eye irritation among the effects of UC outside the gut. They make sense because IBD is an immune-mediated disease: inflammatory cells and cytokines travel in the blood, so inflammation that starts in the gut can affect other tissues. He should tell his care team, because these problems may need their own treatment and may also signal disease activity.
 
 **5. Read the data.** Three US studies estimated how many people have IBD, using different methods:

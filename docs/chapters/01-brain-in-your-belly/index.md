@@ -270,7 +270,7 @@ None of the research reviews used for this chapter describe the ENS as thinking,
 
 So what about "gut feelings," like Sam's pre-race butterflies? Those feelings are real, but you feel them with your *brain*. Signals from the gut travel up to the brain, mostly through the vagus nerve and spinal nerves, and the brain turns them into sensations like nausea, fullness, or that fluttery feeling. The brain also sends signals back down that change how the gut behaves. That two-way traffic is the subject of Chapters 2 and 7. The gut senses and reports; it doesn't think.
 
-!!! mascot-warning "Watch the word \"thinks\""
+!!! mascot-warning "Watch the word "thinks""
     ![Vee warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
     The structure fact ("your gut has its own nervous system") is rock solid, but the leap to "your gut thinks and feels" is not. When a post slides from the first claim to the second, that slide is exactly where hype sneaks in.
 
@@ -291,17 +291,17 @@ The **Hype Meter** is this book's four-level scale for grading how well the evid
 
 Two rules make the Hype Meter work. First, **grade the claim as stated**, not the topic. "Your gut has its own nervous system" and "your gut thinks" start from the same fact but get very different grades. Second, **grades can change** as new studies come out; this book logs changes on its Accuracy page. And a "Strong" grade for a treatment never means it is right for you personally. That is a conversation for you and your doctor. Here are three claims you're likely to hear about this chapter's topic.
 
-!!! hype-strong "Hype Meter: \"Your gut can move food without your brain\""
+!!! hype-strong "Hype Meter: "Your gut can move food without your brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong.** Since 1755, scientists have watched isolated pieces of intestine, cut off from the brain and spinal cord, keep making propulsive movements, and modern experiments on animal intestine show the same thing. The small intestine keeps its between-meal contraction cycles after the vagus nerve is cut, and children with Hirschsprung disease show that losing the local neurons, not the brain connection, is what stops the bowel.
     **What would change the grade:** Very little. It rests on more than two centuries of consistent experiments plus human disease evidence.
 
-!!! hype-hype "Hype Meter: \"Your gut is a second brain that thinks and feels\""
+!!! hype-hype "Hype Meter: "Your gut is a second brain that thinks and feels""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The part about the gut having a large, independent nervous system is Strong. But the research describes the ENS running reflexes for movement, secretion, blood flow, and immune and barrier roles, not thinking, planning, or feeling. Gut sensations become feelings only when signals reach the brain.
     **What would change the grade:** Repeated, well-designed studies showing that enteric circuits by themselves do something more like choosing or learning than reflexes, in animals and then in people, could move the "thinks" part up to Preliminary.
 
-!!! hype-hype "Hype Meter: \"Your gut has more neurons than your brain\""
+!!! hype-hype "Hype Meter: "Your gut has more neurons than your brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The ENS has about 400 to 600 million neurons by common estimates, roughly as many as the spinal cord. The brain has about 86 billion, well over a hundred times more, based on cell counts in adult human brains.
     **What would change the grade:** Nothing realistic. Even the highest gut estimates are far below the brain count.
@@ -382,7 +382,7 @@ The conclusion: this is careful, valuable research supporting the idea that the 
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Your gut has more neurons than your brain. That's why you should always trust your gut over your head!\""
+??? question "1. Claim Check: "Your gut has more neurons than your brain. That's why you should always trust your gut over your head!""
     **Grade: Hype.** The first sentence is false: the ENS has about 400 to 600 million neurons, while the brain has about 86 billion. The second doesn't follow even from true facts: the ENS runs reflexes, not decisions, and "gut feelings" are sensations your brain creates from gut signals. A careful version would say: "Your gut has its own network of hundreds of millions of neurons that runs digestion locally and sends signals to your brain."
 
 ??? question "2. Predict: Riya's cousin had surgery years ago in which the vagus nerve to his stomach was cut. Riya asks Dr. Alvarez whether food can still move through his small intestine. What would you predict, and why?"

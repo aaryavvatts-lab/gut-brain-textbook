@@ -136,7 +136,7 @@ Why is it still a hypothesis? Autopsy studies show where pathology is at the mom
 
 Here's how this book grades the popular version of the idea.
 
-!!! hype-moderate "Hype Meter: \"Parkinson's can start in the gut\""
+!!! hype-moderate "Hype Meter: "Parkinson's can start in the gut""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate (as a hypothesis for some patients).** Human autopsy studies show Lewy pathology early in the vagus nucleus and sometimes in gut nerves, large observational studies show constipation can come more than 10 years before diagnosis, and mouse experiments show misfolded alpha-synuclein can travel from gut to brain along the vagus nerve. But human evidence is mostly correlation, studies of vagus surgery and appendix removal in people disagree, and some patients don't fit the pattern at all. Saying "Parkinson's starts in the gut" for everyone is too strong; "Parkinson's may start in the gut in some people" is a fair summary, and that narrower claim is what this grade covers.
     **What would change the grade:** Long-term human studies that track alpha-synuclein in the gut and brain of the same people over many years, and show the gut changes come first and predict who develops the disease, could move it up. Large studies showing no gut-first group would move it down.
@@ -199,7 +199,7 @@ The results are a good lesson in why one study is never the final word.
 
 The 2018 study made headlines around the world. But when researchers pooled all the available studies, the effect disappeared. The finding that healthy appendixes contain clumped alpha-synuclein is still interesting, because it shows the gut can hold the protein in its problem form. But it doesn't mean the appendix starts the disease, and removing it doesn't seem to change risk overall.
 
-!!! hype-hype "Hype Meter: \"Removing your appendix prevents Parkinson's\""
+!!! hype-hype "Hype Meter: "Removing your appendix prevents Parkinson's""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** One large 2018 study linked appendix removal to lower Parkinson's risk, but a Danish study of 265,758 people found a slightly higher risk, and two meta-analyses (6 studies with about 3.55 million people, and 9 studies in 2025) found no overall link. No study tested appendix removal as prevention, and surgery has its own risks.
     **What would change the grade:** New, large studies that consistently find lower risk after appendix removal, with a clear biological explanation, could move the association to Preliminary. Even then, it would not make surgery a prevention strategy.
@@ -300,7 +300,7 @@ It can't tell us which came first. People with dementia often eat differently, m
 
 That hasn't stopped supplement marketing.
 
-!!! hype-hype "Hype Meter: \"Probiotics prevent Alzheimer's\""
+!!! hype-hype "Hype Meter: "Probiotics prevent Alzheimer's""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** People with Alzheimer's have different gut bacteria in small studies, such as one comparing 25 patients with 25 matched controls, and mouse studies (summarized in a 2024 review by Seo and Holtzman) suggest microbes may affect amyloid buildup in mice. But a 2024 review describes the field as being in its infancy, and no large, long human trial has shown that any probiotic prevents Alzheimer's. The difference in microbes could be a result of the disease or of lifestyle, not a cause.
     **What would change the grade:** Large, long randomized trials in people, following them for years and showing fewer Alzheimer's diagnoses or slower decline with a specific product, could move it to Preliminary or higher. You'll learn how to read probiotic trials in [Chapter 16](../16-probiotics-psychobiotics/index.md).
@@ -359,7 +359,7 @@ In 2024, two expert groups used tests like this one to propose new "biological" 
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"New science proves Parkinson's starts in your gut. Heal your gut with our probiotic and protect your brain for life!\""
+??? question "1. Claim Check: "New science proves Parkinson's starts in your gut. Heal your gut with our probiotic and protect your brain for life!""
     **Grade: Hype.** The gut-first idea is a serious hypothesis (Moderate for some patients), supported by autopsy patterns, the constipation link, and mouse experiments. But nothing has "proven" it, human vagotomy and appendix studies are mixed, and no trial has shown that any probiotic prevents Parkinson's. The ad jumps from a contested hypothesis to a product. A careful version: "Some scientists think Parkinson's may begin in the gut in some people; researchers are still testing this idea."
 
 ??? question "2. Predict: Sam reads that Riya's grandfather has Parkinson's and asks whether Riya's Crohn's disease means she'll get it too. Using this chapter, what would you predict, and why?"

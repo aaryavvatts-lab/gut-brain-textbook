@@ -166,7 +166,7 @@ In 2004, [Wilder-Smith and colleagues](https://pubmed.ncbi.nlm.nih.gov/15479679/
 
 The careful conclusion: this small study supports the idea that the brain's built-in pain brakes may work differently in some people with IBS. It does not prove that weak pain brakes cause IBS, and it doesn't tell us about men, teens, or people with other gut conditions. That's why the idea gets a Preliminary grade below.
 
-!!! hype-preliminary "Hype Meter: \"In IBS, the brain's pain brakes don't work\""
+!!! hype-preliminary "Hype Meter: "In IBS, the brain's pain brakes don't work""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** In a 2004 human study of 20 women, a painful ice-water stimulus to the foot reduced rectal pain in healthy women but not in women with IBS, and brain scanning meta-analyses show differences in pain-control regions. These are small or correlational studies, and "don't work" overstates them: the brakes may work differently in some people, not fail in everyone.
     **What would change the grade:** Larger studies with men and women, repeated in different labs, that show weaker descending control predicts who develops IBS pain (not just who already has it), would move it toward Moderate.
@@ -185,7 +185,7 @@ Does sensitivity actually matter for symptoms? In 2018, [Simrén and colleagues]
 
 Most people with IBS never have a balloon test. Doctors diagnose IBS from symptoms and a few targeted tests, as you'll see in [Chapter 10](../10-ibs-and-dgbi/index.md). Balloon tests are mainly tools for understanding the condition, not for diagnosing a single patient.
 
-!!! hype-strong "Hype Meter: \"People with IBS feel gut stretch as painful at lower levels, on average\""
+!!! hype-strong "Hype Meter: "People with IBS feel gut stretch as painful at lower levels, on average""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong.** Human balloon studies since 1973 have repeatedly found that, as a group, people with IBS report pain at lower stretch than people without it (55% vs 6% at one volume in the first study), and a 2018 analysis of 1,144 patients in five cohorts linked higher sensitivity to worse symptoms. The words "on average" matter: many people with IBS have normal sensitivity on testing.
     **What would change the grade:** Little would lower the group finding. Studies showing exactly why some people become hypersensitive, and whether treating it improves symptoms for that subgroup, would add the missing "why."
@@ -294,7 +294,7 @@ Normal blood work, stool tests, or a colonoscopy show that certain diseases (lik
 
 A 2019 review by [Grundy, Erickson, and Brierley](https://pubmed.ncbi.nlm.nih.gov/30379615/) estimates that chronic visceral pain affects more than 20% of people worldwide (including pelvic and bladder pain, not only the gut), often with no obvious structural cause. If "normal tests" meant "imaginary," a huge share of humanity would be imagining their pain.
 
-!!! hype-hype "Hype Meter: \"If your tests are normal, the pain is in your head\""
+!!! hype-hype "Hype Meter: "If your tests are normal, the pain is in your head""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Standard tests look for structural disease, not for how sensitive the pain system is. Human balloon studies since 1973 show that many people with IBS feel normal gut stretch as painful while their gut wall tension is normal, and brain scans show real differences in how the brain processes gut signals. Pain always involves the brain, but that makes it real, not imaginary.
     **What would change the grade:** Nothing realistic. The careful version, "normal tests can mean the pain comes from a sensitized pain system rather than damage," is already well supported.
@@ -343,7 +343,7 @@ A 2019 review by [Grundy, Erickson, and Brierley](https://pubmed.ncbi.nlm.nih.go
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Doctors couldn't find anything wrong, so my IBS pain is just stress. If I relax enough it will go away for good.\""
+??? question "1. Claim Check: "Doctors couldn't find anything wrong, so my IBS pain is just stress. If I relax enough it will go away for good.""
     **Grade: Hype.** The claim mixes something true with two leaps. It's true that stress can turn pain up through descending pathways, and in randomized trials, therapies that calm the brain's response to gut signals may reduce pain (moderate-quality evidence). But IBS pain also involves visceral hypersensitivity, which can come from peripheral and central sensitization, not stress alone, and "go away for good" promises more than any study shows. A careful version: "Normal tests don't mean my pain isn't real. Stress can make it worse, and brain-gut therapies can help many people feel less pain."
 
 ??? question "2. Predict: Sam takes a balloon distension test on a calm, rested morning, and again the morning of the state cross-country meet. Predict how his pain ratings might differ, and explain the pathway."
@@ -352,7 +352,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: Why might Riya's belly hurt after an ordinary meal during a flare, but not in remission?"
     During a flare, her inflamed intestine releases inflammatory chemicals that act on nerve endings. This peripheral sensitization lowers the threshold for those endings to fire and can wake up normally silent endings, so the same meal produces a stronger signal. When treatment calms the inflammation, the endings usually settle back toward normal sensitivity, and ordinary meals stop hurting.
 
-??? question "4. Apply: A heart attack can cause pain in the left arm. A student says, \"That proves the pain signal travels to the arm.\" Use referred pain to correct the student."
+??? question "4. Apply: A heart attack can cause pain in the left arm. A student says, "That proves the pain signal travels to the arm." Use referred pain to correct the student."
     The signal doesn't travel to the arm. Sensory fibers from the heart enter the spinal cord at the same level as fibers from the shoulder and arm, so they share relay neurons. The brain receives the signal on that shared line and, since arm signals are much more common, interprets it as coming from the arm. The pain is felt in the arm, but its source is the heart.
 
 **5. Read the data.** In a classic balloon study of the colon (Ritchie, 1973, *Gut*), a balloon was inflated to 60 milliliters in the lower colon of each person. Here is how many felt pain:

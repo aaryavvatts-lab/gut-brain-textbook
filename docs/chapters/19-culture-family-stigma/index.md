@@ -134,7 +134,7 @@ In 2025, [a team in *Nature*](https://pubmed.ncbi.nlm.nih.gov/40307548/) (Hracs 
 
 A fourth stage, in which prevalence levels off as the IBD population ages, has been proposed and modeled but not yet observed. Different regions sit at different stages. So Riya's aunt has a point that IBD was less common in many places a few generations ago. What she's missing is that it has been spreading, and that it is now a global disease.
 
-!!! hype-hype "Hype Meter: \"IBD only happens in Western countries\""
+!!! hype-hype "Hype Meter: "IBD only happens in Western countries""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** A 2017 review of 147 studies found rising IBD incidence in newly industrialized countries in Asia, Africa, and South America, and a 2025 analysis of 522 studies across 82 regions showed IBD moving through epidemiologic stages worldwide. IBD was first common in early industrialized regions, but it isn't limited to them.
     **What would change the grade:** Nothing realistic; the global data are large and consistent. The careful version: "IBD became common first in Western countries and is now rising in many other parts of the world."
@@ -158,14 +158,14 @@ First- and second-generation South Asians were at similar risk. A [1993 follow-u
 
 Notice how careful the claim has to be. These data come from one county, mostly from the 1970s and 1980s. They show that ulcerative colitis, not IBD in general, was higher among South Asians there. And they don't compare migrants with people still living in South Asia. A 2018 review by Misra and colleagues of 33 studies across countries found that South Asian migrants consistently showed higher and more extensive ulcerative colitis than local populations in individual studies from five countries, but when the numbers were pooled, the difference was not statistically significant, partly because the studies varied so much.
 
-!!! hype-moderate "Hype Meter: \"South Asian migrants in the UK have higher ulcerative colitis rates than their white neighbors\""
+!!! hype-moderate "Hype Meter: "South Asian migrants in the UK have higher ulcerative colitis rates than their white neighbors""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** Studies in Leicestershire found ulcerative colitis about 2.45 times as common in South Asians as in Europeans in the 1970s and 1980s, and higher, more extensive ulcerative colitis has been reported in several countries. But the data are older and regional, Crohn's disease was actually less common in the same group, and a 2018 pooled analysis wasn't statistically significant.
     **What would change the grade:** Large, recent, population-wide studies in several countries, reporting Crohn's and ulcerative colitis separately for specific South Asian communities, could move it up or down.
 
 What does this mean for Riya? Not much about her personally, since every individual's risk depends on many things. What it means for her family conversation is useful, though: IBD is not a "foreign" disease, not a punishment, and not caused by abandoning traditional food. Researchers think the environment people live in, along with genes, shapes risk, and no single food or culture explains it. The US National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) says researchers have not found that specific foods cause or worsen Crohn's disease symptoms, though a person's care team may suggest changes that fit their symptoms.
 
-!!! hype-hype "Hype Meter: \"Eating more ghee (or any single traditional food) will heal Crohn's disease\""
+!!! hype-hype "Hype Meter: "Eating more ghee (or any single traditional food) will heal Crohn's disease""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Crohn's disease is an immune-driven inflammatory condition, and according to [NIDDK](https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition), researchers have not found that specific foods cause or worsen Crohn's symptoms. No trial has shown that ghee, or any single food from any culture, heals Crohn's. Food still matters for nutrition, growth, comfort, and family connection, and a care team or dietitian can help plan meals that work during flares and remission.
     **What would change the grade:** Randomized trials in people with Crohn's showing that a specific food reduces inflammation on scopes and blood tests, compared with a control diet, would be needed even to reach Preliminary.
@@ -350,7 +350,7 @@ At home, the family has a harder conversation. Her grandmother asks whether stre
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Crohn's is a Western lifestyle disease. If you just eat the traditional food your grandparents ate, it will go away.\""
+??? question "1. Claim Check: "Crohn's is a Western lifestyle disease. If you just eat the traditional food your grandparents ate, it will go away.""
     **Grade: Hype.** IBD did become common first in Western countries, and environment probably matters, which is a real part of the science. But IBD is now rising worldwide, including in countries with traditional diets, and studies of South Asian migrants suggest that genes and environment work together rather than any one diet being to blame. NIDDK reports that researchers have not found that specific foods cause or worsen Crohn's symptoms, and no trial shows a traditional diet makes Crohn's go away. A careful version: "Environment, including diet, may influence who develops IBD, but once someone has Crohn's, it needs medical treatment."
 
 ??? question "2. Predict: A school sets up an anonymous online form where students can request a restroom pass card without explaining why. Based on this chapter, predict what might happen to illness concealment among students with gut conditions."
@@ -359,7 +359,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: Riya's grandmother asks why, if IBD runs partly in families, second-generation South Asians in the Leicestershire study had about the same ulcerative colitis risk as first-generation migrants. Explain what migration studies can and can't tell us."
     Migration studies compare groups with similar ancestry living in different environments, so they help separate genes from environment. In Leicestershire, South Asians had higher ulcerative colitis rates than Europeans living in the same place, and first- and second-generation South Asians had similar risk, which suggests both inherited factors and the shared local environment could matter. But these are older data from one county, they didn't compare with people in South Asia, and they can't identify which specific factors are responsible.
 
-??? question "4. Apply: Sam's coach says, \"Stomach again? It's just nerves. Push through.\" Use the five conversation moves from Section 19.9 to write a two-sentence response for Sam."
+??? question "4. Apply: Sam's coach says, "Stomach again? It's just nerves. Push through." Use the five conversation moves from Section 19.9 to write a two-sentence response for Sam."
     One good response: "I know you want me to race well, and nerves do make it worse, but I have IBS, which is a real gut condition my doctor is treating. Could I warm up near the restrooms on race days, and could my mom and I talk with you about a plan for meets?" It acknowledges the coach's goal, gives one clear fact, offers a concrete role, and brings in backup.
 
 **5. Read the data.** In the CDC's 2025 Youth Risk Behavior Survey, students who reported persistent sadness or hopelessness were asked whether they had needed counseling or therapy but not received it ("unmet need"). Selected results:

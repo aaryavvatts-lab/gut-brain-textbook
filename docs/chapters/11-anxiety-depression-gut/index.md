@@ -117,7 +117,7 @@ To put these numbers in context, mood struggles are common among all teens. In t
 
 The careful conclusion: anxiety and depression symptoms are clearly common in adults with IBD, especially during flares, and that is a strong reason to check on mental health in IBD care. But this study alone can't tell us whether IBD causes the symptoms, the symptoms worsen IBD, or both. For that we need studies that follow people over time, which is where we go next.
 
-!!! hype-strong "Hype Meter: \"People with IBD have higher rates of anxiety and depression symptoms\""
+!!! hype-strong "Hype Meter: "People with IBD have higher rates of anxiety and depression symptoms""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong** (as an association). A 2021 meta-analysis of 77 studies and 30,118 adults found anxiety symptoms in about a third and depression symptoms in about a quarter of people with IBD, with higher rates during active disease, and IBS shows a similar pattern. That analysis measured how common the symptoms are rather than comparing people with IBD to people without it. Studies that did make the comparison point the same way: in a [2023 Danish registry study](https://pubmed.ncbi.nlm.nih.gov/37197708/) of 22,103 people with IBD and 110,515 matched people without it, those with IBD were more likely to have hospital-recorded anxiety and depression, both before and for at least ten years after diagnosis, and a [2024 UK study](https://pubmed.ncbi.nlm.nih.gov/37603846/) of 3,898 children and young adults (ages 5 to 25) with IBD found more new diagnoses of depression and anxiety than in matched peers. For IBS, the 2019 meta-analysis found about three times the odds of anxiety and depression symptoms compared with healthy people. These are questionnaire symptoms, not diagnoses, and they describe a link, not a cause.
     **What would change the grade:** Very little would weaken the association itself. Large studies in teens using the same questionnaires would sharpen the picture for younger readers. (See [the Hype Meter](../../hype-meter.md) for what each grade means.)
@@ -238,7 +238,7 @@ These are real experiments that test cause, but in rodents. Rodent behavior test
 
 Human studies so far show links, not cause. In 2019, [Valles-Colomer and colleagues](https://pubmed.ncbi.nlm.nih.gov/30718848/) studied the gut microbes of 1,054 people in Belgium's Flemish Gut Flora Project and checked their results in a separate group. People with depression had lower levels of certain bacteria (Coprococcus and Dialister), even after accounting for antidepressant use. But this was a one-time snapshot. Depression changes diet, sleep, and activity, all of which change gut bacteria, so reverse causation is very possible.
 
-!!! hype-preliminary "Hype Meter: \"Gut bacteria from depressed people cause depression\""
+!!! hype-preliminary "Hype Meter: "Gut bacteria from depressed people cause depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** In 2016, two animal studies found that moving gut microbes from people with major depression into rats or germ-free mice led to depression-like behavior. Human studies show that people with depression have somewhat different gut bacteria, but these are snapshots that can't show direction. That microbes can change rodent behavior is reasonably supported; that they cause depression in people is not shown.
     **What would change the grade:** Long-term human cohort studies showing microbe changes come before depression, plus well-controlled human trials in which changing the microbes changes mood, would move it up.
@@ -263,7 +263,7 @@ Here's what this chapter shows. Yes, the gut-brain link is real and runs both wa
 
 For people with IBD, treating inflammation is important for many reasons, but studies show mood symptoms remain common even in inactive disease (24.2% for depression symptoms in Barberio's analysis), so gut treatment alone isn't enough for everyone. Probiotics and depression are covered in [Chapter 16](../16-probiotics-psychobiotics/index.md), where you'll see that the trial evidence is small and mixed.
 
-!!! hype-hype "Hype Meter: \"Fixing your gut will fix your depression\""
+!!! hype-hype "Hype Meter: "Fixing your gut will fix your depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The gut-mood link is real and two-way, but the evidence that gut changes cause human depression comes mostly from rodent transfer studies and one-time snapshots. Depression has many causes, mood symptoms stay common even when IBD is inactive, and proven treatments (talk therapy, medication, or both) work on the brain directly. Promising that gut fixes will cure depression can lead people to delay care that works.
     **What would change the grade:** Large, long, well-controlled human trials showing that a specific gut treatment reliably relieves depression, compared with placebo, could support a narrower claim for some groups of people.
@@ -349,7 +349,7 @@ Barberio's 2021 meta-analysis and Gracie's 2018 cohort study both concluded that
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Depression starts in the gut! Studies prove that people with depression have bad gut bacteria, so our 30-day gut reset will fix your mood.\""
+??? question "1. Claim Check: "Depression starts in the gut! Studies prove that people with depression have bad gut bacteria, so our 30-day gut reset will fix your mood.""
     **Grade: Hype.** Human studies such as the 2019 Flemish Gut Flora Project found that people with depression had lower levels of some bacteria, but these were snapshots that can't show direction, and depression itself changes diet, sleep, and activity, which change gut bacteria (reverse causation). Animal transfer studies suggest microbes can influence behavior, but that's Preliminary for humans. No evidence in this chapter supports a 30-day product fixing depression. A careful version: "People with depression tend to have somewhat different gut bacteria, and scientists are studying whether microbes play a role. Talk therapy and medication are proven treatments."
 
 ??? question "2. Predict: In a new cohort study, 1,000 teens with IBD fill out mood questionnaires every 6 months for 3 years. Based on this chapter, what two patterns would you predict, and why?"
@@ -358,7 +358,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: Why might mood symptoms be more common during an IBD flare than during remission?"
     During a flare, inflammation is high, and cytokines can signal the brain and push it toward sickness behavior and depression-like changes (the inflammatory depression theory). The illness burden is also heaviest: more pain, urgency, fatigue, missed school, and social isolation. Stress and worry about the flare can add to it too. Barberio's meta-analysis found anxiety symptoms in 57.6% of people with active IBD compared with 38.1% with inactive disease.
 
-??? question "4. Apply: A study finds that teens who drink more energy drinks report more stomachaches and more anxiety. A classmate concludes, \"Stomachaches make you anxious.\" Name a confounding variable and a reverse-causation explanation."
+??? question "4. Apply: A study finds that teens who drink more energy drinks report more stomachaches and more anxiety. A classmate concludes, "Stomachaches make you anxious." Name a confounding variable and a reverse-causation explanation."
     A confounder could be poor sleep or school stress: teens who sleep badly or are under pressure may drink more energy drinks, and the same lack of sleep or stress could cause both stomachaches and anxiety. Reverse causation: anxiety could cause the stomachaches (brain to gut), rather than the other way around. The energy drinks themselves might also contribute to both. A cohort study or an experiment would be needed to sort these apart.
 
 **5. Read the data.** In the 2021 Barberio meta-analysis of adults with IBD, researchers compared mood symptoms in people with active versus inactive disease (from a subset of the 77 studies):

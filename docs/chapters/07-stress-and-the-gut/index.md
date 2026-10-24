@@ -183,7 +183,7 @@ In the second experiment, with 13 volunteers, an injection of CRH copied the eff
 
 Put together, these studies sketch a pathway that runs through CRH and mast cells rather than through cortisol: stress raises CRH, CRH activates mast cells, and mast cells make the gut lining more permeable and possibly make nearby nerves more sensitive. Each link has some human evidence, but the studies are small, and the full chain hasn't been proven in one group of people.
 
-!!! hype-moderate "Hype Meter: \"Stress can physically change how your gut works\""
+!!! hype-moderate "Hype Meter: "Stress can physically change how your gut works""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** Small human experiments show that CRH speeds up the colon (10 people with IBS and 10 controls; Fukudo 1998) and that public-speaking stress raises small-intestine permeability in people whose cortisol rises (23 and 13 volunteers; Vanuytsel 2014). Mast cells near nerves are linked with pain in IBS (44 patients; Barbara 2004), and animal studies fill in the mechanisms. What's still unclear is how big these effects are in everyday life and how much they explain symptoms in each person.
     **What would change the grade:** Larger human studies that repeat these findings, especially ones that follow people through real-life stress like exam weeks and measure gut function directly, would move this toward Strong.
@@ -200,7 +200,7 @@ That's a meaningful finding, but notice what kind of evidence it is. It's an ass
 
 That two-way possibility shows up beyond IBD. In a 12-year Australian study of more than 1,000 adults, [Koloski and colleagues](https://pubmed.ncbi.nlm.nih.gov/22234979/) (2012) found that among people without a gut disorder at the start, higher anxiety predicted developing a functional gut disorder (such as IBS) later. And among people without high anxiety or depression at the start, having a functional gut disorder predicted higher anxiety and depression 12 years later. The brain affects the gut, and the gut affects the brain.
 
-!!! hype-hype "Hype Meter: \"Stress causes IBD\""
+!!! hype-hype "Hype Meter: "Stress causes IBD""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** NIDDK lists immune, genetic, environmental, and microbial factors as possible causes of Crohn's disease, and stress isn't among them. The human evidence that does exist links stress to *flares* in people who already have IBD (704 people followed for a year; Bernstein 2010), which is a narrower and better-supported claim, worth about Moderate on its own. Blaming people for causing their IBD with stress is not supported and can be harmful.
     **What would change the grade:** A few large studies have looked forward in time. In one, about 150,000 US women in the Nurses' Health Study who reported recent depressive symptoms were later diagnosed with Crohn's disease about 2.4 times as often (but not ulcerative colitis; [Ananthakrishnan 2013](https://pubmed.ncbi.nlm.nih.gov/22944733/)). That's an association with low mood, not proof that stress causes IBD, and early, undiagnosed disease could explain part of it. If you have Crohn's disease and have felt down, this does not mean your feelings caused your illness. Repeated studies like this that measure stress itself, account for genes, smoking, and early symptoms, and find the same result in different groups would be needed to move "stress causes IBD" up to Preliminary.
@@ -245,7 +245,7 @@ What about people? The human evidence is much thinner. Remember the [2020 trial]
     ![Vee with a warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
     Watch for this slip in headlines: the main stress hormone in mice is corticosterone, not cortisol, so "germ-free mice had higher cortisol" is wrong. It's a small detail that tells you whether a writer actually read the study.
 
-!!! hype-preliminary "Hype Meter: \"Your gut bacteria control your stress response\""
+!!! hype-preliminary "Hype Meter: "Your gut bacteria control your stress response""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** In mice, the evidence is strong: germ-free mice have exaggerated stress-hormone responses, and early colonization with microbes partly prevents this (Sudo 2004), while stress itself changes mouse gut microbes (Bailey 2011). In humans, the evidence is limited to small, short trials such as one week of colon-delivered SCFAs in 66 healthy men, which lowered the cortisol response to stress (Dalile 2020). "Control" overstates even the mouse findings.
     **What would change the grade:** Larger randomized trials in people of different ages and sexes, showing that a specific microbial change reliably changes the stress-hormone response and how people feel, would move this toward Moderate.
@@ -308,7 +308,7 @@ The conclusion: this experiment shows that, in mice, early microbes help tune th
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Your bloating is high cortisol! Gut bacteria control your stress hormones, so our probiotic gummies lower cortisol and calm your gut in just one week.\""
+??? question "1. Claim Check: "Your bloating is high cortisol! Gut bacteria control your stress hormones, so our probiotic gummies lower cortisol and calm your gut in just one week.""
     **Grade: Hype.** The strongest evidence that microbes affect the stress response comes from germ-free mice, which make corticosterone, not cortisol, and have no microbes at all. In people, evidence is limited to small, short trials, such as one week of colon-delivered SCFAs in 66 men, which lowered the cortisol response to a stress test but didn't change mood. No study in this chapter tested these gummies, and bloating has many causes. A careful version would say: "In mice, gut microbes help set the stress system early in life; whether any product changes stress hormones in people is still being studied."
 
 ??? question "2. Predict: Sam has a big chemistry test on Friday and the state meet on Saturday. Using the HPA axis, predict what happens to his cortisol across the two days, and what might happen to his gut."
@@ -317,7 +317,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: In the MicroSim, turning off cortisol feedback makes the cortisol peak higher and the return slower after one stressful event. Explain why, using the idea of negative feedback."
     Normally, rising cortisol acts on the hypothalamus and pituitary to reduce CRH and ACTH, which reduces further cortisol release. That limits how high cortisol climbs and helps it fall once the stressor ends. Without feedback, CRH and ACTH stay high for longer, so the adrenal glands keep making cortisol until the brain's stress signal fades on its own, which takes more time.
 
-??? question "4. Apply: A news story reports, \"Mice raised without germs panic more under stress, so kids should eat more dirt.\" Use what you know about the Sudo 2004 study to identify what the headline gets wrong."
+??? question "4. Apply: A news story reports, "Mice raised without germs panic more under stress, so kids should eat more dirt." Use what you know about the Sudo 2004 study to identify what the headline gets wrong."
     The study measured stress hormones (ACTH and corticosterone), not "panic." It compared mice with no microbes at all to mice with normal microbes, which isn't like children who already have trillions of microbes. It also found that adding microbes later in life didn't fix the response, and that one harmful *E. coli* strain made the response worse, so "more germs" isn't automatically better. And it was in mice, so it can't tell us what children should eat.
 
 **5. Read the data.** In the 2014 study by Vanuytsel and colleagues, healthy volunteers drank a sugar solution, and researchers measured the lactulose-to-mannitol ratio in their urine (a higher ratio means a more permeable small intestine). Here are average values from the paper's abstract:

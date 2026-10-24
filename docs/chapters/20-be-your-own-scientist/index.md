@@ -97,7 +97,7 @@ Then, in 2017, [Kelly and colleagues](https://pubmed.ncbi.nlm.nih.gov/27865949/)
 
 The Kelly trial didn't prove JB-1 is useless for everyone: it was small and tested healthy men, not people with anxiety disorders. That's how to describe a negative result honestly.
 
-!!! hype-hype "Hype Meter: \"This probiotic is proven to lower stress (it worked in a study!)\""
+!!! hype-hype "Hype Meter: "This probiotic is proven to lower stress (it worked in a study!)""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The best-known "stress probiotic" study, Bravo 2011, was done in mice. When the same strain was tested in 29 healthy men for 8 weeks with a placebo comparison (Kelly 2017), it had no measurable effect on stress, mood, or thinking. Probiotic effects also depend on the exact strain, so a result for one strain doesn't transfer to others.
     **What would change the grade:** Several large, placebo-controlled trials of a specific strain in people with stress or anxiety problems, by independent teams, showing a consistent benefit. That could move the claim for that strain to Preliminary or Moderate.
@@ -188,7 +188,7 @@ Relative risk can also mislead. **Practice data (made up for this exercise):** i
     ![Vee with a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
     When a headline says "cuts risk by half" or "doubles your risk," hunt for the starting number. Half of 40% is a big deal; half of 0.02% might not change anyone's life.
 
-!!! hype-strong "Hype Meter: \"An FDA-approved microbiome pill helps stop C. diff from coming back\""
+!!! hype-strong "Hype Meter: "An FDA-approved microbiome pill helps stop C. diff from coming back""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong.** A phase 3 (large, late-stage; see [Chapter 17](../17-medicine-gut-brain-axis/index.md)), double-blind, placebo-controlled trial of 182 adults found recurrence of 12% with the treatment versus 40% with placebo at 8 weeks, and the FDA approved it as Vowst in 2023. The approval covers one specific use: preventing recurrence in adults 18 and older after antibiotic treatment for recurrent C. diff.
     **What would change the grade:** Longer follow-up showing safety problems, or failed replication. Note that the Strong grade does not extend to other uses, such as anxiety, autism, or weight; those would need their own trials.
@@ -290,7 +290,7 @@ Here are the book's grades for some of the most common claims from earlier chapt
 | "70% of your immune system lives in your gut." | Hype | About 70% of antibody-making plasma cells, but only about 3% of all immune cells | [4](../04-immune-sense-organ/index.md) |
 | "Leaky gut causes autism." | Hype | No human evidence of cause; autism is a neurodevelopmental difference, not a gut disease | [13](../13-autism-adhd-gut/index.md) |
 
-!!! hype-preliminary "Hype Meter: \"A new study found that...\""
+!!! hype-preliminary "Hype Meter: "A new study found that...""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary, until you check.** A single new study can be anything from a mouse experiment to a large trial, so the honest starting grade is "it depends." Most first-time findings, especially in mice or small groups, are Preliminary, and NCCIH reminds readers that one study rarely proves anything. A large, preregistered, randomized trial in people can earn more, especially when it agrees with earlier work.
     **What would change the grade:** Tracing the headline to the study. Human, randomized, large, preregistered, and replicated moves it up. Mouse-only, tiny, unregistered, or company-funded with no independent check keeps it at Preliminary or pushes it toward Hype if the headline overstates it.
@@ -428,16 +428,16 @@ The final skill is producing evidence summaries yourself. A **student research p
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"9 out of 10 users say our gut-brain gummies cut their anxiety in half! Backed by science. Doctors don't want you to know.\""
+??? question "1. Claim Check: "9 out of 10 users say our gut-brain gummies cut their anxiety in half! Backed by science. Doctors don't want you to know.""
     **Grade: Hype.** "9 out of 10 users say" is a customer survey, a form of testimonial, and the FTC says testimonials never prove a health product works. "Backed by science" with no study named can't be checked, and "doctors don't want you to know" is a sales tactic. The best probiotic evidence for mood is mixed (one depression questionnaire out of four improved in a 2024 review), and that's for specific strains, not this product. A careful version: "Some probiotic strains have shown small, inconsistent mood effects in early trials. This product hasn't been tested in a published trial."
 
-??? question "2. Predict: Sam's cousin posts, \"New study: a gut bacterium reversed anxiety in mice! This is the cure!\" Sam wonders whether the result will hold up in people. What would you predict, and why?"
+??? question "2. Predict: Sam's cousin posts, "New study: a gut bacterium reversed anxiety in mice! This is the cure!" Sam wonders whether the result will hold up in people. What would you predict, and why?"
     The odds are against a smooth translation. Only about one in three highly cited animal studies were later confirmed in human trials, and JB-1, which calmed anxious mice, had no effect in 29 healthy men. Mouse "anxiety" is measured with behaviors like avoiding open spaces, a rough stand-in for human anxiety. The honest prediction: possibly, but probably less dramatically, and it needs human trials. Calling it a cure is Hype.
 
-??? question "3. Explain: A study of 50,000 adults finds that people who take a certain supplement have \"statistically significantly\" lower stress scores (p < 0.001). The difference was 0.3 points on a 40-point scale. Explain why this result might not matter."
+??? question "3. Explain: A study of 50,000 adults finds that people who take a certain supplement have "statistically significantly" lower stress scores (p < 0.001). The difference was 0.3 points on a 40-point scale. Explain why this result might not matter."
     With 50,000 people, even a tiny difference can reach significance. A p-value says the difference is unlikely to be pure chance, not that it's large; 0.3 points on a 40-point scale is probably too small for anyone to notice. It's also observational, so supplement takers might differ in other ways (income, exercise, sleep) that explain the gap. Significant, tiny, and not proof of cause.
 
-??? question "4. Apply: An ad says a gut supplement \"reduces the risk of getting a cold by 50%.\" The fine print says 4% of people taking a placebo got a cold during the study, compared with 2% of people taking the supplement. Calculate the absolute risk difference and the number needed to treat, and rewrite the claim honestly."
+??? question "4. Apply: An ad says a gut supplement "reduces the risk of getting a cold by 50%." The fine print says 4% of people taking a placebo got a cold during the study, compared with 2% of people taking the supplement. Calculate the absolute risk difference and the number needed to treat, and rewrite the claim honestly."
     The absolute risk difference is \( 4\% - 2\% = 2 \) percentage points, and the number needed to treat is \( 1 \div 0.02 = 50 \): about 50 people take it for one extra person to avoid a cold. The 50% figure is the relative risk reduction, accurate but bigger-sounding. An honest version: "In one study, 2 out of 100 people taking the supplement caught a cold, compared with 4 out of 100 taking a placebo." You'd still want the study's size, length, and funding. (These numbers are made up for practice.)
 
 **5. Read the data.** Here are the main results from the ECOSPOR III trial of the oral microbiome treatment SER-109 (later approved as Vowst), from the 2022 *New England Journal of Medicine* abstract (Feuerstadt et al.):

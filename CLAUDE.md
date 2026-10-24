@@ -51,12 +51,12 @@ Read `Materials/textbook-design-principles.md` before generating any chapter con
 ## Hype Meter card template
 
 ```markdown
-!!! hype-preliminary "Hype Meter: \"Probiotics treat depression\""
+!!! hype-preliminary "Hype Meter: "Probiotics treat depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** <2 to 4 sentences: what was studied, in whom (mice or people, how many), what was found, and what is still unknown.>
     **What would change the grade:** <the kind of study that would move it up or down.>
 ```
-Use `hype-strong`, `hype-moderate`, `hype-preliminary`, or `hype-hype` so the color matches the verdict. The claim in the title is a claim people actually make, in quotation marks.
+Use `hype-strong`, `hype-moderate`, `hype-preliminary`, or `hype-hype` so the color matches the verdict. Don't backslash-escape the inner quotes in admonition titles; Markdown takes everything up to the last quote on the line. The claim in the title is a claim people actually make, in quotation marks.
 
 ## "How to read a gut-brain claim" box template
 
@@ -114,7 +114,7 @@ Use `hype-strong`, `hype-moderate`, `hype-preliminary`, or `hype-hype` so the co
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"<a realistic social-media post, ad, or headline>\""
+??? question "1. Claim Check: "<a realistic social-media post, ad, or headline>""
     **Grade: <Strong | Moderate | Preliminary | Hype>.** <3 to 5 sentences explaining the grade using this chapter's evidence, and what a careful version of the claim would say.>
 
 ??? question "2. Predict: <scenario using Riya, Sam, or a new fictional person>"

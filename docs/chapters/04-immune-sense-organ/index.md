@@ -123,7 +123,7 @@ So where did 70% come from? It likely mixes up two different things: the share o
     ![Vee thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
     When I see a percentage, my first question is "70% of what?" Seventy percent of plasma cells and 70% of all immune cells sound alike, but the careful count shows they differ by more than twentyfold.
 
-!!! hype-hype "Hype Meter: \"70% of your immune system lives in your gut\""
+!!! hype-hype "Hype Meter: "70% of your immune system lives in your gut""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The most systematic count of human immune cells (Sender et al., 2023) found that the gut holds about 3% of all immune cells and about 5% of lymphocytes. What is true is that about 70% of antibody-making plasma cells are in the gut. The popular version turns a fact about one cell type into a claim about the whole system, often to sell a gut supplement.
     **What would change the grade:** A new, careful whole-body count by a different method that found most immune cells in the gut. The 2023 count and the earlier 2007 review point the opposite way, so this is unlikely.
@@ -210,7 +210,7 @@ Microglia have an unusual origin. Most immune cells are constantly replaced by n
 
 Microglia may also listen, indirectly, to gut microbes. In 2015, [Daniel Erny and colleagues](https://pubmed.ncbi.nlm.nih.gov/26030851/) found that **germ-free mice** (raised with no microbes at all, as you learned in Chapter 3) had immature microglia that responded poorly to infection. Giving the mice short-chain fatty acids, chemicals that gut bacteria make from fiber, helped restore them. This is mouse evidence, and no person lives germ-free.
 
-!!! hype-preliminary "Hype Meter: \"Your gut bacteria control your brain's immune cells\""
+!!! hype-preliminary "Hype Meter: "Your gut bacteria control your brain's immune cells""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** In mice, the complete absence of gut microbes left microglia immature, and microbial chemicals (short-chain fatty acids) helped them recover (Erny et al., 2015). Whether normal differences in human gut microbes change human microglia in a meaningful way has not been shown. "Control" overstates even the mouse results, which show influence, not command.
     **What would change the grade:** Human studies, for example brain imaging or tissue studies linking specific microbial chemicals to microglial activity, ideally followed by trials that change those chemicals and track brain immune markers.
@@ -263,7 +263,7 @@ In 2013, [Charles Raison, Andrew Miller, and colleagues](https://pubmed.ncbi.nlm
 
 The conclusion: anti-TNF treatment does not work for depression in general. It might help a subset of people with high inflammation, but that idea needs a larger trial designed to test it. This is a good example of science getting more precise. Instead of "inflammation causes depression," the better statement is "inflammation may contribute to depression in some people."
 
-!!! hype-moderate "Hype Meter: \"Inflammation causes depression\""
+!!! hype-moderate "Hype Meter: "Inflammation causes depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** The link is real and repeated: people with depression have higher average inflammation markers (107 studies, more than 10,000 people), experimental inflammation lowers mood in healthy adults, and cytokine treatments can trigger depression. But not every depressed person is inflamed, an anti-TNF drug did not treat depression overall, and depression has many causes, including genes, stress, and life events. "Inflammation can contribute to depression in some people" is Moderate; "inflammation causes depression" as a blanket rule overstates it.
     **What would change the grade:** Large randomized trials showing that lowering inflammation reliably improves depression in people chosen for high inflammation would move it toward Strong. Repeated failures in such trials would move it down.
@@ -368,7 +368,7 @@ Finally, try the link menu (it starts on **No link broken**). Treating gut infla
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Since 70% of your immune system lives in your gut, this probiotic will supercharge your immunity!\""
+??? question "1. Claim Check: "Since 70% of your immune system lives in your gut, this probiotic will supercharge your immunity!""
     **Grade: Hype.** The starting fact is wrong: the 2023 count by Sender and colleagues found only about 3% of all immune cells in the gut, though about 70% of antibody-making plasma cells are there. "Supercharging" immunity also isn't automatically good, since an overactive immune system causes problems like inflammatory bowel disease. And the post sells a product without showing any trial evidence for it. A careful version would say: "The gut is home to most of your antibody-making plasma cells and is an important immune site."
 
 ??? question "2. Predict: Sam has a stomach virus with fever and vomiting. He also has a big chemistry test in three days. Predict how his mood and focus might change during the illness, and through which pathway."

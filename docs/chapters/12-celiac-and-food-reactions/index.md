@@ -210,7 +210,7 @@ Neurological problems in people with celiac disease have been reported since 196
 
 What about mood? A 2012 meta-analysis by [Smith and Gerdes](https://pubmed.ncbi.nlm.nih.gov/22128768/) of 18 depression studies found that depression was more common or more severe in adults with celiac disease than in healthy adults, but about the same as in adults with other long-term physical illnesses. Anxiety was not reliably different. That pattern suggests the link may come partly from the general stress of living with a chronic illness, not from something unique to gluten. It's a correlation, so it can't tell us the cause.
 
-!!! hype-moderate "Hype Meter: \"Celiac disease can affect your nerves and brain, not just your gut\""
+!!! hype-moderate "Hype Meter: "Celiac disease can affect your nerves and brain, not just your gut""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** Human studies consistently link celiac disease with peripheral neuropathy (reported in up to 39% of patients across small studies) and, less often, gluten ataxia (0% to 6%), and NIDDK lists nervous system symptoms as part of the disease. But the studies are small and varied, the exact mechanism is unclear, and the evidence that the gluten-free diet helps comes from observation, not randomized trials.
     **What would change the grade:** Large studies that follow people from diagnosis with careful nerve testing, plus a clear mechanism, could move it to Strong.
@@ -219,7 +219,7 @@ What about mood? A 2012 meta-analysis by [Smith and Gerdes](https://pubmed.ncbi.
 
 Sam's cousin made a much bigger claim: that gluten harms *everyone's* brain. Popular books and posts have spread this idea, often by stretching what is true for people with celiac disease to the whole population.
 
-!!! hype-hype "Hype Meter: \"Gluten damages everyone's brain\""
+!!! hype-hype "Hype Meter: "Gluten damages everyone's brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The best available test in people without celiac disease, a 2021 study of 13,494 US women, found no difference in memory and thinking scores between women who ate the most gluten and those who ate the least, over decades of diet records. The authors concluded their results do not support cutting gluten to protect thinking in people without celiac disease or established gluten sensitivity. Nervous system problems are a real concern for people *with* celiac disease, not proof of harm for everyone.
     **What would change the grade:** Repeated randomized trials showing that people without celiac disease think better after cutting gluten than after a disguised placebo diet. No such evidence exists.
@@ -254,7 +254,7 @@ That last study introduces a new player. A **fructan** is a carbohydrate built f
 
 There's also the placebo and nocebo side. When people expect a food to make them sick, they often feel worse after eating it, even when it is secretly a placebo. That is visible in these trials, where symptoms rose with the dummy food too. This doesn't mean the symptoms are "fake." Expectation changes how the brain processes gut signals, a real gut-brain effect you studied in Chapter 10.
 
-!!! hype-preliminary "Hype Meter: \"Many people who think they're gluten sensitive are really reacting to fructans\""
+!!! hype-preliminary "Hype Meter: "Many people who think they're gluten sensitive are really reacting to fructans""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** Blinded studies point away from gluten for many people: in one double-blind crossover trial of 59 adults, fructan raised symptom scores while gluten matched placebo, and an earlier trial of 37 adults found gluten-specific effects in only 8%. But these are small, short studies of adults, results differ between trials, and other wheat components may matter for some people.
     **What would change the grade:** Larger blinded trials in several countries, including teens, that test gluten, fructans, and other wheat parts separately and find the same pattern would raise it to Moderate.
@@ -358,7 +358,7 @@ None of this means food reactions are imaginary. It means the order matters: get
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Gluten-free cured my brain fog. Gluten is inflammatory for EVERYONE, so ditch it today! Use my code for 20% off.\""
+??? question "1. Claim Check: "Gluten-free cured my brain fog. Gluten is inflammatory for EVERYONE, so ditch it today! Use my code for 20% off.""
     **Grade: Hype.** One person feeling better isn't evidence of cause: expectation, other diet changes, and natural ups and downs could explain it, and blinded trials of self-reported gluten sensitivity often find gluten no worse than placebo. In people without celiac disease, a study of 13,494 women found no link between gluten intake and thinking scores. And there's a discount code, so someone profits from the claim. A careful version: "Gluten triggers real immune damage in people with celiac disease, about 1 in 100 people. If you think gluten affects you, get tested before cutting it out."
 
 ??? question "2. Predict: Riya's orchestra friend Mei has celiac disease and has followed a strict gluten-free diet for a year. At the potluck, she eats a gluten-free brownie that was cut with the same knife as a regular brownie. Predict what might happen in her intestine, and why."

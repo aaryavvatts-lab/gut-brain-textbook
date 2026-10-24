@@ -146,7 +146,7 @@ Human milk contains something surprising: sugars the baby can't digest. **Human 
 
 So breast milk doesn't just feed the baby; it also feeds selected microbes. That's why exclusively breastfed babies tend to have a gut community dominated by a few milk-loving groups. A 2018 meta-analysis by [Ho and colleagues](https://pubmed.ncbi.nlm.nih.gov/30301893/), combining data from 684 infants in several countries, found that exclusively breastfed infants had *lower* diversity in their first 6 months than other infants. That's normal. Bäckhed's study also found that what most pushed the infant microbiome toward an adult-like state was stopping breastfeeding, more than starting solid food.
 
-!!! hype-strong "Hype Meter: \"C-section babies start life with different gut microbes\""
+!!! hype-strong "Hype Meter: "C-section babies start life with different gut microbes""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong (for early differences).** Large human studies, including a UK study of 596 newborns and the 903-child TEDDY study, confirm that birth mode changes which microbes colonize a baby in the first weeks and months. These differences shrink over the first year or so, and breastfeeding has a larger effect on maturation. Claims that C-section birth causes lifelong disease *through* the microbiome are a different matter: the studies in this chapter don't show that, so any long-term health claim is Preliminary at best.
     **What would change the grade:** Long-term studies that follow children for years and test whether early microbe differences actually cause later health differences, while accounting for the reasons a C-section was needed, would tell us whether the long-term claims hold up.
@@ -188,7 +188,7 @@ The conclusion: in healthy young men, the gut community was resilient to a short
 
 Antibiotics can also open the door to a dangerous opportunist. According to [the CDC](https://www.cdc.gov/c-diff/about/index.html), *C. difficile* is a bacterium that causes diarrhea and inflammation of the colon and is estimated to cause almost half a million infections in the United States each year. People are up to 10 times more likely to get it while taking an antibiotic and during the month after finishing one. This is colonization resistance in reverse: when the normal residents are knocked down, *C. difficile* can take over.
 
-!!! hype-hype "Hype Meter: \"One round of antibiotics ruins your microbiome forever\""
+!!! hype-hype "Hype Meter: "One round of antibiotics ruins your microbiome forever""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype (as stated).** Human studies show that antibiotics quickly reduce gut diversity, and that recovery can be incomplete, with a few species missing for months in some people. But the same studies show that most of the community regrows within weeks to a couple of months in healthy adults. "Ruins forever" turns a real, modest, long-lasting change into a scare, and it can push people to avoid antibiotics they truly need.
     **What would change the grade:** A careful version, "antibiotics can leave small, lasting changes in the gut microbiota," is well supported (Moderate to Strong). Long-term studies showing that those lasting changes harm health would strengthen the case for caution, which doctors already practice by prescribing antibiotics only when needed.
@@ -259,7 +259,7 @@ Both methods share a big limit: a stool sample shows what's leaving the colon, n
 
 This brings us back to Sam's cousin and the home gut test kit. These tests usually use one of the methods above on a stool sample, then send a report full of colorful charts, scores, and sometimes food or supplement suggestions.
 
-!!! hype-hype "Hype Meter: \"A home microbiome test can tell you what to eat to improve your mood\""
+!!! hype-hype "Hype Meter: "A home microbiome test can tell you what to eat to improve your mood""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The sequencing itself can be real science, but a 2024 international consensus statement by dozens of microbiome experts ([Porcari and colleagues](https://pubmed.ncbi.nlm.nih.gov/39647502/), *Lancet Gastroenterology & Hepatology*) concluded that evidence for using gut microbiome tests in clinical care is scarce, and that direct-to-consumer tests are sold without agreed regulation or any proven clinical value. No one has defined what a "healthy" microbiome looks like (Section 3.11), so there is no validated standard to compare your sample to, and no trials show that following a kit's advice improves mood.
     **What would change the grade:** Validated reference ranges for specific microbiome features, plus randomized trials showing that test-guided diet changes improve a specific health outcome compared with general advice, could move a specific test up.
@@ -354,7 +354,7 @@ Back to Riya. Studies find that people with Crohn's disease, on average, have di
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Your gut bacteria outnumber your cells 10 to 1. That means your microbes are really in charge of your mood. Take our 30-strain probiotic to take back control!\""
+??? question "1. Claim Check: "Your gut bacteria outnumber your cells 10 to 1. That means your microbes are really in charge of your mood. Take our 30-strain probiotic to take back control!""
     **Grade: Hype.** The first claim is wrong: the best estimate is about 1.3 bacteria per human cell, not 10. Even a true ratio wouldn't show that microbes control mood; that's a separate question, and the strongest evidence for microbe effects on behavior comes from germ-free mice, which don't translate directly to people. The ad also ends with a product, which is a reason to read twice as carefully. A careful version would say: "Your gut contains roughly as many bacterial cells as human cells, and researchers are studying whether and how they affect the brain."
 
 ??? question "2. Predict: Sam takes a 10-day antibiotic course for strep throat. Predict what happens to the diversity of his gut bacteria during the course and over the next two months."

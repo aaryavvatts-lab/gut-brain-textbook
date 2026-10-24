@@ -225,7 +225,7 @@ The **low-FODMAP diet** is a structured, short-term eating plan, best done with 
 
 The evidence is fairly good for the first phase. The ACG's 2021 guideline recommends a limited trial of a low-FODMAP diet to improve overall IBS symptoms. A 2022 network meta-analysis by [Black, Staudacher, and Ford](https://pubmed.ncbi.nlm.nih.gov/34376515/) combined 13 randomized trials with 944 patients and ranked the low-FODMAP diet first among the diets studied for overall symptoms. But the authors noted that most trials were run in specialist clinics and didn't study the reintroduction and personalization phases, which are the parts meant for real life.
 
-!!! hype-hype "Hype Meter: \"Low-FODMAP should be a forever diet\""
+!!! hype-hype "Hype Meter: "Low-FODMAP should be a forever diet""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The low-FODMAP diet is designed as a short elimination phase followed by reintroduction, so that people end up avoiding only the foods that bother them. The trials that support it (13 trials, 944 patients in the 2022 meta-analysis) mostly tested short elimination periods, not lifelong restriction. Cutting out many foods for good can make eating stressful, make family meals and cultural foods harder, and limit the variety of foods (and fiber) that gut microbes use.
     **What would change the grade:** Long-term trials showing that permanent strict restriction works better and is safe compared with reintroduction and personalization. No such evidence exists.
@@ -240,7 +240,7 @@ Because IBS involves the gut-brain conversation, therapies that work on the brai
 
 How well do these therapies work? A 2020 network meta-analysis by [Black and colleagues](https://pubmed.ncbi.nlm.nih.gov/32276950/) combined 41 randomized trials with 4,072 adults. CBT (both self-guided and face-to-face) and gut-directed hypnotherapy had the largest evidence base and helped more people improve than control treatments. A 2024 analysis of 42 trials and 5,220 participants ([Goodoory and colleagues](https://pubmed.ncbi.nlm.nih.gov/38777133/)) found that several brain-gut behavioral therapies also improved belly pain specifically, with none clearly better than the others. Both teams warned that many trials had a high risk of bias, so the benefits may be overestimated. For children and teens, the [2025 ESPGHAN/NASPGHAN guideline](https://pubmed.ncbi.nlm.nih.gov/40444524/) recommends hypnotherapy (based on moderate-certainty evidence) and CBT (based on low-certainty evidence) as treatment options.
 
-!!! hype-moderate "Hype Meter: \"Gut-directed hypnotherapy helps IBS\""
+!!! hype-moderate "Hype Meter: "Gut-directed hypnotherapy helps IBS""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** In a 2020 network meta-analysis of 41 randomized trials (4,072 adults), gut-directed hypnotherapy was one of the therapies with the best evidence for improving IBS symptoms, along with CBT, and a 2024 analysis of 42 trials found it also helped belly pain. These are real human trials. But many had a high risk of bias, it's hard to "blind" people to whether they're getting hypnotherapy, and the authors said the benefits may be overestimated. The ACG suggests gut-directed psychotherapy for IBS.
     **What would change the grade:** Larger, well-designed trials with strong control conditions and long follow-up, including in teens, could move it up to Strong. Trials showing the benefit disappears against a good placebo-like control would move it down.
@@ -295,7 +295,7 @@ What should you conclude? It's a small, short, single-center study without blind
 
 Sam has test anxiety, and his IBS flares before tests and races. So is his IBS just anxiety in disguise? This idea is common, and it hurts people.
 
-!!! hype-hype "Hype Meter: \"IBS is just anxiety\""
+!!! hype-hype "Hype Meter: "IBS is just anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Anxiety and depression are more common in people with IBS: a 2019 meta-analysis of 73 studies (Zamani and colleagues) found anxiety symptoms in 39.1% and depression symptoms in 28.8%. A diagnosed anxiety disorder was present in about 23%, so most people with IBS don't have one. Stress can worsen gut symptoms (Chapter 7), but IBS also involves measurable changes in gut sensitivity and movement, and it can start after a gut infection. The 2020 *Lancet* review notes that it isn't clear whether psychological symptoms come before IBS or are driven by it. A brain-gut therapy helping IBS doesn't prove IBS is "psychological"; it shows the gut-brain link is two-way.
     **What would change the grade:** Nothing likely. The evidence points to a two-way gut-brain disorder, not to anxiety alone.
@@ -357,13 +357,13 @@ Words also matter. Many people with IBS have been told "it's just stress" or "no
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Doctors can't fix IBS because it's all in your head. My 3-step mindset reset cured mine in a week. Sign up below!\""
+??? question "1. Claim Check: "Doctors can't fix IBS because it's all in your head. My 3-step mindset reset cured mine in a week. Sign up below!""
     **Grade: Hype.** IBS isn't "all in your head": it involves measurable changes in gut sensitivity and movement and can start after a gut infection. Brain-gut therapies such as CBT and gut-directed hypnotherapy do have real trial evidence, but they take weeks of structured sessions, the trials have risk-of-bias problems, and none promises a cure in a week. One person's story can't separate the program from natural ups and downs or the placebo response, and a sign-up link means something is being sold. A careful version: "Gut-brain therapies like CBT and gut-directed hypnotherapy can reduce IBS symptoms for many people, alongside other treatments."
 
 ??? question "2. Predict: Sam has a big chemistry final on Friday and a regional race on Saturday. Using the gut-brain loop, predict what might happen to his symptoms that week, and what tools from his care plan could help."
     Stress before the final and the race can activate the HPA axis and the sympathetic nervous system (Chapter 7), which can change gut movement and turn up gut sensitivity, so Sam may have more cramping and urgency. Worry about symptoms during the test could add to the loop. His gut-directed relaxation, CBT skills for test anxiety, his school's restroom plan, and familiar foods he knows don't trigger symptoms could all help.
 
-??? question "3. Explain: Sam's friend asks, \"If your colonoscopy and blood tests were normal, how can your doctor be sure it's IBS?\" Explain how a positive diagnosis works."
+??? question "3. Explain: Sam's friend asks, "If your colonoscopy and blood tests were normal, how can your doctor be sure it's IBS?" Explain how a positive diagnosis works."
     IBS is diagnosed from its typical pattern: recurrent pain linked to bowel movements and to changes in stool frequency or form, lasting long enough to meet the Rome criteria. The doctor also takes a careful history, examines the patient, checks for alarm features such as bleeding or weight loss, and orders a few targeted tests, such as a celiac test and fecal calprotectin. When the pattern fits and there are no alarm features, the diagnosis is made with confidence, not by elimination.
 
 ??? question "4. Apply: A 22-year-old has had belly pain about 3 days a month for a year. It's linked to bowel movements and to looser stools, comes and goes, and she has no alarm features. Does she meet Rome IV? Rome V?"

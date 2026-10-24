@@ -100,7 +100,7 @@ The best summary comes from a 2014 meta-analysis (a study that pools results fro
 
 So autistic children had roughly four times the odds of general GI symptoms. That's a big difference. But notice what the authors were careful to say: the studies varied a lot in how they measured symptoms, and the analysis could not tell *why* the symptoms were more common. They named diet restrictions as one possible factor that future research should explore.
 
-!!! hype-strong "Hype Meter: \"Autistic children have more gut symptoms on average\""
+!!! hype-strong "Hype Meter: "Autistic children have more gut symptoms on average""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong (as an association).** A 2014 meta-analysis of 15 comparison studies found that autistic children had higher odds of general GI symptoms (about 4.4 times), constipation, diarrhea, and belly pain. The link is consistent across studies, though the size varies and the causes are not known. This grade is about the *association*; it does not mean the gut causes autism.
     **What would change the grade:** Very little would undo the association. Large studies with standard symptom measures would pin down how big it is and why it happens.
@@ -259,7 +259,7 @@ In 2024, [Wan and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC11347384/
 
 It's also worth asking what the goal of a treatment should be. Many autistic people and their allies question whether lowering scores on autism rating scales should be a treatment goal at all, since autism is a part of who someone is. Relieving constipation, belly pain, and diarrhea, on the other hand, is a goal everyone can agree on. That's why some newer trials measure gut symptoms as their main outcome (see the At the Bedside section).
 
-!!! hype-hype "Hype Meter: \"Fecal transplants cure autism\""
+!!! hype-hype "Hype Meter: "Fecal transplants cure autism""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The best-known study treated just 18 autistic children with GI problems in an open-label trial with no placebo group; GI symptoms improved, but the design can't show cause. A 2024 placebo-controlled trial of 103 autistic children found no significant difference from placebo on its main behavior measure. And autism is a lifelong neurodevelopmental difference, not a disease to cure.
     **What would change the grade:** Nothing would make "cure" the right word. For the separate question of whether microbiome treatments can ease *GI symptoms* in autistic people, large placebo-controlled trials with gut symptoms as the main outcome would give a real answer; right now that question is Preliminary.
@@ -279,7 +279,7 @@ Here's how harm can happen:
 - **Missed care.** Money and hope spent on an unproven "cure" can delay treatment for problems that do have good treatments, like constipation, sleep problems, or anxiety.
 - **The message.** Constant talk of "curing" or "recovering from" autism tells autistic people that who they are is a disease. That message can hurt self-esteem and mental health.
 
-!!! hype-hype "Hype Meter: \"Gut bacteria cause autism\""
+!!! hype-hype "Hype Meter: "Gut bacteria cause autism""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** One of the most carefully controlled human studies (247 children, 2021) found negligible direct links between autism and the microbiome once diet was considered, and a pooled analysis found autism-linked microbial patterns disappeared in sibling comparisons. The strongest causal evidence comes from mouse models, which can't capture what autism is. NIMH points to genes and early development, not gut bacteria.
     **What would change the grade:** Large studies that follow babies from birth, measure diet carefully, and show microbiome differences appearing *before* any signs of autism, replicated in several countries, would be needed to even reach Preliminary.
@@ -368,16 +368,16 @@ That might include:
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"New research shows autism starts in the gut! Our probiotic blend helps kids recover. Thousands of happy parents!\""
+??? question "1. Claim Check: "New research shows autism starts in the gut! Our probiotic blend helps kids recover. Thousands of happy parents!""
     **Grade: Hype.** No human research shows that autism starts in the gut. One of the most carefully controlled studies (247 children) found that diet, not autism itself, explained most microbiome differences, and the strongest gut-behavior evidence comes from mouse models. "Recover" treats autism as a disease, and testimonials from parents are not controlled evidence, especially when a product is being sold. A careful version: "Autistic children have gut symptoms more often than other children, and those symptoms deserve standard medical care. There's no evidence that probiotics change autism."
 
 ??? question "2. Predict: A new study finds that autistic teens have lower microbial diversity than their non-autistic classmates. The researchers then compare autistic teens with their own non-autistic siblings who eat the same family meals. Predict what will happen to the difference, and explain why."
     The difference will probably shrink or disappear. Siblings share family meals, home environment, and many other exposures, so comparing with siblings removes much of the confounding from diet and environment. That's what Morton and colleagues found in 2023: autism-linked microbial patterns showed up in age- and sex-matched comparisons but not in sibling-matched ones. If a difference remained even among siblings with similar diets, that would be more interesting.
 
-??? question "3. Explain: Why might an autistic child with constipation show it through sleep problems or irritability instead of saying \"my stomach hurts\"?"
+??? question "3. Explain: Why might an autistic child with constipation show it through sleep problems or irritability instead of saying "my stomach hurts"?"
     Many autistic people have interoceptive differences, meaning they may notice or interpret internal signals like pain differently, and some find it hard to describe body sensations in words, especially in the moment. The pain signals from a stretched colon are still real, so discomfort may come out as night waking, irritability, or pressing on the belly. Expert recommendations note that GI problems in autistic children may show up as behavior changes, so caregivers should ask whether something hurts.
 
-??? question "4. Apply: A parent group shares a study where 12 children took a supplement for 8 weeks, and parents reported that 9 of them \"seemed calmer.\" Use the ideas of open-label trials, placebo control, and sample size to evaluate it."
+??? question "4. Apply: A parent group shares a study where 12 children took a supplement for 8 weeks, and parents reported that 9 of them "seemed calmer." Use the ideas of open-label trials, placebo control, and sample size to evaluate it."
     It's very small (12 children), so the result could easily be chance. Parents knew their children were taking the supplement, so their ratings could be shaped by expectation, the same effect the sugar researchers suspected behind parents' beliefs about sugar. There's no placebo group, so we can't tell whether children would have "seemed calmer" anyway over 8 weeks. A better study would randomly assign many more children to the supplement or a look-alike placebo, with neither parents nor researchers knowing which.
 
 **5. Read the data.** In a 2014 meta-analysis of 15 studies (McElhanon et al., *Pediatrics*), researchers compared GI symptoms in autistic children and comparison children. Here are the pooled odds ratios:

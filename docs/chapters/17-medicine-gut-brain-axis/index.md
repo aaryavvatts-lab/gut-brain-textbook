@@ -95,7 +95,7 @@ Stool can also carry viruses, parasites, and antibiotic-resistant germs, so medi
 
 Even screening can miss something. In 2019, doctors at Massachusetts General Hospital [reported](https://pubmed.ncbi.nlm.nih.gov/31665575/) in the *New England Journal of Medicine* that two patients in two different FMT clinical trials developed bloodstream infections with a drug-resistant strain of *E. coli*. Genetic testing traced both infections to the same stool donor, and one of the patients died. The doctors who reported the cases called for enhanced donor screening. A homemade "FMT" with untested stool from a friend or relative is far riskier. Do-it-yourself FMT is unsafe.
 
-!!! mascot-warning "\"It's just bacteria\" is not a safety plan"
+!!! mascot-warning ""It's just bacteria" is not a safety plan"
     ![Vee warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
     The same thing that makes FMT powerful, transferring a whole living community, is what makes it risky. Medical FMT works because of donor screening, stool testing, and follow-up; a homemade version skips every one of those safeguards.
 
@@ -189,7 +189,7 @@ If FMT works so well for *C. diff*, why not for other conditions linked to the m
 | Autism | Small open-label studies, no placebo group | Experimental (not a cure) |
 | Parkinson's disease | Small placebo-controlled trials with mixed results | Experimental |
 
-!!! hype-hype "Hype Meter: \"Poop transplants cure autism and Parkinson's\""
+!!! hype-hype "Hype Meter: "Poop transplants cure autism and Parkinson's""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** For autism, the best-known study had 18 children, no placebo group, and participants who knew they were treated, so it can't show cause. For Parkinson's, three small placebo-controlled trials found a mild benefit in one and no meaningful motor benefit in two. No FMT product is approved for either condition, and "cure" isn't supported by any study.
     **What would change the grade:** Large, placebo-controlled, repeated trials showing clear, lasting benefits would move specific, carefully worded claims (such as "improves GI symptoms in some autistic children") toward Preliminary or Moderate. "Cure" would still not fit.
@@ -212,7 +212,7 @@ An **implanted VNS device** is a small pulse generator placed under the skin by 
 
 Notice how specific each approval is. The depression approval is not for anyone with depression; it's an add-on for adults whose depression has resisted at least four other treatments. And as of October 2026, **no VNS device is approved for Crohn's disease, IBS, or anxiety.** (One prescription ear stimulator has a narrower FDA authorization for IBS pain in 11- to 18-year-olds; Section 17.8 explains it.)
 
-!!! hype-strong "Hype Meter: \"Vagus nerve stimulation is FDA approved for depression\""
+!!! hype-strong "Hype Meter: "Vagus nerve stimulation is FDA approved for depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong, with fine print.** FDA records show that in July 2005 the implanted VNS Therapy System was approved as an add-on, long-term treatment for adults with chronic or recurrent depression who haven't responded to 4 or more adequate antidepressant treatments. The approval fact is solid. How well VNS works for depression is less clear-cut than the approval itself, so the evidence for its benefit is better described as Moderate, and it is not a first-choice treatment.
     **What would change the grade:** The approval fact won't change unless the FDA changes the label. A version of the claim that drops the fine print ("VNS treats depression," implying anyone, any device) would earn a lower grade.
@@ -250,12 +250,12 @@ Now Sam's ad. A **consumer wellness device** is a product sold directly to the p
 
 Do these gadgets even affect the vagus nerve? Scientists often use heart rate variability (small beat-to-beat changes in heart rate, partly controlled by the vagus nerve) as a possible sign of vagus activity. A [2021 "living" meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34473846/) by Wolf and colleagues pooled 16 studies in healthy people that compared ear-based stimulation with sham (fake) stimulation. It found strong evidence for **no effect** on this heart rate measure during stimulation. That doesn't rule out every effect, but it gives no reliable sign that ear stimulation changes vagus activity, let alone cures anxiety.
 
-!!! hype-hype "Hype Meter: \"This $300 vagus nerve gadget fixes anxiety\""
+!!! hype-hype "Hype Meter: "This $300 vagus nerve gadget fixes anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Consumer wellness gadgets are not the medical devices tested in clinical trials, and no vagus stimulator is FDA approved to treat anxiety. A 2021 meta-analysis of 16 sham-controlled studies in healthy people found ear stimulation did not change a common heart-rate sign of vagus activity. The approved, authorized, and cleared vagus-related devices are for epilepsy, treatment-resistant depression, rheumatoid arthritis, headaches, and (for one prescription ear stimulator) IBS pain in teens.
     **What would change the grade:** Large, sham-controlled trials of that specific device in people with diagnosed anxiety disorders, showing clear benefit, followed by an FDA decision for that use.
 
-!!! mascot-tip "Ask \"approved for what?\""
+!!! mascot-tip "Ask "approved for what?""
     ![Vee with a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
     Whenever someone says a vagus device is "FDA approved," ask two follow-up questions: approved, cleared, or authorized, and for which condition? The honest answer will usually be epilepsy, treatment-resistant depression, rheumatoid arthritis, headache, or prescription-only teen IBS pain, not whatever the ad is selling.
 
@@ -404,7 +404,7 @@ Medicine is also trying to get better at matching treatments to individuals from
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"FDA-approved vagus nerve stimulation is now available to heal your gut and calm your anxiety. Order our clinic-grade ear device today!\""
+??? question "1. Claim Check: "FDA-approved vagus nerve stimulation is now available to heal your gut and calm your anxiety. Order our clinic-grade ear device today!""
     **Grade: Hype.** The FDA-approved implanted VNS devices are for drug-resistant epilepsy, treatment-resistant depression in adults, and rheumatoid arthritis, and the handheld gammaCore is authorized and cleared for cluster headache and migraine. None is approved for gut disorders or anxiety; the closest is a prescription ear stimulator (IB-Stim) that is authorized only as an add-on for IBS pain in 11- to 18-year-olds, which is not what this ad is selling. A consumer ear gadget is a different product from the devices tested in trials, and a 2021 meta-analysis found ear stimulation didn't change a common heart-rate sign of vagus activity in healthy people. A careful version would say: "Vagus nerve stimulation is FDA approved for a few specific conditions; its use for gut disorders and anxiety is still being researched."
 
 ??? question "2. Predict: Riya reads that her friend's grandfather had FMT and his recurrent C. diff never came back. She wonders whether FMT would work as well for her Crohn's disease. What would you predict, based on the evidence?"
@@ -413,7 +413,7 @@ Test yourself. Try each one before you open the answer.
 ??? question "3. Explain: Why is the SetPoint System approved for rheumatoid arthritis, a disease of the immune system, even though it stimulates a nerve?"
     It's based on the inflammatory reflex: the brain senses inflammation and sends signals back through the vagus nerve that calm the release of inflammatory chemicals like cytokines. Stimulating the left vagus nerve is meant to switch on that calming signal. In the RESET-RA trial summarized by the FDA, 35.2% of people with active stimulation versus 24.2% with sham stimulation improved by at least 20% on an arthritis scale after 12 weeks. The approval is only for adults with moderate to severe rheumatoid arthritis whose biologic or targeted drugs didn't work well.
 
-??? question "4. Apply: Sam's doctor suggests a low-dose tricyclic antidepressant for his IBS pain, and Sam's cousin Dev says, \"See? They think you're crazy.\" How could Sam respond using this chapter?"
+??? question "4. Apply: Sam's doctor suggests a low-dose tricyclic antidepressant for his IBS pain, and Sam's cousin Dev says, "See? They think you're crazy." How could Sam respond using this chapter?"
     Sam could explain that low doses of TCAs are used as gut-brain neuromodulators to turn down pain signaling, and that US guidelines support them for IBS (a strong recommendation from the ACG and a conditional one from the AGA). In the large ATLANTIS trial, amitriptyline improved IBS symptoms without evidence of changing depression scores. Using it for IBS is off-label but backed by trials. Sam can also tell Dev that whether to try it is a decision he'll make with his doctor, weighing the possible side effects. Because Sam is 16, his doctor will be extra careful: the 2025 pediatric guideline gives amitriptyline only a conditional recommendation, and antidepressants carry a warning about mood changes in young people.
 
 **5. Read the data.** In the 2013 van Nood trial, adults with recurrent *C. diff* were randomly assigned to three treatments. Here's the share whose infection resolved without relapse at 10 weeks:

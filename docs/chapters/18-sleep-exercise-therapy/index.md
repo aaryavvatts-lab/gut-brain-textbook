@@ -123,7 +123,7 @@ The key study is from 2014, when [Thaiss and colleagues](https://pubmed.ncbi.nlm
 
 Notice the kind of evidence. The cause-and-effect experiments were all in mice. The human part showed that microbes have daily rhythms and that jet lag changed them in travelers, but the effects of those changed microbes were tested only in mice. The study does not show that jet lag or late nights harm *people* through their microbes. That's why "your microbes follow a daily rhythm" is solid, while "a sleep hack resets your gut bacteria" is not.
 
-!!! hype-hype "Hype Meter: \"This sleep hack resets your gut bacteria\""
+!!! hype-hype "Hype Meter: "This sleep hack resets your gut bacteria""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Gut microbes do have daily rhythms, shown in mice and people (Thaiss 2014), but the experiments linking a disrupted clock to harmful microbe changes were done in mice. No human trial has shown that a sleep trick, supplement, or gadget "resets" the microbiome in a way that improves gut or mental health.
     **What would change the grade:** Randomized trials in people that change sleep timing, then measure both microbes and real symptoms over months, could move a carefully worded version of this claim to Preliminary.
@@ -149,7 +149,7 @@ Many students treat the weekend like a sleep bank: borrow on weekdays, pay it ba
 
 This was a small, short study in adults, and it measured metabolism, not the gut. But it fits a broader point: sleeping in helps you feel less tired without fully erasing a week of short nights, and a later weekend schedule makes Monday harder for a teen body clock.
 
-!!! mascot-warning "Don't confuse \"feeling rested\" with \"fully recovered\""
+!!! mascot-warning "Don't confuse "feeling rested" with "fully recovered""
     ![Vee warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
     A long Saturday sleep can make you feel great, but in the 2019 lab study, the body's response to short nights came right back once the short nights did. A steadier schedule across the whole week works with your body clock instead of against it.
 
@@ -173,7 +173,7 @@ So Sam's two experiences aren't contradictory. Easy, regular movement and an all
 
 **Exercise and mood** refers to the effects of physical activity on emotional well-being, including symptoms of depression, anxiety, and stress. Here the evidence is unusually large. In 2023, [Singh and colleagues](https://pubmed.ncbi.nlm.nih.gov/36796860/) published an "umbrella review" in the *British Journal of Sports Medicine*, combining 97 reviews that covered 1,039 trials and 128,119 adult participants. Physical activity programs had medium-sized benefits for symptoms of depression and anxiety compared with usual care, and higher-intensity activity was linked to larger improvements. One caution: 77 of the 97 included reviews were rated "critically low" quality on a standard checklist for judging reviews, and all participants were adults. Part of the reason is hard to avoid: people always know whether they are exercising, so trials can't hide which group someone is in, and expectations may inflate the results. For young people, a [2023 meta-analysis in *JAMA Pediatrics*](https://pubmed.ncbi.nlm.nih.gov/36595284/) (Recchia and colleagues) pooled 21 trials with 2,441 children and teens (average age 14) and found that physical activity programs reduced depressive symptoms, by a smaller amount than in the adult reviews.
 
-!!! hype-strong "Hype Meter: \"Exercise helps with depression and anxiety symptoms\""
+!!! hype-strong "Hype Meter: "Exercise helps with depression and anxiety symptoms""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Strong.** A 2023 umbrella review combined 97 reviews of more than 1,000 randomized trials with over 128,000 adults and found medium-sized improvements in depression and anxiety symptoms from physical activity programs. The benefit shows up again and again across populations, which is why the grade is Strong. But most of the reviews had serious quality problems, trial participants can't be blinded, and a 2023 analysis of 21 trials in children and teens found a smaller benefit than in adults, so the exact size of the effect, especially for teens, is less certain than the direction.
     **What would change the grade:** Very little would move it down; large, high-quality trials in teens would make the evidence even more direct for this book's readers. Exercise is a support, not a replacement for other treatment when someone has depression.
@@ -184,7 +184,7 @@ Here's where wellness posts take a leap: exercise changes your gut bacteria, and
 
 In 2018, [Allen and colleagues](https://pubmed.ncbi.nlm.nih.gov/29166320/) had 32 previously inactive adults (18 lean and 14 with obesity) do supervised endurance exercise three days a week for six weeks. Their gut microbes changed, and in lean participants the microbes made more short-chain fatty acids, molecules you met in [Chapter 6](../06-fiber-fatty-acids-bbb/index.md). But the changes depended on body weight and were "largely reversed" after six weeks without exercise. And the study did not measure mood at all.
 
-!!! hype-hype "Hype Meter: \"Exercise changes your microbiome in ways that improve your mood\""
+!!! hype-hype "Hype Meter: "Exercise changes your microbiome in ways that improve your mood""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Exercise does change gut microbes in people, but in the key human study (32 adults, 6 weeks), the changes were small, depended on body weight, mostly disappeared after stopping, and mood was not measured. No human study has shown that these microbe changes are *why* exercise helps mood. The mood benefit itself is Strong; the microbiome explanation is a popular story that the evidence does not yet support.
     **What would change the grade:** Studies that measure microbes and mood together, first in animals and then in people over months, and test whether blocking the microbe change also blocks the mood benefit, could move a carefully worded version of the link to Preliminary.
@@ -212,7 +212,7 @@ How well do they work? In 2020, [Black and colleagues](https://pubmed.ncbi.nlm.n
 
 Guidelines have taken note. [The American College of Gastroenterology's 2021 IBS guideline](https://pubmed.ncbi.nlm.nih.gov/33315591/) suggests gut-directed psychotherapy for overall IBS symptoms. For children and teens, a [2025 guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC12314588/) from the European and North American pediatric gastroenterology societies (ESPGHAN and NASPGHAN), covering ages 4 to 18, recommends hypnotherapy (strong recommendation, moderate-certainty evidence) and CBT (strong recommendation, low-certainty evidence) as treatment options for IBS and related abdominal pain conditions.
 
-!!! hype-moderate "Hype Meter: \"CBT and gut-directed hypnotherapy help IBS symptoms\""
+!!! hype-moderate "Hype Meter: "CBT and gut-directed hypnotherapy help IBS symptoms""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate (near the top of the range).** A 2020 network meta-analysis of 41 trials with 4,072 people found that CBT and gut-directed hypnotherapy reduced the chance of ongoing IBS symptoms, and a large 2018 trial of 436 adults found lasting benefits from home-based CBT. The ACG's 2021 guideline suggests gut-directed psychotherapy (a conditional recommendation), and a 2025 pediatric guideline recommends hypnotherapy and CBT. The grade stops short of Strong because many trials had a high risk of bias and the true benefit is probably smaller than reported.
     **What would change the grade:** More large trials with strong control conditions (for example, comparing therapy with an equally engaging education program) and long follow-up could move it to Strong. These therapies help many people; they don't cure IBS.
@@ -355,7 +355,7 @@ Next, experiment. Select Wednesday (the test day) and change its gut score from 
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Science proves working out rebuilds your gut microbiome and that's why it cures anxiety. Six weeks, new gut, new you!\""
+??? question "1. Claim Check: "Science proves working out rebuilds your gut microbiome and that's why it cures anxiety. Six weeks, new gut, new you!""
     **Grade: Hype.** Exercise does improve anxiety and depression symptoms on average (Strong evidence from many trials), but that's not a cure. Exercise also changes gut microbes, but in the key study of 32 adults, the changes were small, depended on body weight, and largely reversed six weeks after stopping, and the study didn't measure mood. No human study shows microbes are the reason exercise helps anxiety. A careful version: "Regular exercise helps many people's mood, and it changes gut microbes a little; scientists don't know yet whether those two facts are connected."
 
 ??? question "2. Predict: Riya practices violin until 1 a.m. every night for two weeks before a concert. Based on the research in this chapter, what might you predict about her Crohn's disease, and how confident should you be?"

@@ -211,7 +211,7 @@ It's a chain of three links, and only the first one holds:
     ![Vee thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
     I see this trick everywhere: start with a true number, then attach a conclusion that sounds like it follows. When a claim has several steps, I check each link separately, because a chain is only as strong as its weakest one.
 
-!!! hype-hype "Hype Meter: \"90% of your serotonin is in your gut, so your gut controls your happiness\""
+!!! hype-hype "Hype Meter: "90% of your serotonin is in your gut, so your gut controls your happiness""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** The number is Strong: more than 90% of the body's serotonin is made in the gut, mostly by enterochromaffin cells. But that serotonin does not cross the blood-brain barrier, and the brain makes its own from tryptophan using a different enzyme (TPH2). Gut serotonin mainly runs gut movement, secretion, sensations like nausea, and platelet storage. The gut does send signals to the brain through nerves and other routes, but "gut serotonin controls your mood" is not what the evidence shows.
     **What would change the grade:** Human studies showing that changing gut serotonin production, by itself, reliably changes brain serotonin and mood. Drugs designed to lower gut serotonin without entering the brain would be a natural way to test this.
@@ -248,7 +248,7 @@ New data keep arriving, too. In a 2023 brain-imaging (PET) study, Erritzoe and c
 
 As Bektaş and colleagues put it in their 2020 editorial, psychiatric conditions don't develop from a single cause. Depression is linked to many factors, including stress, life events, and inflammation in some people (Chapter 4). The slogan "depression is low serotonin" is too simple for the evidence.
 
-!!! hype-hype "Hype Meter: \"Depression is caused by low serotonin\""
+!!! hype-hype "Hype Meter: "Depression is caused by low serotonin""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** A 2022 umbrella review of 17 studies found no consistent evidence that depression is caused by lowered serotonin, and depression is widely understood to have more than one cause. Critics of that review argue that the serotonin system is disturbed in some people with depression (Jauhar 2023; Erritzoe 2023), and serotonin may be involved in how some treatments work. But even those critics describe a role for serotonin, not a single cause, so the simple cause-and-effect slogan is not supported. This grade is about the slogan only; it is not a judgment on whether antidepressants help, which is a separate question.
     **What would change the grade:** Consistent, repeated human evidence that serotonin activity is reduced before depression begins, and that restoring it reliably prevents or ends depression.
@@ -289,7 +289,7 @@ Two cautions keep this honest. First, "bacteria can make GABA" is not the same a
 
 A 2021 review by [Kara Margolis, John Cryan, and Emeran Mayer](https://pubmed.ncbi.nlm.nih.gov/33493503/) sums up the field: animal studies of the microbiota-gut-brain axis have shown much promise, but they haven't yet been turned into proven diagnoses or treatments for patients.
 
-!!! hype-preliminary "Hype Meter: \"Gut bacteria make neurotransmitters that reach your brain\""
+!!! hype-preliminary "Hype Meter: "Gut bacteria make neurotransmitters that reach your brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** It's well shown in lab cultures that common gut bacteria make GABA and other neurotransmitter molecules, and in mice that bacteria raise the gut's own serotonin production. But the "reach your brain" part is not shown in people: most of these molecules act in the gut, and human links between microbes and depression (about 1,000 people in one major study) are correlations.
     **What would change the grade:** Human studies tracing a microbe-made molecule from the gut into the brain, followed by controlled trials showing that changing those microbes changes brain chemistry and mood.
@@ -341,7 +341,7 @@ A 2021 review by [Kara Margolis, John Cryan, and Emeran Mayer](https://pubmed.nc
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Your gut makes 95% of your serotonin! This probiotic boosts gut serotonin so you'll feel calmer and happier in two weeks.\""
+??? question "1. Claim Check: "Your gut makes 95% of your serotonin! This probiotic boosts gut serotonin so you'll feel calmer and happier in two weeks.""
     **Grade: Hype.** The "95%" figure is within the range scientists report (more than 90%, some estimates about 95%). But gut serotonin can't cross the blood-brain barrier, so raising it wouldn't raise brain serotonin. The best evidence that bacteria boost gut serotonin comes from mice (Yano 2015), and it measured gut and blood serotonin, not mood. A careful version: "Most of your serotonin is made in your gut, where it controls digestion; in mice, some gut bacteria increase that production."
 
 ??? question "2. Predict: Riya's grandmother hears that tryptophan is the building block of serotonin and wonders if a big turkey dinner will flood Riya's brain with serotonin. Predict what actually happens to the tryptophan, using this chapter."

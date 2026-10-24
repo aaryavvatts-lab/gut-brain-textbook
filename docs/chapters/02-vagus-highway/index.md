@@ -105,7 +105,7 @@ But notice the words "classic" and "in animals." Nobody has done a modern, compl
 
 What doesn't change is the big picture: most vagus traffic is sensory. The brain spends most of this cable on listening.
 
-!!! hype-moderate "Hype Meter: \"80% of your vagus nerve sends signals up to your brain\""
+!!! hype-moderate "Hype Meter: "80% of your vagus nerve sends signals up to your brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** That most vagus fibers are sensory is well supported by anatomy reviews. The specific "80%" comes from old fiber counts in cats, and a careful 1990 rat study found that motor fibers in the abdominal vagus may be over a quarter of the total. The general claim ("most vagus fibers carry signals to the brain") would rate Strong; the exact percentage, applied to humans, is an approximation.
     **What would change the grade:** A modern, careful fiber count of human vagus nerves, branch by branch, could confirm or revise the number.
@@ -204,7 +204,7 @@ Let's apply the six questions from [Chapter 1, Section 1.13](../01-brain-in-your
 
 The conclusion: this is strong, careful basic science showing a new kind of gut-to-nerve connection in mice. It does not show that humans have the same synapses working the same way, and it says nothing yet about treating any disease.
 
-!!! hype-preliminary "Hype Meter: \"Your gut cells are wired straight to your brain\""
+!!! hype-preliminary "Hype Meter: "Your gut cells are wired straight to your brain""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** In mice, some gut sensor cells (neuropod cells) form synapses with vagal sensory neurons and pass signals within milliseconds, connecting the gut lining to the brainstem through one synapse plus the vagus nerve. These studies are careful, but they are mouse studies in a very new field, and "straight to your brain" skips the vagal neuron in between.
     **What would change the grade:** Finding the same synapses and fast signaling in human gut tissue, and then showing they matter for how people sense food, would move it to Moderate or higher.
@@ -288,7 +288,7 @@ Posts promise that splashing cold water on your face, taking an ice bath, hummin
 
 But there's a big leap from "a short change in heart-rate measurements in healthy volunteers" to "cures anxiety" or "heals your gut."
 
-!!! hype-hype "Hype Meter: \"Cold plunges, humming, or gargling reset your vagus nerve and cure anxiety\""
+!!! hype-hype "Hype Meter: "Cold plunges, humming, or gargling reset your vagus nerve and cure anxiety""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Hype.** Small lab studies in healthy adults show that brief cold on the face or neck, or slow breathing, can briefly shift heart rate and HRV, which are indirect estimates of vagal activity at the heart. None of the studies used in this chapter show that these tricks "reset" the vagus nerve, change gut function, or treat an anxiety disorder. "Reset" has no scientific meaning here.
     **What would change the grade:** Randomized controlled trials in people with anxiety, comparing a specific practice with a believable placebo practice over weeks, measuring anxiety symptoms (not just HRV), could move a specific technique, such as slow breathing, up to Preliminary or Moderate. Anxiety treatments that already have strong evidence are covered in Chapter 18.
@@ -357,7 +357,7 @@ One related device is worth knowing about, so you don't mix it up: in June 2019 
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Hum for 5 minutes a day to activate your vagus nerve and heal your gut. Your gut-brain connection will thank you!\""
+??? question "1. Claim Check: "Hum for 5 minutes a day to activate your vagus nerve and heal your gut. Your gut-brain connection will thank you!""
     **Grade: Hype.** Slow breathing can raise heart rate variability in healthy people, and humming may slow breathing, but HRV is an indirect estimate of the vagus nerve's effect on the heart, not the gut. None of the evidence in this chapter shows that humming changes gut function or heals any gut condition, and "activate" is vague. A careful version would say: "Slow breathing can briefly change heart-rate measures linked to the vagus nerve, and some people find it calming; it hasn't been shown to treat gut disease."
 
 ??? question "2. Predict: Sam is nervous before a race and eats a big bowl of pasta an hour before the start. Predict how his stomach might respond, using the parasympathetic and sympathetic branches."

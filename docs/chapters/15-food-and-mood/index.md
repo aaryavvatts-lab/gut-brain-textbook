@@ -154,7 +154,7 @@ In 2024, a [larger "umbrella review"](https://pubmed.ncbi.nlm.nih.gov/38418082/)
 
 How can evidence be "convincing" and "low quality" at once? "Convincing" is a statistical label: the link is backed by large numbers of people, is consistent across studies, and is very unlikely to be a statistical fluke. It doesn't mean the effect is big. "Low quality" means the studies' designs (mostly observational, often snapshots) can't rule out confounding or reverse causation. A link can be very real and still not tell you what causes what.
 
-!!! hype-moderate "Hype Meter: \"Eating lots of ultra-processed food is linked to depression\""
+!!! hype-moderate "Hype Meter: "Eating lots of ultra-processed food is linked to depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Moderate.** (The stronger claim that ultra-processed food *causes* depression is not shown.) Large pooled analyses of observational studies (17 studies and 385,541 people in 2022; nearly 10 million people across a 2024 umbrella review) consistently link more ultra-processed food with more depression and anxiety symptoms. But most studies are snapshots, the evidence quality was rated low, money and stress can affect both diet and mood, and low mood can change what people eat. "Linked to" is accurate; "causes" is not shown.
     **What would change the grade:** Randomized trials that change ultra-processed food intake while keeping other things equal, and that measure mood over months, could upgrade the causal claim. Long prospective studies that carefully account for income, sleep, and earlier mood would also help.
@@ -191,7 +191,7 @@ Here's what came next, from smallest to largest.
 - **Firth and colleagues' meta-analysis (2019).** This combined [16 randomized trials](https://pubmed.ncbi.nlm.nih.gov/30720698/) with 45,826 participants, mostly people without diagnosed depression. Diet-improvement programs reduced depressive symptoms by a small amount (an effect size of about 0.16, where 0.2 is usually called "small") but did not significantly reduce anxiety.
 - **PREDIMED (2013).** In a [large Spanish heart-health trial](https://pubmed.ncbi.nlm.nih.gov/24229349/) of 3,923 older adults (ages 55 to 80) at high risk of heart disease, a Mediterranean diet with extra nuts did **not** significantly lower the overall risk of new depression compared with a low-fat diet. A benefit showed up only in the subgroup with type 2 diabetes, an exploratory finding in older adults, not teens.
 
-!!! hype-preliminary "Hype Meter: \"Eating a Mediterranean diet treats depression\""
+!!! hype-preliminary "Hype Meter: "Eating a Mediterranean diet treats depression""
     <div class="hype-scale"><span>Strong</span><span>Moderate</span><span>Preliminary</span><span>Hype</span></div>
     **Verdict: Preliminary.** A few small randomized trials, including SMILES (67 adults, 12 weeks, remission 32.3% vs 8.0%) and HELFIMED (152 adults, diet plus fish oil), found improvements when diet support was added to usual care. A meta-analysis of 16 trials found a small effect on depressive symptoms, and the large PREDIMED trial found no significant overall effect on new depression. The trials were small or short, participants knew their group, and diet was an add-on, not a replacement for therapy or medicine.
     **What would change the grade:** Several larger, longer trials, in different countries and age groups including teens, with careful comparison groups and consistent results, could move it to Moderate. A careful version of the claim: "Adding dietitian support may help some adults with depression, alongside usual treatment."
@@ -312,7 +312,7 @@ Here's why that connects to this chapter. A headline that says "this food causes
 
 Test yourself. Try each one before you open the answer.
 
-??? question "1. Claim Check: \"Depression is caused by processed food. Cut it out completely and you won't need antidepressants!\""
+??? question "1. Claim Check: "Depression is caused by processed food. Cut it out completely and you won't need antidepressants!""
     **Grade: Hype.** Large observational studies link ultra-processed food with more depression symptoms (a Moderate association), but they can't show cause, and the link may run in both directions. No trial has shown that cutting out processed food treats depression, and the trials that helped added diet support **on top of** usual treatment. Telling someone to stop medicine on the basis of a diet claim could cause real harm. A careful version: "Diets high in ultra-processed food are linked to depression symptoms, but we don't yet know if changing them helps."
 
 ??? question "2. Predict: Sam notices that on test weeks he eats more vending machine snacks and feels more anxious. Predict what a researcher would see if they surveyed thousands of students like Sam once, and explain why that wouldn't show the snacks caused the anxiety."
