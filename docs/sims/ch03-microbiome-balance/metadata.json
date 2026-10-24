@@ -1,0 +1,76 @@
+{
+  "title": "Microbiome Balance",
+  "description": "Interactive cartoon model of a gut bacterial community with 24 made-up species in five groups. Learners give an antibiotic course or switch between a fiber-rich and a low-fiber diet and watch the diversity index, community makeup, and species count change. Antibiotics knock diversity down and let opportunists bloom; most of the community regrows, but rare species that hit zero are lost, so recovery is partial and differs between simulated people.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "gut microbiota",
+    "microbiome",
+    "microbial diversity",
+    "antibiotics",
+    "colonization resistance",
+    "commensal bacteria",
+    "Shannon diversity index",
+    "dietary fiber"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch03-microbiome-balance/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "03-meet-the-microbiome",
+  "bloomLevel": [
+    "Apply"
+  ],
+  "learningObjectives": [
+    "Predict how an antibiotic course changes the diversity and makeup of a gut bacterial community, including a temporary bloom of opportunist bacteria.",
+    "Explain why recovery after antibiotics is often partial and differs between people.",
+    "Describe how a low-fiber diet shifts community makeup and why the change can reverse when fiber returns if no species are lost."
+  ],
+  "concepts": [
+    "Gut Microbiota",
+    "Microbial Diversity",
+    "Commensal Bacteria",
+    "Pathogen",
+    "Colonization Resistance",
+    "Antibiotic Disruption",
+    "Dysbiosis"
+  ],
+  "prerequisites": [
+    "Bacteria as living cells that grow and compete for food and space",
+    "The colon as the part of the gut where most bacteria live",
+    "Reading a simple line chart and a stacked bar chart"
+  ],
+  "keyQuestions": [
+    "What happens to gut diversity during and after an antibiotic course?",
+    "Why can opportunist bacteria bloom when commensals are knocked down?",
+    "Why doesn't every species come back after antibiotics?",
+    "Why do two people respond differently to the same antibiotic?"
+  ],
+  "misconceptions": [
+    "One course of antibiotics ruins the microbiome forever.",
+    "The gut microbiome always returns exactly to where it started.",
+    "All bacteria are harmful, so fewer bacteria is better.",
+    "Everyone responds to antibiotics in the same way."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 680,
+  "iframeHeight": 682
+}

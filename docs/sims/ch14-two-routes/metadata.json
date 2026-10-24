@@ -1,0 +1,78 @@
+{
+  "title": "Gut-First or Brain-First?",
+  "description": "Interactive model of two competing hypotheses about Parkinson's disease. Learners choose whether misfolded alpha-synuclein starts in the gut wall or inside the brain, watch it spread along nerve connections, and compare the order of early symptoms each hypothesis predicts. A checkbox cuts the vagus nerve, which blocks gut-to-brain spread, as in a 2019 mouse study. All timings are illustrative model years.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "Parkinson's disease",
+    "alpha-synuclein",
+    "Braak hypothesis",
+    "gut-first subtype",
+    "brain-first subtype",
+    "vagus nerve",
+    "prodromal symptoms",
+    "competing hypotheses"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch14-two-routes/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "14-parkinsons-alzheimers-gut",
+  "bloomLevel": [
+    "Analyze",
+    "Evaluate"
+  ],
+  "learningObjectives": [
+    "Compare the gut-first and brain-first hypotheses of Parkinson's disease by the order of early symptoms each predicts.",
+    "Explain why cutting the vagus nerve blocks spread in the gut-first route but does not change the brain-first route.",
+    "Evaluate what kind of evidence would be needed to decide between two competing hypotheses."
+  ],
+  "concepts": [
+    "Braak Hypothesis",
+    "Gut-First Subtype",
+    "Brain-First Subtype",
+    "Prion-Like Spread",
+    "Alpha-Synuclein",
+    "Prodromal Symptoms",
+    "Constipation",
+    "Truncal Vagotomy Studies"
+  ],
+  "prerequisites": [
+    "The vagus nerve connects the gut and the brainstem",
+    "Parkinson's disease involves the loss of dopamine neurons in the substantia nigra",
+    "The difference between correlation and cause"
+  ],
+  "keyQuestions": [
+    "Which symptoms come before diagnosis in each proposed route?",
+    "Why does constipation years before diagnosis fit the gut-first idea, and why doesn't it prove it?",
+    "What happens to each route when the vagus nerve is cut?",
+    "What human evidence would help decide between the two hypotheses?"
+  ],
+  "misconceptions": [
+    "The Braak hypothesis has been proven.",
+    "Everyone with Parkinson's disease follows the same path of spread.",
+    "Constipation means a person will develop Parkinson's disease.",
+    "Cutting the vagus nerve is a way to prevent Parkinson's disease in people."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 670,
+  "iframeHeight": 672
+}

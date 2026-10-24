@@ -1,0 +1,83 @@
+{
+  "title": "Vagus Signal Router",
+  "description": "Interactive model of two-way traffic on the vagus nerve. Learners trigger a meal, fat arriving (CCK), gut inflammation, or a stressful thought and watch afferent signals travel up to the nucleus tractus solitarius and efferent signals travel down from the dorsal motor nucleus. A separate spinal route shows that the vagus is not the only gut-brain wire, and a vagotomy switch shows what happens when the vagus is cut.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "vagus nerve",
+    "afferent",
+    "efferent",
+    "nucleus tractus solitarius",
+    "dorsal motor nucleus",
+    "vago-vagal reflex",
+    "cholecystokinin",
+    "spinal afferent",
+    "vagotomy",
+    "gut-brain axis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch02-vagus-signal-router/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "02-vagus-highway",
+  "bloomLevel": [
+    "Understand",
+    "Analyze"
+  ],
+  "learningObjectives": [
+    "Compare afferent (gut-to-brain) and efferent (brain-to-gut) signaling along the vagus nerve for a meal, fat arriving, gut inflammation, and a stressful thought.",
+    "Explain why most vagus nerve traffic is sensory, using the 8-of-10 fiber bundle based on classic animal fiber counts.",
+    "Contrast the vagal route with the spinal route and predict which signals still reach the brain after vagotomy."
+  ],
+  "concepts": [
+    "Vagus Nerve",
+    "Afferent Signal",
+    "Efferent Signal",
+    "Nodose Ganglion",
+    "Nucleus Tractus Solitarius",
+    "Dorsal Motor Nucleus",
+    "Spinal Afferent Nerve",
+    "Cholecystokinin",
+    "Satiety Signal",
+    "Sympathetic Nervous System",
+    "Vagotomy"
+  ],
+  "prerequisites": [
+    "The autonomic nervous system and its role in digestion",
+    "The enteric nervous system as the gut's local nerve network",
+    "Basic idea of a neuron carrying signals in one direction"
+  ],
+  "keyQuestions": [
+    "Which direction does most vagus nerve traffic travel?",
+    "How does the brainstem turn a stretch signal into a command that relaxes the stomach?",
+    "Which gut signals travel by spinal nerves instead of the vagus?",
+    "What still works, and what stops, after the vagus nerve is cut?"
+  ],
+  "misconceptions": [
+    "The vagus nerve mostly sends commands from the brain to the gut.",
+    "The vagus nerve is the only route between the gut and the brain.",
+    "The vagus nerve is just a 'calm down' switch.",
+    "Cutting the vagus nerve stops all gut sensations."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 660,
+  "iframeHeight": 662
+}

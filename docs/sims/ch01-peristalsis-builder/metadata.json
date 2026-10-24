@@ -1,0 +1,72 @@
+{
+  "title": "Peristalsis Builder",
+  "description": "Interactive model of the peristaltic reflex. A ball of food stretches a section of gut; enteric neurons respond by squeezing the muscle behind the food and relaxing it ahead, pushing it along. Learners switch the enteric nervous system on, off, or missing at the end (like Hirschsprung disease) and change stretch sensitivity to see when food moves and when it stalls.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "enteric nervous system",
+    "peristalsis",
+    "peristaltic reflex",
+    "Hirschsprung disease",
+    "smooth muscle",
+    "gut-brain axis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch01-peristalsis-builder/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "01-brain-in-your-belly",
+  "bloomLevel": [
+    "Understand"
+  ],
+  "learningObjectives": [
+    "Explain how the peristaltic reflex moves food as a local enteric nervous system circuit: stretch of the gut wall triggers contraction behind the food and relaxation ahead of it, without input from the brain.",
+    "Predict what happens to food movement when enteric neurons are missing from the end of the gut, as in Hirschsprung disease."
+  ],
+  "concepts": [
+    "Peristalsis",
+    "Peristaltic Reflex",
+    "Enteric Nervous System",
+    "Enteric Neuron",
+    "Smooth Muscle",
+    "Interstitial Cells of Cajal",
+    "Hirschsprung Disease"
+  ],
+  "prerequisites": [
+    "Basic idea of a neuron as a cell that carries signals",
+    "The digestive tract as a muscular tube from mouth to anus"
+  ],
+  "keyQuestions": [
+    "What triggers the peristaltic reflex?",
+    "Why does the muscle need to relax ahead of the food, not just squeeze behind it?",
+    "Why does food stall when the segment ahead has no enteric neurons?",
+    "Does the brain need to send a command for food to move along the intestine?"
+  ],
+  "misconceptions": [
+    "The brain has to send a command for every movement of the gut.",
+    "Squeezing alone moves food; relaxation ahead does not matter.",
+    "A gut segment with no neurons goes limp and floppy (in Hirschsprung disease it stays contracted instead).",
+    "Pacemaker slow waves from interstitial cells of Cajal are enough to push food without the enteric nervous system."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 520,
+  "iframeHeight": 522
+}

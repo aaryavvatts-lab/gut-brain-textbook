@@ -1,0 +1,207 @@
+{
+  "book_title": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "author": "Aaryav Sharma",
+  "site_url": "https://aaryavvatts-lab.github.io/gut-brain-textbook/",
+  "mascot_name": "Vee",
+  "words_min": 4500,
+  "words_max": 9500,
+  "quiz_questions": 10,
+  "max_same_answer_letter": 3,
+  "references_min": 8,
+  "references_max": 12,
+  "max_mascots": 6,
+  "disclaimer": "not medical advice",
+  "taxonomy_codes": [
+    "FOUND",
+    "ENS",
+    "VAGUS",
+    "MICRO",
+    "IMMUNE",
+    "CHEM",
+    "STRESS",
+    "PAIN",
+    "GIDIS",
+    "NEURO",
+    "TREAT",
+    "EVID",
+    "LIFE"
+  ],
+  "required_sections": [
+    "## Summary",
+    "## Concepts Covered",
+    "## Prerequisites",
+    "## At the Bedside",
+    "## Common Misconceptions",
+    "## Your Gut Check",
+    "## Exercises",
+    "### Remember",
+    "### Understand",
+    "### Apply",
+    "### Analyze",
+    "### Evaluate",
+    "### Create",
+    "## Key Takeaways",
+    "#### Diagram:",
+    "!!! hype-"
+  ],
+  "section_order": [
+    "## Summary",
+    "## Concepts Covered",
+    "## Prerequisites",
+    "## At the Bedside",
+    "## Common Misconceptions",
+    "## Your Gut Check",
+    "## Exercises",
+    "## Key Takeaways"
+  ],
+  "mascot_types": [
+    "mascot-welcome",
+    "mascot-thinking",
+    "mascot-tip",
+    "mascot-warning",
+    "mascot-encourage",
+    "mascot-celebration",
+    "mascot-neutral"
+  ],
+  "metadata_forbidden": [
+    "TODO",
+    "Dan McCreary",
+    "Geometry",
+    "Mathematics",
+    "Bouncing Ball",
+    "bouncing"
+  ],
+  "glossary_aliases": {
+    "ACTH": "Adrenocorticotropic Hormone (ACTH)",
+    "GABA": "Gamma-Aminobutyric Acid (GABA)",
+    "SSRI": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+    "ADHD": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+    "GLP-1": "Glucagon-Like Peptide-1 (GLP-1)",
+    "HPA Axis": "Hypothalamic-Pituitary-Adrenal (HPA) Axis",
+    "FODMAP": "FODMAP (Fermentable Oligo-, Di-, Monosaccharides and Polyols)",
+    "BBB Permeability": "Blood-Brain Barrier Permeability",
+    "ENS Neuron Count": "Enteric Nervous System Neuron Count"
+  },
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-brain-in-your-belly",
+      "sim": "ch01-peristalsis-builder",
+      "title": "The Brain in Your Belly (and Why That Phrase Is Misleading)"
+    },
+    {
+      "num": 2,
+      "slug": "02-vagus-highway",
+      "sim": "ch02-vagus-signal-router",
+      "title": "The Vagus Highway"
+    },
+    {
+      "num": 3,
+      "slug": "03-meet-the-microbiome",
+      "sim": "ch03-microbiome-balance",
+      "title": "Meet the Microbiome"
+    },
+    {
+      "num": 4,
+      "slug": "04-immune-sense-organ",
+      "sim": "ch04-cytokine-feedback-loop",
+      "title": "The Immune System as a Sense Organ"
+    },
+    {
+      "num": 5,
+      "slug": "05-serotonin-myth",
+      "sim": "ch05-serotonin-where",
+      "title": "Chemical Messengers and the Serotonin Myth"
+    },
+    {
+      "num": 6,
+      "slug": "06-fiber-fatty-acids-bbb",
+      "sim": "ch06-fiber-to-butyrate",
+      "title": "Fiber, Fatty Acids, and the Blood-Brain Barrier"
+    },
+    {
+      "num": 7,
+      "slug": "07-stress-and-the-gut",
+      "sim": "ch07-hpa-stress-dial",
+      "title": "Stress and the Gut"
+    },
+    {
+      "num": 8,
+      "slug": "08-pain-and-sensitivity",
+      "sim": "ch08-pain-amplifier",
+      "title": "Pain, Sensitivity, and the Gut"
+    },
+    {
+      "num": 9,
+      "slug": "09-inflammatory-bowel-disease",
+      "sim": "ch09-ibd-flare-timeline",
+      "title": "Inflammatory Bowel Disease: Ulcerative Colitis and Crohn's"
+    },
+    {
+      "num": 10,
+      "slug": "10-ibs-and-dgbi",
+      "sim": "ch10-rome-criteria-explorer",
+      "title": "IBS and Disorders of Gut-Brain Interaction"
+    },
+    {
+      "num": 11,
+      "slug": "11-anxiety-depression-gut",
+      "sim": "ch11-two-way-street",
+      "title": "Anxiety, Depression, and the Gut"
+    },
+    {
+      "num": 12,
+      "slug": "12-celiac-and-food-reactions",
+      "sim": "ch12-villi-explorer",
+      "title": "Celiac Disease and Food Reactions"
+    },
+    {
+      "num": 13,
+      "slug": "13-autism-adhd-gut",
+      "sim": "ch13-confounder-detective",
+      "title": "Autism, ADHD, and the Gut"
+    },
+    {
+      "num": 14,
+      "slug": "14-parkinsons-alzheimers-gut",
+      "sim": "ch14-two-routes",
+      "title": "Parkinson's, Alzheimer's, and the Gut"
+    },
+    {
+      "num": 15,
+      "slug": "15-food-and-mood",
+      "sim": "ch15-diet-pattern-explorer",
+      "title": "Food and Mood"
+    },
+    {
+      "num": 16,
+      "slug": "16-probiotics-psychobiotics",
+      "sim": "ch16-trial-reader",
+      "title": "Probiotics, Prebiotics, and \"Psychobiotics\""
+    },
+    {
+      "num": 17,
+      "slug": "17-medicine-gut-brain-axis",
+      "sim": "ch17-treatment-evidence-map",
+      "title": "Medicine for the Gut-Brain Axis"
+    },
+    {
+      "num": 18,
+      "slug": "18-sleep-exercise-therapy",
+      "sim": "ch18-gut-sleep-diary",
+      "title": "Sleep, Exercise, and Therapy"
+    },
+    {
+      "num": 19,
+      "slug": "19-culture-family-stigma",
+      "sim": "ch19-conversation-practice",
+      "title": "Culture, Food, Family, and Stigma"
+    },
+    {
+      "num": 20,
+      "slug": "20-be-your-own-scientist",
+      "sim": "ch20-hype-meter-sorter",
+      "title": "Be Your Own Scientist: Reading Health Claims"
+    }
+  ]
+}

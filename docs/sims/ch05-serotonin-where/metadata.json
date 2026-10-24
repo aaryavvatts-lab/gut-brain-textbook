@@ -1,0 +1,76 @@
+{
+  "title": "Serotonin: Where Does It Go?",
+  "description": "Interactive body map that traces serotonin released by enterochromaffin cells in the gut lining: it acts on nerves, is taken back up by the serotonin transporter, or is stored in platelets, but it cannot cross the blood-brain barrier. Tryptophan from food can cross, and brain neurons turn it into their own serotonin. An SSRI checkbox shows how blocking the serotonin transporter changes gut serotonin, a source of common side effects.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "serotonin",
+    "enterochromaffin cell",
+    "blood-brain barrier",
+    "tryptophan",
+    "serotonin transporter",
+    "SSRI",
+    "gut-brain axis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch05-serotonin-where/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "05-serotonin-myth",
+  "bloomLevel": [
+    "Understand"
+  ],
+  "learningObjectives": [
+    "Distinguish gut (peripheral) serotonin from brain (central) serotonin by tracing the fates of serotonin released by enterochromaffin cells.",
+    "Explain why gut serotonin cannot raise brain serotonin and how the brain makes its own serotonin from tryptophan.",
+    "Explain why an SSRI can cause gastrointestinal side effects."
+  ],
+  "concepts": [
+    "Serotonin",
+    "Enterochromaffin Cell",
+    "Serotonin Transporter",
+    "Blood-Brain Barrier",
+    "Tryptophan",
+    "Tryptophan Hydroxylase",
+    "SSRI",
+    "Kynurenine Pathway",
+    "Gut Serotonin Mood Myth"
+  ],
+  "prerequisites": [
+    "A neurotransmitter is a chemical messenger released by neurons",
+    "The vagus nerve carries signals from the gut to the brainstem"
+  ],
+  "keyQuestions": [
+    "Where does serotonin made in the gut go?",
+    "Why can't gut serotonin cross into the brain?",
+    "How does the brain make its own serotonin?",
+    "Why can a medicine aimed at the brain upset the stomach?"
+  ],
+  "misconceptions": [
+    "Serotonin made in the gut travels to the brain and improves mood.",
+    "Eating foods that contain serotonin raises brain serotonin.",
+    "A nerve signal from the gut means serotonin itself reached the brain.",
+    "Most tryptophan from food becomes serotonin."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 570,
+  "iframeHeight": 572
+}

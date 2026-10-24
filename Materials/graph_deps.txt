@@ -1,0 +1,339 @@
+# Learning-graph dependencies: "Concept Label: Dep 1; Dep 2". Concepts with no deps are foundational.
+# Built into docs/learning-graph/learning-graph.csv by Materials/build_graph.py
+Digestive Tract:
+Gut Wall Layers: Digestive Tract
+Smooth Muscle: Gut Wall Layers
+Central Nervous System:
+Peripheral Nervous System: Central Nervous System
+Autonomic Nervous System: Peripheral Nervous System
+Gut-Brain Axis: Digestive Tract; Central Nervous System
+Enteric Nervous System: Autonomic Nervous System; Gut Wall Layers
+Myenteric Plexus: Enteric Nervous System; Smooth Muscle
+Submucosal Plexus: Enteric Nervous System; Gut Wall Layers
+Enteric Neuron: Enteric Nervous System
+Enteric Glia: Enteric Neuron
+Interstitial Cells of Cajal: Smooth Muscle; Myenteric Plexus
+Peristalsis: Smooth Muscle; Myenteric Plexus
+Peristaltic Reflex: Peristalsis; Enteric Neuron
+Migrating Motor Complex: Peristalsis; Interstitial Cells of Cajal
+ENS Neuron Count: Enteric Neuron
+Neural Crest: Enteric Nervous System
+Hirschsprung Disease: Neural Crest; Peristaltic Reflex
+Hype Meter: Gut-Brain Axis
+Evidence Grade: Hype Meter
+Second Brain Metaphor: ENS Neuron Count; Evidence Grade
+Cranial Nerve: Peripheral Nervous System
+Brainstem: Central Nervous System
+Sympathetic Nervous System: Autonomic Nervous System
+Parasympathetic Nervous System: Autonomic Nervous System
+Vagus Nerve: Cranial Nerve; Parasympathetic Nervous System; Gut-Brain Axis
+Afferent Signal: Vagus Nerve
+Efferent Signal: Vagus Nerve
+Nodose Ganglion: Afferent Signal
+Nucleus Tractus Solitarius: Brainstem; Afferent Signal
+Dorsal Motor Nucleus: Brainstem; Efferent Signal
+Spinal Afferent Nerve: Afferent Signal; Sympathetic Nervous System
+Interoception: Nucleus Tractus Solitarius; Spinal Afferent Nerve
+Enteroendocrine Cell: Gut Wall Layers; Afferent Signal
+Neuropod Cell: Enteroendocrine Cell; Nodose Ganglion
+Gut Hormone: Enteroendocrine Cell
+Cholecystokinin: Gut Hormone
+GLP-1: Gut Hormone
+Satiety Signal: Cholecystokinin; GLP-1; Nucleus Tractus Solitarius
+Vagal Tone: Efferent Signal; Parasympathetic Nervous System
+Vagotomy: Vagus Nerve; Dorsal Motor Nucleus
+Microorganism:
+Gut Microbiota: Microorganism; Digestive Tract
+Microbiome: Gut Microbiota
+Bacterial Strain: Microorganism
+Commensal Bacteria: Gut Microbiota
+Pathogen: Microorganism
+Microbial Diversity: Gut Microbiota; Bacterial Strain
+Dysbiosis: Microbial Diversity
+Bacteria-to-Human Cell Ratio: Gut Microbiota
+Microbiome Development: Microbiome
+Birth Mode and Microbes: Microbiome Development
+Human Milk Oligosaccharides: Microbiome Development
+Colonization Resistance: Commensal Bacteria; Pathogen
+Antibiotic Disruption: Microbial Diversity; Colonization Resistance
+16S rRNA Sequencing: Bacterial Strain
+Metagenomic Sequencing: 16S rRNA Sequencing; Microbiome
+Animal Model: Evidence Grade
+Germ-Free Mouse: Animal Model; Gut Microbiota
+Correlation vs Causation: Evidence Grade; Dysbiosis
+Defining a Healthy Microbiome: Microbial Diversity; Correlation vs Causation
+Innate Immunity: Pathogen
+Adaptive Immunity: Innate Immunity
+Intestinal Epithelium: Gut Wall Layers
+Mucus Layer: Intestinal Epithelium; Commensal Bacteria
+Tight Junction: Intestinal Epithelium
+Gut-Associated Lymphoid Tissue: Adaptive Immunity; Intestinal Epithelium
+Pattern Recognition Receptor: Innate Immunity; Microorganism
+Inflammation: Innate Immunity; Pattern Recognition Receptor
+Cytokine: Inflammation
+Interleukin-6: Cytokine
+Tumor Necrosis Factor: Cytokine
+Interleukin-1 Beta: Cytokine
+Regulatory T Cell: Adaptive Immunity; Gut-Associated Lymphoid Tissue
+Immune-to-Brain Signaling: Cytokine; Vagus Nerve
+Circumventricular Organ: Immune-to-Brain Signaling; Brainstem
+Microglia: Central Nervous System; Innate Immunity
+Neuroinflammation: Microglia; Cytokine
+Sickness Behavior: Immune-to-Brain Signaling; Interleukin-1 Beta
+Synapse: Central Nervous System
+Neurotransmitter: Synapse
+Serotonin: Neurotransmitter
+Tryptophan: Serotonin
+Tryptophan Hydroxylase: Tryptophan
+Enterochromaffin Cell: Enteroendocrine Cell; Serotonin
+Serotonin Transporter: Serotonin; Synapse
+SSRI: Serotonin Transporter
+Blood-Brain Barrier: Central Nervous System; Tight Junction
+Gut Serotonin Mood Myth: Enterochromaffin Cell; Blood-Brain Barrier; Hype Meter
+Dopamine: Neurotransmitter
+GABA: Neurotransmitter
+Acetylcholine: Neurotransmitter; Enteric Neuron
+Microbe-Made Neurotransmitter: GABA; Gut Microbiota
+Kynurenine Pathway: Tryptophan; Inflammation
+Spore-Forming Bacteria: Enterochromaffin Cell; Bacterial Strain
+Dietary Fiber: Digestive Tract
+Fermentation: Dietary Fiber; Gut Microbiota
+Short-Chain Fatty Acid: Fermentation
+Butyrate: Short-Chain Fatty Acid
+Propionate: Short-Chain Fatty Acid
+Acetate: Short-Chain Fatty Acid
+Colonocyte: Intestinal Epithelium; Butyrate
+Free Fatty Acid Receptor: Short-Chain Fatty Acid; Enteroendocrine Cell
+Gene Regulation by Butyrate: Butyrate; Regulatory T Cell
+Intestinal Permeability: Tight Junction; Mucus Layer
+Leaky Gut Claim: Intestinal Permeability; Hype Meter
+Zonulin: Tight Junction; Intestinal Permeability
+Lipopolysaccharide: Pattern Recognition Receptor; Commensal Bacteria
+Metabolic Endotoxemia: Lipopolysaccharide; Intestinal Permeability
+Microglia Maturation: Microglia; Short-Chain Fatty Acid; Germ-Free Mouse
+BBB Permeability: Blood-Brain Barrier; Germ-Free Mouse; Short-Chain Fatty Acid
+Stress Response: Autonomic Nervous System
+Fight-or-Flight Response: Stress Response; Sympathetic Nervous System
+Hypothalamus: Central Nervous System
+Pituitary Gland: Hypothalamus
+Adrenal Gland: Pituitary Gland
+HPA Axis: Hypothalamus; Pituitary Gland; Adrenal Gland
+Corticotropin-Releasing Hormone: HPA Axis
+ACTH: Corticotropin-Releasing Hormone
+Cortisol: ACTH; Adrenal Gland
+Negative Feedback: Cortisol
+Acute Stress: Stress Response; Cortisol
+Chronic Stress: Acute Stress; Negative Feedback
+Stress and Gut Motility: Chronic Stress; Peristalsis; Corticotropin-Releasing Hormone
+Mast Cell: Innate Immunity; Intestinal Permeability
+Early-Life Stress: Chronic Stress; Microbiome Development
+Germ-Free Stress Response: Germ-Free Mouse; HPA Axis
+Nociceptor: Afferent Signal
+Somatic Pain: Nociceptor
+Visceral Pain: Nociceptor; Spinal Afferent Nerve
+Referred Pain: Visceral Pain; Somatic Pain
+Dorsal Root Ganglion: Spinal Afferent Nerve
+Dorsal Horn: Dorsal Root Ganglion
+Thalamus: Central Nervous System
+Insula: Thalamus; Interoception
+Anterior Cingulate Cortex: Thalamus
+Pain Perception: Insula; Anterior Cingulate Cortex; Dorsal Horn
+Gate Control Theory: Dorsal Horn; Pain Perception
+Visceral Hypersensitivity: Visceral Pain; Pain Perception
+Peripheral Sensitization: Nociceptor; Inflammation; Mast Cell
+Central Sensitization: Dorsal Horn; Visceral Hypersensitivity
+Descending Pain Modulation: Gate Control Theory; Brainstem
+Balloon Distension Test: Visceral Hypersensitivity
+Pain Catastrophizing: Pain Perception; Chronic Stress
+Immune-Mediated Disease: Adaptive Immunity; Inflammation
+Inflammatory Bowel Disease: Immune-Mediated Disease; Digestive Tract
+Ulcerative Colitis: Inflammatory Bowel Disease
+Crohn's Disease: Inflammatory Bowel Disease
+Transmural Inflammation: Crohn's Disease; Gut Wall Layers
+Disease Flare: Inflammatory Bowel Disease
+Remission: Disease Flare
+Extraintestinal Manifestation: Inflammatory Bowel Disease; Cytokine
+IBD Risk Factors: Inflammatory Bowel Disease; Dysbiosis
+Pediatric IBD: Inflammatory Bowel Disease
+Colonoscopy: Ulcerative Colitis; Crohn's Disease
+Fecal Calprotectin: Inflammation; Disease Flare
+Aminosalicylate: Ulcerative Colitis
+Corticosteroid: Disease Flare; Cortisol
+Immunomodulator: Adaptive Immunity; Inflammatory Bowel Disease
+Biologic Therapy: Immunomodulator; Cytokine
+Anti-TNF Therapy: Biologic Therapy; Tumor Necrosis Factor
+JAK Inhibitor: Biologic Therapy
+Mucosal Healing: Remission; Colonoscopy
+IBD Surgery: Crohn's Disease; Ulcerative Colitis
+Gut-Brain Interaction Disorder: Gut-Brain Axis; Visceral Hypersensitivity
+Structural vs Functional Disease: Gut-Brain Interaction Disorder; Inflammatory Bowel Disease
+Irritable Bowel Syndrome: Gut-Brain Interaction Disorder
+Rome IV Criteria: Irritable Bowel Syndrome
+IBS Subtypes: Rome IV Criteria
+Functional Dyspepsia: Gut-Brain Interaction Disorder
+Post-Infection IBS: Irritable Bowel Syndrome; Pathogen
+Alarm Features: Rome IV Criteria; Inflammatory Bowel Disease
+Positive Diagnosis Strategy: Rome IV Criteria; Alarm Features
+FODMAP: Fermentation
+Low-FODMAP Diet: FODMAP; Irritable Bowel Syndrome
+Cognitive Behavioral Therapy: Irritable Bowel Syndrome; Pain Catastrophizing
+Gut-Directed Hypnotherapy: Irritable Bowel Syndrome; Descending Pain Modulation
+Gut-Brain Neuromodulator: Irritable Bowel Syndrome; Central Sensitization
+Peppermint Oil: Irritable Bowel Syndrome; Smooth Muscle
+Placebo Response: Irritable Bowel Syndrome; Evidence Grade
+Anxiety Disorder: Stress Response
+Major Depressive Disorder: Neurotransmitter
+GI-Specific Anxiety: Anxiety Disorder; Irritable Bowel Syndrome
+Psychiatric Comorbidity: Anxiety Disorder; Major Depressive Disorder; Inflammatory Bowel Disease
+Bidirectional Relationship: Psychiatric Comorbidity; Correlation vs Causation
+Meta-Analysis: Evidence Grade
+Symptom Questionnaire: Psychiatric Comorbidity
+Cohort Study: Correlation vs Causation
+Reverse Causation: Correlation vs Causation; Cohort Study
+Confounding Variable: Correlation vs Causation
+Inflammatory Depression Theory: Major Depressive Disorder; Neuroinflammation; Cytokine
+Illness Burden: Psychiatric Comorbidity; Disease Flare
+Microbiota Transfer Study: Germ-Free Mouse; Major Depressive Disorder
+Help-Seeking: Anxiety Disorder; Major Depressive Disorder
+Crisis Resources: Help-Seeking
+Integrated Care: Psychiatric Comorbidity; Help-Seeking
+Celiac Disease: Immune-Mediated Disease; Gut-Associated Lymphoid Tissue
+Gluten: Celiac Disease
+HLA-DQ2 and HLA-DQ8: Celiac Disease; Adaptive Immunity
+Intestinal Villi: Intestinal Epithelium
+Villous Atrophy: Intestinal Villi; Celiac Disease; Gluten
+Tissue Transglutaminase Antibody: Celiac Disease; Adaptive Immunity
+Small Bowel Biopsy: Villous Atrophy
+Gluten-Free Diet: Gluten; Celiac Disease
+Gluten Ataxia: Celiac Disease; Gluten
+Peripheral Neuropathy: Peripheral Nervous System; Celiac Disease
+Non-Celiac Gluten Sensitivity: Celiac Disease; Gluten
+Fructan: FODMAP; Non-Celiac Gluten Sensitivity
+Food Allergy: Adaptive Immunity; Mast Cell
+Immunoglobulin E: Food Allergy
+Food Intolerance: Digestive Tract; Food Allergy
+Lactose Intolerance: Food Intolerance
+Unneeded Restrictive Diet: Gluten-Free Diet; Low-FODMAP Diet
+Autism: Central Nervous System
+ADHD: Central Nervous System
+Neurodiversity: Autism; ADHD
+Identity-First Language: Autism; Neurodiversity
+GI Symptoms in Autism: Autism; Peristalsis
+Selective Eating: Autism
+Interoceptive Differences: Interoception; Autism
+Diet as Confounder: Confounding Variable; Selective Eating; Microbial Diversity
+Maternal Immune Activation: Autism; Cytokine; Animal Model
+Open-Label Trial: Placebo Response
+Placebo-Controlled Trial: Open-Label Trial
+Sample Size: Meta-Analysis
+Microbiota Transfer Therapy: Open-Label Trial; GI Symptoms in Autism
+Harmful Cure Claims: Microbiota Transfer Therapy; Hype Meter; Neurodiversity
+Neurodegeneration: Central Nervous System
+Parkinson's Disease: Neurodegeneration; Dopamine
+Dopamine Neuron Loss: Parkinson's Disease
+Alpha-Synuclein: Parkinson's Disease
+Lewy Body: Alpha-Synuclein
+Prodromal Symptoms: Parkinson's Disease
+Constipation: Peristalsis
+Braak Hypothesis: Lewy Body; Vagus Nerve; Enteric Nervous System
+Prion-Like Spread: Alpha-Synuclein; Braak Hypothesis
+Gut-First Subtype: Braak Hypothesis; Prodromal Symptoms
+Brain-First Subtype: Gut-First Subtype
+Truncal Vagotomy Studies: Vagotomy; Braak Hypothesis; Cohort Study
+Appendix and Parkinson's: Braak Hypothesis; Cohort Study
+Levodopa Absorption: Dopamine Neuron Loss; Constipation
+Alzheimer's Disease: Neurodegeneration
+Amyloid Beta: Alzheimer's Disease
+Dietary Pattern: Dietary Fiber
+Mediterranean Diet: Dietary Pattern
+Ultra-Processed Food: Dietary Pattern
+Dietary Fiber Gap: Dietary Fiber; Dietary Pattern
+Fermented Food: Fermentation; Dietary Pattern
+Polyphenol: Dietary Pattern; Gut Microbiota
+Nutritional Psychiatry: Major Depressive Disorder; Dietary Pattern
+Observational Study: Cohort Study; Confounding Variable
+Randomized Controlled Trial: Placebo-Controlled Trial; Confounding Variable
+SMILES Trial: Randomized Controlled Trial; Mediterranean Diet; Major Depressive Disorder
+Dose-Response Relationship: Observational Study
+Healthy User Bias: Observational Study; Confounding Variable
+Mediator Variable: Correlation vs Causation; Gut Microbiota
+Food Insecurity: Dietary Pattern
+Eating Disorder Risk: Unneeded Restrictive Diet
+Probiotic: Commensal Bacteria; Bacterial Strain
+Prebiotic: Dietary Fiber; Probiotic
+Synbiotic: Probiotic; Prebiotic
+Postbiotic: Probiotic; Short-Chain Fatty Acid
+Psychobiotic: Probiotic; Major Depressive Disorder
+Lactobacillus: Bacterial Strain
+Bifidobacterium: Bacterial Strain; Human Milk Oligosaccharides
+Strain Specificity: Bacterial Strain; Probiotic
+Colony-Forming Unit: Probiotic
+Dietary Supplement Regulation: Probiotic
+Probiotic Safety: Probiotic; Dietary Supplement Regulation
+Systematic Review: Meta-Analysis
+Effect Size: Meta-Analysis; Sample Size
+Primary Outcome: Randomized Controlled Trial
+Publication Bias: Systematic Review
+Replication Failure: Psychobiotic; Animal Model
+C. difficile Infection: Pathogen; Antibiotic Disruption
+Fecal Microbiota Transplant: C. difficile Infection; Colonization Resistance
+Live Biotherapeutic Product: Fecal Microbiota Transplant
+FDA Approval: Randomized Controlled Trial
+Clinical Trial Phases: FDA Approval
+Off-Label Use: FDA Approval
+Benefit-Risk Balance: FDA Approval
+Vagus Nerve Stimulation: Vagus Nerve; FDA Approval
+Implanted VNS Device: Vagus Nerve Stimulation
+Noninvasive VNS: Vagus Nerve Stimulation
+Inflammatory Reflex: Efferent Signal; Tumor Necrosis Factor
+Bioelectronic Medicine: Inflammatory Reflex; Vagus Nerve Stimulation
+Consumer Wellness Device: Noninvasive VNS; Dietary Supplement Regulation
+Tricyclic Antidepressant: Gut-Brain Neuromodulator
+Shared Decision-Making: Benefit-Risk Balance
+Precision Medicine: Shared Decision-Making; Microbiome
+Circadian Rhythm: Hypothalamus
+Sleep Architecture: Circadian Rhythm
+Teen Sleep Need: Sleep Architecture
+Sleep and Inflammation: Sleep Architecture; Cytokine
+Microbiome Daily Rhythm: Circadian Rhythm; Gut Microbiota
+Sleep Hygiene: Teen Sleep Need
+Physical Activity: Stress Response
+Exercise and Gut Transit: Physical Activity; Peristalsis
+Exercise and Mood: Physical Activity; Major Depressive Disorder
+Psychotherapy: Cognitive Behavioral Therapy
+Brain-Gut Psychotherapy: Psychotherapy; Gut-Directed Hypnotherapy
+Mindfulness: Psychotherapy
+Slow Breathing: Vagal Tone; Stress Response
+Heart Rate Variability: Vagal Tone; Slow Breathing
+Self-Monitoring: Correlation vs Causation
+Behavior Change: Self-Monitoring
+Stigma: Illness Burden
+Self-Stigma: Stigma
+Mental Health Stigma: Stigma; Help-Seeking
+Illness Concealment: Stigma
+Quality of Life: Illness Burden
+Health Literacy: Evidence Grade
+Family Communication: Stigma; Health Literacy
+Caregiver Role: Family Communication
+Global IBD Rise: IBD Risk Factors
+Migration and IBD Risk: Global IBD Rise
+South Asian Health Context: Migration and IBD Risk; Family Communication
+Help-Seeking Barriers: Mental Health Stigma; Help-Seeking
+Talking to Your Doctor: Health Literacy; Shared Decision-Making
+School Accommodation: Illness Concealment; Pediatric IBD
+504 Plan: School Accommodation
+Peer Support: Self-Stigma; Quality of Life
+Hierarchy of Evidence: Meta-Analysis; Randomized Controlled Trial; Animal Model
+Mouse-to-Human Translation: Animal Model; Hierarchy of Evidence
+Peer Review: Hierarchy of Evidence
+Preprint: Peer Review
+Conflict of Interest: Peer Review
+Preregistration: Primary Outcome; Publication Bias
+Statistical Significance: Effect Size
+Absolute vs Relative Risk: Statistical Significance
+Health Claim Marketing: Dietary Supplement Regulation; Conflict of Interest
+Structure-Function Claim: Health Claim Marketing
+Reading an Abstract: Peer Review; Statistical Significance
+Claim-Checking Method: Hype Meter; Hierarchy of Evidence; Reading an Abstract
+Science Communication: Claim-Checking Method; Health Literacy
+Student Research Project: Claim-Checking Method; Science Communication

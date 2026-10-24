@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this textbook, please cite it as below."
+type: book
+title: "Gut Check: The Neuroscience of How Your Gut and Brain Talk"
+authors:
+  - family-names: Sharma
+    given-names: Aaryav
+    orcid: "https://orcid.org/0009-0006-3333-0809"
+version: "1.0.0"
+date-released: "2026-10-24"
+url: "https://aaryavvatts-lab.github.io/gut-brain-textbook/"
+repository-code: "https://github.com/aaryavvatts-lab/gut-brain-textbook"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - neuroscience
+  - gut-brain axis
+  - education
+  - open educational resource
+  - intelligent textbook
+  - health literacy
+  - p5.js

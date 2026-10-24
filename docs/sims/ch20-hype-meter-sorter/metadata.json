@@ -1,0 +1,72 @@
+{
+  "title": "Hype Meter Sorter",
+  "description": "A claim-sorting game. Sixteen real gut-brain claims from across the book appear one at a time; the learner grades each as Strong, Moderate, Preliminary, or Hype, then sees the book's grade and a one-sentence evidence reason. A running tally shows matches and whether misses were too generous or too harsh.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "Hype Meter",
+    "evidence grade",
+    "claim-checking method",
+    "hierarchy of evidence",
+    "mouse-to-human translation",
+    "health claims",
+    "gut-brain axis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch20-hype-meter-sorter/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "20-be-your-own-scientist",
+  "bloomLevel": [
+    "Evaluate"
+  ],
+  "learningObjectives": [
+    "Evaluate popular gut-brain claims by assigning a Hype Meter grade (Strong, Moderate, Preliminary, or Hype) based on the kind and amount of evidence behind each claim as stated.",
+    "Judge whether one's own grading tends to be too generous or too harsh, and explain which evidence features (mouse or human, study size, correlation or cause) drive a grade."
+  ],
+  "concepts": [
+    "Claim-Checking Method",
+    "Hierarchy of Evidence",
+    "Mouse-to-Human Translation",
+    "Hype Meter",
+    "Evidence Grade"
+  ],
+  "prerequisites": [
+    "The four Hype Meter grades and the six claim questions (Chapter 1)",
+    "Basic idea of a randomized controlled trial",
+    "Difference between correlation and cause"
+  ],
+  "keyQuestions": [
+    "Was the claim tested in people or only in mice?",
+    "Does the evidence show cause or only a link?",
+    "How many people were studied, and do several studies agree?",
+    "Why can a claim built on a true fact still earn a Hype grade?"
+  ],
+  "misconceptions": [
+    "If a claim mentions a real study, it must be Strong.",
+    "Everything about the gut-brain axis is hype, so every claim deserves a low grade.",
+    "An FDA approval for one condition means the treatment works for other conditions.",
+    "A true number (such as 70% of plasma cells) supports a bigger claim (70% of the immune system)."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 515,
+  "iframeHeight": 517
+}

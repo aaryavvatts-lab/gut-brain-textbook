@@ -1,0 +1,73 @@
+{
+  "title": "Probiotic Trial Reader",
+  "description": "Interactive simulation of probiotic clinical trials. A made-up probiotic has a small true effect; each simulated trial adds random chance and reports its best-looking outcome as one dot on an effect-size axis. Learners change people per group, the number of outcomes measured, and whether there is a placebo group, and see how small trials, many outcomes, and missing controls produce impressive-looking but inflated results.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "probiotic",
+    "clinical trial",
+    "effect size",
+    "primary outcome",
+    "placebo-controlled trial",
+    "sample size",
+    "psychobiotic"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch16-trial-reader/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "16-probiotics-psychobiotics",
+  "bloomLevel": [
+    "Evaluate"
+  ],
+  "learningObjectives": [
+    "Judge how trial size changes how close a reported effect is likely to be to the true effect.",
+    "Explain why measuring many outcomes and reporting the best one inflates results, and why trials name a primary outcome in advance.",
+    "Explain why a placebo group is needed to separate a treatment's effect from the placebo response."
+  ],
+  "concepts": [
+    "Effect Size",
+    "Primary Outcome",
+    "Publication Bias",
+    "Probiotic",
+    "Systematic Review"
+  ],
+  "prerequisites": [
+    "Placebo-controlled trials and sample size (Chapter 13)",
+    "Randomized controlled trials (Chapter 15)",
+    "The definition of a probiotic (Chapter 16)"
+  ],
+  "keyQuestions": [
+    "Why can a small trial report a big effect for a treatment that does very little?",
+    "What happens to reported results when a trial measures many outcomes and reports the best one?",
+    "What does a placebo group protect against?",
+    "Which trial designs deserve the most confidence?"
+  ],
+  "misconceptions": [
+    "A single study that found a significant result proves the treatment works.",
+    "A bigger reported effect from a small study is more convincing than a smaller effect from a large study.",
+    "If people improved after taking a probiotic, the probiotic caused the improvement.",
+    "Measuring more outcomes makes a study more thorough and therefore more trustworthy."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 560,
+  "iframeHeight": 562
+}

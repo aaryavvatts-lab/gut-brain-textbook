@@ -1,0 +1,338 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,Digestive Tract,,FOUND
+2,Gut Wall Layers,1,FOUND
+3,Smooth Muscle,2,FOUND
+4,Central Nervous System,,FOUND
+5,Peripheral Nervous System,4,FOUND
+6,Autonomic Nervous System,5,FOUND
+7,Gut-Brain Axis,1|4,FOUND
+8,Enteric Nervous System,6|2,ENS
+9,Myenteric Plexus,8|3,ENS
+10,Submucosal Plexus,8|2,ENS
+11,Enteric Neuron,8,ENS
+12,Enteric Glia,11,ENS
+13,Interstitial Cells of Cajal,3|9,ENS
+14,Peristalsis,3|9,ENS
+15,Peristaltic Reflex,14|11,ENS
+16,Migrating Motor Complex,14|13,ENS
+17,ENS Neuron Count,11,ENS
+18,Neural Crest,8,ENS
+19,Hirschsprung Disease,18|15,GIDIS
+20,Second Brain Metaphor,17|22,EVID
+21,Hype Meter,7,EVID
+22,Evidence Grade,21,EVID
+23,Cranial Nerve,5,FOUND
+24,Brainstem,4,FOUND
+25,Sympathetic Nervous System,6,FOUND
+26,Parasympathetic Nervous System,6,FOUND
+27,Vagus Nerve,23|26|7,VAGUS
+28,Afferent Signal,27,VAGUS
+29,Efferent Signal,27,VAGUS
+30,Nodose Ganglion,28,VAGUS
+31,Nucleus Tractus Solitarius,24|28,VAGUS
+32,Dorsal Motor Nucleus,24|29,VAGUS
+33,Spinal Afferent Nerve,28|25,VAGUS
+34,Interoception,31|33,VAGUS
+35,Enteroendocrine Cell,2|28,CHEM
+36,Neuropod Cell,35|30,CHEM
+37,Gut Hormone,35,CHEM
+38,Cholecystokinin,37,CHEM
+39,GLP-1,37,CHEM
+40,Satiety Signal,38|39|31,VAGUS
+41,Vagal Tone,29|26,VAGUS
+42,Vagotomy,27|32,VAGUS
+43,Microorganism,,FOUND
+44,Gut Microbiota,43|1,MICRO
+45,Microbiome,44,MICRO
+46,Bacterial Strain,43,MICRO
+47,Commensal Bacteria,44,MICRO
+48,Pathogen,43,MICRO
+49,Microbial Diversity,44|46,MICRO
+50,Dysbiosis,49,MICRO
+51,Bacteria-to-Human Cell Ratio,44,MICRO
+52,Microbiome Development,45,MICRO
+53,Birth Mode and Microbes,52,MICRO
+54,Human Milk Oligosaccharides,52,MICRO
+55,Colonization Resistance,47|48,MICRO
+56,Antibiotic Disruption,49|55,MICRO
+57,16S rRNA Sequencing,46,EVID
+58,Metagenomic Sequencing,57|45,EVID
+59,Animal Model,22,EVID
+60,Germ-Free Mouse,59|44,EVID
+61,Correlation vs Causation,22|50,EVID
+62,Defining a Healthy Microbiome,49|61,EVID
+63,Innate Immunity,48,IMMUNE
+64,Adaptive Immunity,63,IMMUNE
+65,Intestinal Epithelium,2,IMMUNE
+66,Mucus Layer,65|47,IMMUNE
+67,Tight Junction,65,IMMUNE
+68,Gut-Associated Lymphoid Tissue,64|65,IMMUNE
+69,Pattern Recognition Receptor,63|43,IMMUNE
+70,Inflammation,63|69,IMMUNE
+71,Cytokine,70,IMMUNE
+72,Interleukin-6,71,IMMUNE
+73,Tumor Necrosis Factor,71,IMMUNE
+74,Interleukin-1 Beta,71,IMMUNE
+75,Regulatory T Cell,64|68,IMMUNE
+76,Immune-to-Brain Signaling,71|27,IMMUNE
+77,Circumventricular Organ,76|24,IMMUNE
+78,Microglia,4|63,IMMUNE
+79,Neuroinflammation,78|71,NEURO
+80,Sickness Behavior,76|74,NEURO
+81,Synapse,4,FOUND
+82,Neurotransmitter,81,CHEM
+83,Serotonin,82,CHEM
+84,Tryptophan,83,CHEM
+85,Tryptophan Hydroxylase,84,CHEM
+86,Enterochromaffin Cell,35|83,CHEM
+87,Serotonin Transporter,83|81,CHEM
+88,SSRI,87,TREAT
+89,Blood-Brain Barrier,4|67,CHEM
+90,Gut Serotonin Mood Myth,86|89|21,EVID
+91,Dopamine,82,CHEM
+92,GABA,82,CHEM
+93,Acetylcholine,82|11,CHEM
+94,Microbe-Made Neurotransmitter,92|44,CHEM
+95,Kynurenine Pathway,84|70,CHEM
+96,Spore-Forming Bacteria,86|46,MICRO
+97,Dietary Fiber,1,MICRO
+98,Fermentation,97|44,MICRO
+99,Short-Chain Fatty Acid,98,MICRO
+100,Butyrate,99,MICRO
+101,Propionate,99,MICRO
+102,Acetate,99,MICRO
+103,Colonocyte,65|100,FOUND
+104,Free Fatty Acid Receptor,99|35,CHEM
+105,Gene Regulation by Butyrate,100|75,MICRO
+106,Intestinal Permeability,67|66,IMMUNE
+107,Leaky Gut Claim,106|21,EVID
+108,Zonulin,67|106,IMMUNE
+109,Lipopolysaccharide,69|47,IMMUNE
+110,Metabolic Endotoxemia,109|106,IMMUNE
+111,Microglia Maturation,78|99|60,NEURO
+112,BBB Permeability,89|60|99,CHEM
+113,Stress Response,6,STRESS
+114,Fight-or-Flight Response,113|25,STRESS
+115,Hypothalamus,4,FOUND
+116,Pituitary Gland,115,FOUND
+117,Adrenal Gland,116,FOUND
+118,HPA Axis,115|116|117,STRESS
+119,Corticotropin-Releasing Hormone,118,STRESS
+120,ACTH,119,STRESS
+121,Cortisol,120|117,STRESS
+122,Negative Feedback,121,FOUND
+123,Acute Stress,113|121,STRESS
+124,Chronic Stress,123|122,STRESS
+125,Stress and Gut Motility,124|14|119,STRESS
+126,Mast Cell,63|106,IMMUNE
+127,Early-Life Stress,124|52,STRESS
+128,Germ-Free Stress Response,60|118,EVID
+129,Nociceptor,28,PAIN
+130,Somatic Pain,129,PAIN
+131,Visceral Pain,129|33,PAIN
+132,Referred Pain,131|130,PAIN
+133,Dorsal Root Ganglion,33,PAIN
+134,Dorsal Horn,133,PAIN
+135,Thalamus,4,FOUND
+136,Insula,135|34,PAIN
+137,Anterior Cingulate Cortex,135,PAIN
+138,Pain Perception,136|137|134,PAIN
+139,Gate Control Theory,134|138,PAIN
+140,Visceral Hypersensitivity,131|138,PAIN
+141,Peripheral Sensitization,129|70|126,PAIN
+142,Central Sensitization,134|140,PAIN
+143,Descending Pain Modulation,139|24,PAIN
+144,Balloon Distension Test,140,EVID
+145,Pain Catastrophizing,138|124,PAIN
+146,Immune-Mediated Disease,64|70,GIDIS
+147,Inflammatory Bowel Disease,146|1,GIDIS
+148,Ulcerative Colitis,147,GIDIS
+149,Crohn's Disease,147,GIDIS
+150,Transmural Inflammation,149|2,GIDIS
+151,Disease Flare,147,GIDIS
+152,Remission,151,GIDIS
+153,Extraintestinal Manifestation,147|71,GIDIS
+154,IBD Risk Factors,147|50,GIDIS
+155,Pediatric IBD,147,GIDIS
+156,Colonoscopy,148|149,TREAT
+157,Fecal Calprotectin,70|151,TREAT
+158,Aminosalicylate,148,TREAT
+159,Corticosteroid,151|121,TREAT
+160,Immunomodulator,64|147,TREAT
+161,Biologic Therapy,160|71,TREAT
+162,Anti-TNF Therapy,161|73,TREAT
+163,JAK Inhibitor,161,TREAT
+164,Mucosal Healing,152|156,TREAT
+165,IBD Surgery,149|148,TREAT
+166,Gut-Brain Interaction Disorder,7|140,GIDIS
+167,Structural vs Functional Disease,166|147,EVID
+168,Irritable Bowel Syndrome,166,GIDIS
+169,Rome IV Criteria,168,GIDIS
+170,IBS Subtypes,169,GIDIS
+171,Functional Dyspepsia,166,GIDIS
+172,Post-Infection IBS,168|48,GIDIS
+173,Alarm Features,169|147,TREAT
+174,Positive Diagnosis Strategy,169|173,TREAT
+175,FODMAP,98,MICRO
+176,Low-FODMAP Diet,175|168,TREAT
+177,Cognitive Behavioral Therapy,168|145,TREAT
+178,Gut-Directed Hypnotherapy,168|143,TREAT
+179,Gut-Brain Neuromodulator,168|142,TREAT
+180,Peppermint Oil,168|3,TREAT
+181,Placebo Response,168|22,EVID
+182,Anxiety Disorder,113,NEURO
+183,Major Depressive Disorder,82,NEURO
+184,GI-Specific Anxiety,182|168,NEURO
+185,Psychiatric Comorbidity,182|183|147,NEURO
+186,Bidirectional Relationship,185|61,EVID
+187,Meta-Analysis,22,EVID
+188,Symptom Questionnaire,185,EVID
+189,Cohort Study,61,EVID
+190,Reverse Causation,61|189,EVID
+191,Confounding Variable,61,EVID
+192,Inflammatory Depression Theory,183|79|71,NEURO
+193,Illness Burden,185|151,NEURO
+194,Microbiota Transfer Study,60|183,EVID
+195,Help-Seeking,182|183,NEURO
+196,Crisis Resources,195,NEURO
+197,Integrated Care,185|195,TREAT
+198,Celiac Disease,146|68,GIDIS
+199,Gluten,198,GIDIS
+200,HLA-DQ2 and HLA-DQ8,198|64,GIDIS
+201,Intestinal Villi,65,FOUND
+202,Villous Atrophy,201|198|199,GIDIS
+203,Tissue Transglutaminase Antibody,198|64,TREAT
+204,Small Bowel Biopsy,202,TREAT
+205,Gluten-Free Diet,199|198,TREAT
+206,Gluten Ataxia,198|199,NEURO
+207,Peripheral Neuropathy,5|198,NEURO
+208,Non-Celiac Gluten Sensitivity,198|199,GIDIS
+209,Fructan,175|208,MICRO
+210,Food Allergy,64|126,IMMUNE
+211,Immunoglobulin E,210,IMMUNE
+212,Food Intolerance,1|210,GIDIS
+213,Lactose Intolerance,212,GIDIS
+214,Unneeded Restrictive Diet,205|176,EVID
+215,Autism,4,NEURO
+216,ADHD,4,NEURO
+217,Neurodiversity,215|216,NEURO
+218,Identity-First Language,215|217,NEURO
+219,GI Symptoms in Autism,215|14,NEURO
+220,Selective Eating,215,NEURO
+221,Interoceptive Differences,34|215,NEURO
+222,Diet as Confounder,191|220|49,EVID
+223,Maternal Immune Activation,215|71|59,NEURO
+224,Open-Label Trial,181,EVID
+225,Placebo-Controlled Trial,224,EVID
+226,Sample Size,187,EVID
+227,Microbiota Transfer Therapy,224|219,TREAT
+228,Harmful Cure Claims,227|21|217,EVID
+229,Neurodegeneration,4,NEURO
+230,Parkinson's Disease,229|91,NEURO
+231,Dopamine Neuron Loss,230,NEURO
+232,Alpha-Synuclein,230,NEURO
+233,Lewy Body,232,NEURO
+234,Prodromal Symptoms,230,NEURO
+235,Constipation,14,GIDIS
+236,Braak Hypothesis,233|27|8,NEURO
+237,Prion-Like Spread,232|236,NEURO
+238,Gut-First Subtype,236|234,NEURO
+239,Brain-First Subtype,238,NEURO
+240,Truncal Vagotomy Studies,42|236|189,EVID
+241,Appendix and Parkinson's,236|189,EVID
+242,Levodopa Absorption,231|235,TREAT
+243,Alzheimer's Disease,229,NEURO
+244,Amyloid Beta,243,NEURO
+245,Dietary Pattern,97,MICRO
+246,Mediterranean Diet,245,TREAT
+247,Ultra-Processed Food,245,MICRO
+248,Dietary Fiber Gap,97|245,MICRO
+249,Fermented Food,98|245,MICRO
+250,Polyphenol,245|44,MICRO
+251,Nutritional Psychiatry,183|245,NEURO
+252,Observational Study,189|191,EVID
+253,Randomized Controlled Trial,225|191,EVID
+254,SMILES Trial,253|246|183,EVID
+255,Dose-Response Relationship,252,EVID
+256,Healthy User Bias,252|191,EVID
+257,Mediator Variable,61|44,EVID
+258,Food Insecurity,245,LIFE
+259,Eating Disorder Risk,214,NEURO
+260,Probiotic,47|46,TREAT
+261,Prebiotic,97|260,TREAT
+262,Synbiotic,260|261,TREAT
+263,Postbiotic,260|99,TREAT
+264,Psychobiotic,260|183,TREAT
+265,Lactobacillus,46,MICRO
+266,Bifidobacterium,46|54,MICRO
+267,Strain Specificity,46|260,MICRO
+268,Colony-Forming Unit,260,TREAT
+269,Dietary Supplement Regulation,260,TREAT
+270,Probiotic Safety,260|269,TREAT
+271,Systematic Review,187,EVID
+272,Effect Size,187|226,EVID
+273,Primary Outcome,253,EVID
+274,Publication Bias,271,EVID
+275,Replication Failure,264|59,EVID
+276,C. difficile Infection,48|56,GIDIS
+277,Fecal Microbiota Transplant,276|55,TREAT
+278,Live Biotherapeutic Product,277,TREAT
+279,FDA Approval,253,TREAT
+280,Clinical Trial Phases,279,EVID
+281,Off-Label Use,279,TREAT
+282,Benefit-Risk Balance,279,TREAT
+283,Vagus Nerve Stimulation,27|279,TREAT
+284,Implanted VNS Device,283,TREAT
+285,Noninvasive VNS,283,TREAT
+286,Inflammatory Reflex,29|73,VAGUS
+287,Bioelectronic Medicine,286|283,TREAT
+288,Consumer Wellness Device,285|269,EVID
+289,Tricyclic Antidepressant,179,TREAT
+290,Shared Decision-Making,282,TREAT
+291,Precision Medicine,290|45,TREAT
+292,Circadian Rhythm,115,NEURO
+293,Sleep Architecture,292,NEURO
+294,Teen Sleep Need,293,NEURO
+295,Sleep and Inflammation,293|71,IMMUNE
+296,Microbiome Daily Rhythm,292|44,MICRO
+297,Sleep Hygiene,294,TREAT
+298,Physical Activity,113,TREAT
+299,Exercise and Gut Transit,298|14,TREAT
+300,Exercise and Mood,298|183,TREAT
+301,Psychotherapy,177,TREAT
+302,Brain-Gut Psychotherapy,301|178,TREAT
+303,Mindfulness,301,TREAT
+304,Slow Breathing,41|113,TREAT
+305,Heart Rate Variability,41|304,VAGUS
+306,Self-Monitoring,61,TREAT
+307,Behavior Change,306,TREAT
+308,Stigma,193,LIFE
+309,Self-Stigma,308,LIFE
+310,Mental Health Stigma,308|195,LIFE
+311,Illness Concealment,308,LIFE
+312,Quality of Life,193,LIFE
+313,Health Literacy,22,LIFE
+314,Family Communication,308|313,LIFE
+315,Caregiver Role,314,LIFE
+316,Global IBD Rise,154,GIDIS
+317,Migration and IBD Risk,316,GIDIS
+318,South Asian Health Context,317|314,LIFE
+319,Help-Seeking Barriers,310|195,LIFE
+320,Talking to Your Doctor,313|290,LIFE
+321,School Accommodation,311|155,LIFE
+322,504 Plan,321,LIFE
+323,Peer Support,309|312,LIFE
+324,Hierarchy of Evidence,187|253|59,EVID
+325,Mouse-to-Human Translation,59|324,EVID
+326,Peer Review,324,EVID
+327,Preprint,326,EVID
+328,Conflict of Interest,326,EVID
+329,Preregistration,273|274,EVID
+330,Statistical Significance,272,EVID
+331,Absolute vs Relative Risk,330,EVID
+332,Health Claim Marketing,269|328,EVID
+333,Structure-Function Claim,332,EVID
+334,Reading an Abstract,326|330,EVID
+335,Claim-Checking Method,21|324|334,EVID
+336,Science Communication,335|313,EVID
+337,Student Research Project,335|336,EVID

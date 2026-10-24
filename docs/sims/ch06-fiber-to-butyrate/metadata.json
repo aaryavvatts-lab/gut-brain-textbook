@@ -1,0 +1,78 @@
+{
+  "title": "Fiber to Butyrate",
+  "description": "Interactive model of the fiber-to-short-chain-fatty-acid pathway. Fiber enters the colon, gut bacteria ferment it into acetate, propionate, and butyrate, and butyrate fuels colon-lining cells and strengthens the tight junction seal. Learners change fiber intake and microbe diversity and watch fermentation, colonocyte fuel, and barrier meters respond. A separate, clearly labeled panel shows microglia and blood-brain barrier findings from germ-free mice only.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "dietary fiber",
+    "fermentation",
+    "short-chain fatty acids",
+    "butyrate",
+    "colonocyte",
+    "intestinal permeability",
+    "blood-brain barrier",
+    "microglia"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch06-fiber-to-butyrate/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "06-fiber-fatty-acids-bbb",
+  "bloomLevel": [
+    "Understand"
+  ],
+  "learningObjectives": [
+    "Trace dietary fiber through bacterial fermentation to acetate, propionate, and butyrate, and describe where each one mainly goes in the body.",
+    "Explain how butyrate fuels colonocytes and supports the tight junction seal of the gut lining.",
+    "Distinguish findings shown in people from brain effects (microglia maturation and blood-brain barrier tightness) shown only in germ-free mice."
+  ],
+  "concepts": [
+    "Dietary Fiber",
+    "Fermentation",
+    "Short-Chain Fatty Acid",
+    "Butyrate",
+    "Propionate",
+    "Acetate",
+    "Colonocyte",
+    "Microglia Maturation",
+    "BBB Permeability"
+  ],
+  "prerequisites": [
+    "Gut microbes live mostly in the colon (Chapter 3)",
+    "The gut lining is sealed by tight junctions (Chapter 4)",
+    "The blood-brain barrier controls what enters the brain (Chapter 5)"
+  ],
+  "keyQuestions": [
+    "Why does fiber reach the colon instead of being digested in the small intestine?",
+    "Which short-chain fatty acid do colon-lining cells use most as fuel?",
+    "How does microbe diversity change what the same amount of fiber produces?",
+    "Which effects in the model come only from germ-free mouse studies?"
+  ],
+  "misconceptions": [
+    "All fiber is the same and does the same thing in the gut.",
+    "Butyrate is the most abundant short-chain fatty acid in the blood (acetate usually is).",
+    "The gut barrier is either completely sealed or completely leaky.",
+    "Because gut microbes tighten the blood-brain barrier in germ-free mice, eating more fiber must do the same in people."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 710,
+  "iframeHeight": 712
+}

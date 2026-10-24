@@ -1,0 +1,74 @@
+{
+  "title": "The Two-Way Street",
+  "description": "Interactive simulation of a cohort of 500 fictional people with gut-symptom and mood-symptom scores. Learners set the strength of gut-to-brain effects, brain-to-gut effects, and a shared confounding factor, then compare the correlation from one snapshot with time-lagged correlations from following the cohort over time.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "bidirectional relationship",
+    "reverse causation",
+    "confounding variable",
+    "cohort study",
+    "correlation",
+    "anxiety",
+    "depression",
+    "inflammatory bowel disease"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch11-two-way-street/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "11-anxiety-depression-gut",
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "learningObjectives": [
+    "Explain why a gut-to-brain effect, a brain-to-gut effect, or a shared third factor can each produce a similar gut-mood correlation at one time point.",
+    "Analyze how following people over time helps detect the direction of an effect (reverse causation) but cannot by itself rule out confounding."
+  ],
+  "concepts": [
+    "Bidirectional Relationship",
+    "Reverse Causation",
+    "Confounding Variable",
+    "Cohort Study",
+    "Psychiatric Comorbidity",
+    "Correlation vs Causation"
+  ],
+  "prerequisites": [
+    "Correlation vs causation (Chapter 3)",
+    "Basic idea of anxiety and depression symptoms",
+    "Reading a scatter plot"
+  ],
+  "keyQuestions": [
+    "Can one survey of gut and mood symptoms show which causes which?",
+    "What does it mean if earlier gut symptoms predict later mood?",
+    "What if effects run in both directions?",
+    "How can a hidden third factor create a correlation?"
+  ],
+  "misconceptions": [
+    "A correlation between gut problems and anxiety proves the gut causes anxiety.",
+    "If anxiety is linked to IBD, anxiety must cause IBD.",
+    "Following people over time removes every possible confounder.",
+    "Effects can only run in one direction."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 620,
+  "iframeHeight": 622
+}

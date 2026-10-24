@@ -1,0 +1,75 @@
+{
+  "title": "IBD Flare Timeline",
+  "description": "Illustrative 12-month model of Crohn's disease after diagnosis. Learners place events (starting steroids, starting a biologic, missed biologic doses, a gut infection, a stressful exam week) on a timeline and compare how gut inflammation, symptoms, energy, and mood respond. Not a prediction for any real person.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "inflammatory bowel disease",
+    "Crohn's disease",
+    "disease flare",
+    "remission",
+    "biologic therapy",
+    "corticosteroid",
+    "mucosal healing",
+    "gut-brain axis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch09-ibd-flare-timeline/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "09-inflammatory-bowel-disease",
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "learningObjectives": [
+    "Relate gut inflammation, symptoms, energy, and mood over time in inflammatory bowel disease.",
+    "Analyze how steroids, a biologic, and missed doses change inflammation and symptoms on different time scales.",
+    "Distinguish events that change symptoms and mood (such as exam stress) from events that change inflammation (such as missed doses or infection)."
+  ],
+  "concepts": [
+    "Disease Flare",
+    "Remission",
+    "Corticosteroid",
+    "Biologic Therapy",
+    "Mucosal Healing",
+    "Crohn's Disease",
+    "Inflammatory Bowel Disease"
+  ],
+  "prerequisites": [
+    "Inflammation as an immune response (Chapter 4)",
+    "Stress effects on gut symptoms (Chapter 7)"
+  ],
+  "keyQuestions": [
+    "Why can symptoms improve before inflammation has fully settled?",
+    "Why are steroids used only as a short-term bridge?",
+    "What happens to inflammation after maintenance doses are missed, and how quickly?",
+    "Which events change mood and symptoms without changing inflammation?"
+  ],
+  "misconceptions": [
+    "Feeling better means the gut has fully healed.",
+    "Once someone is in remission, they can stop their medicine.",
+    "Stress is the cause of IBD flares.",
+    "IBD only affects the gut and has nothing to do with energy or mood."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 640,
+  "iframeHeight": 642
+}

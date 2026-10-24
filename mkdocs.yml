@@ -1,0 +1,271 @@
+# Gut Check: The Neuroscience of How Your Gut and Brain Talk: MkDocs Material configuration
+# Scaffolded with the textbookmaker skill (based on Dan McCreary's init-textbook, ibook-skills).
+# Keep MkDocs < 2 (see requirements.txt).
+
+site_name: 'Gut Check: The Neuroscience of How Your Gut and Brain Talk'
+site_description: 'A free, interactive neuroscience textbook for teens, patients, and families on how the gut and brain communicate, and how to tell real science from hype.'
+site_author: 'Aaryav Sharma'
+site_url: 'https://aaryavvatts-lab.github.io/gut-brain-textbook/'
+
+hooks:
+  - plugins/social_override.py
+
+repo_name: 'GitHub Repo'
+repo_url: 'https://github.com/aaryavvatts-lab/gut-brain-textbook'
+edit_uri: 'blob/main/docs'
+
+copyright: 'Copyright &copy; 2026 Aaryav Sharma. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> for non-commercial use. This book teaches; it does not diagnose or give medical advice.'
+
+# Side navigation only. Do NOT add navigation.tabs.
+# Add each chapter's Content/Quiz/References entries as chapters are written.
+nav:
+  - Home: index.md
+  - About This Book: about.md
+  - How to Use This Book: how-to-use.md
+  - The Hype Meter: hype-meter.md
+  - For Families: for-families.md
+  - For Teachers: teachers.md
+  - Downloads (PDF): downloads.md
+  - Course Description: course-description.md
+  - Chapters:
+      - List of Chapters: chapters/index.md
+      - "Part I. Two Nervous Systems, One Body":
+          - "1. The Brain in Your Belly":
+              - Content: chapters/01-brain-in-your-belly/index.md
+              - Quiz: chapters/01-brain-in-your-belly/quiz.md
+              - References: chapters/01-brain-in-your-belly/references.md
+          - "2. The Vagus Highway":
+              - Content: chapters/02-vagus-highway/index.md
+              - Quiz: chapters/02-vagus-highway/quiz.md
+              - References: chapters/02-vagus-highway/references.md
+          - "3. Meet the Microbiome":
+              - Content: chapters/03-meet-the-microbiome/index.md
+              - Quiz: chapters/03-meet-the-microbiome/quiz.md
+              - References: chapters/03-meet-the-microbiome/references.md
+          - "4. The Immune System as a Sense Organ":
+              - Content: chapters/04-immune-sense-organ/index.md
+              - Quiz: chapters/04-immune-sense-organ/quiz.md
+              - References: chapters/04-immune-sense-organ/references.md
+      - "Part II. How the Signals Travel":
+          - "5. Chemical Messengers and the Serotonin Myth":
+              - Content: chapters/05-serotonin-myth/index.md
+              - Quiz: chapters/05-serotonin-myth/quiz.md
+              - References: chapters/05-serotonin-myth/references.md
+          - "6. Fiber, Fatty Acids, and the Blood-Brain Barrier":
+              - Content: chapters/06-fiber-fatty-acids-bbb/index.md
+              - Quiz: chapters/06-fiber-fatty-acids-bbb/quiz.md
+              - References: chapters/06-fiber-fatty-acids-bbb/references.md
+          - "7. Stress and the Gut":
+              - Content: chapters/07-stress-and-the-gut/index.md
+              - Quiz: chapters/07-stress-and-the-gut/quiz.md
+              - References: chapters/07-stress-and-the-gut/references.md
+          - "8. Pain, Sensitivity, and the Gut":
+              - Content: chapters/08-pain-and-sensitivity/index.md
+              - Quiz: chapters/08-pain-and-sensitivity/quiz.md
+              - References: chapters/08-pain-and-sensitivity/references.md
+      - "Part III. When the System Goes Wrong":
+          - "9. Inflammatory Bowel Disease":
+              - Content: chapters/09-inflammatory-bowel-disease/index.md
+              - Quiz: chapters/09-inflammatory-bowel-disease/quiz.md
+              - References: chapters/09-inflammatory-bowel-disease/references.md
+          - "10. IBS and Disorders of Gut-Brain Interaction":
+              - Content: chapters/10-ibs-and-dgbi/index.md
+              - Quiz: chapters/10-ibs-and-dgbi/quiz.md
+              - References: chapters/10-ibs-and-dgbi/references.md
+          - "11. Anxiety, Depression, and the Gut":
+              - Content: chapters/11-anxiety-depression-gut/index.md
+              - Quiz: chapters/11-anxiety-depression-gut/quiz.md
+              - References: chapters/11-anxiety-depression-gut/references.md
+          - "12. Celiac Disease and Food Reactions":
+              - Content: chapters/12-celiac-and-food-reactions/index.md
+              - Quiz: chapters/12-celiac-and-food-reactions/quiz.md
+              - References: chapters/12-celiac-and-food-reactions/references.md
+          - "13. Autism, ADHD, and the Gut":
+              - Content: chapters/13-autism-adhd-gut/index.md
+              - Quiz: chapters/13-autism-adhd-gut/quiz.md
+              - References: chapters/13-autism-adhd-gut/references.md
+          - "14. Parkinson's, Alzheimer's, and the Gut":
+              - Content: chapters/14-parkinsons-alzheimers-gut/index.md
+              - Quiz: chapters/14-parkinsons-alzheimers-gut/quiz.md
+              - References: chapters/14-parkinsons-alzheimers-gut/references.md
+      - "Part IV. What Can Actually Help":
+          - "15. Food and Mood":
+              - Content: chapters/15-food-and-mood/index.md
+              - Quiz: chapters/15-food-and-mood/quiz.md
+              - References: chapters/15-food-and-mood/references.md
+          - "16. Probiotics, Prebiotics, and Psychobiotics":
+              - Content: chapters/16-probiotics-psychobiotics/index.md
+              - Quiz: chapters/16-probiotics-psychobiotics/quiz.md
+              - References: chapters/16-probiotics-psychobiotics/references.md
+          - "17. Medicine for the Gut-Brain Axis":
+              - Content: chapters/17-medicine-gut-brain-axis/index.md
+              - Quiz: chapters/17-medicine-gut-brain-axis/quiz.md
+              - References: chapters/17-medicine-gut-brain-axis/references.md
+          - "18. Sleep, Exercise, and Therapy":
+              - Content: chapters/18-sleep-exercise-therapy/index.md
+              - Quiz: chapters/18-sleep-exercise-therapy/quiz.md
+              - References: chapters/18-sleep-exercise-therapy/references.md
+      - "Part V. Living With It, and Thinking Clearly":
+          - "19. Culture, Food, Family, and Stigma":
+              - Content: chapters/19-culture-family-stigma/index.md
+              - Quiz: chapters/19-culture-family-stigma/quiz.md
+              - References: chapters/19-culture-family-stigma/references.md
+          - "20. Be Your Own Scientist":
+              - Content: chapters/20-be-your-own-scientist/index.md
+              - Quiz: chapters/20-be-your-own-scientist/quiz.md
+              - References: chapters/20-be-your-own-scientist/references.md
+  - MicroSims:
+      - List of MicroSims: sims/index.md
+      - "Peristalsis Builder": sims/ch01-peristalsis-builder/index.md
+      - "Vagus Signal Router": sims/ch02-vagus-signal-router/index.md
+      - "Microbiome Balance": sims/ch03-microbiome-balance/index.md
+      - "Cytokine Feedback Loop": sims/ch04-cytokine-feedback-loop/index.md
+      - "Serotonin: Where Does It Go?": sims/ch05-serotonin-where/index.md
+      - "Fiber to Butyrate": sims/ch06-fiber-to-butyrate/index.md
+      - "HPA Axis Stress Dial": sims/ch07-hpa-stress-dial/index.md
+      - "Pain Amplifier": sims/ch08-pain-amplifier/index.md
+      - "IBD Flare Timeline": sims/ch09-ibd-flare-timeline/index.md
+      - "Rome IV Criteria Explorer": sims/ch10-rome-criteria-explorer/index.md
+      - "The Two-Way Street": sims/ch11-two-way-street/index.md
+      - "Villi Explorer": sims/ch12-villi-explorer/index.md
+      - "Confounder Detective": sims/ch13-confounder-detective/index.md
+      - "Gut-First or Brain-First?": sims/ch14-two-routes/index.md
+      - "Diet Pattern Explorer": sims/ch15-diet-pattern-explorer/index.md
+      - "Probiotic Trial Reader": sims/ch16-trial-reader/index.md
+      - "Treatment Evidence Map": sims/ch17-treatment-evidence-map/index.md
+      - "Gut and Sleep Diary": sims/ch18-gut-sleep-diary/index.md
+      - "Conversation Practice": sims/ch19-conversation-practice/index.md
+      - "Hype Meter Sorter": sims/ch20-hype-meter-sorter/index.md
+      - Learning Graph Viewer: sims/graph-viewer/index.md
+  - Appendices:
+      - A. Mock Exam: appendices/mock-exam.md
+      - B. Glossary: glossary.md
+      - C. Teacher Guide: appendices/teacher-guide.md
+      - D. Club Kit: club-kit.md
+      - E. Pilot Study Kit: appendices/pilot-study-kit.md
+      - F. Questions to Ask Your Doctor: appendices/questions-for-your-doctor.md
+      - G. Corrections and Review Log: accuracy.md
+  - Learning Graph:
+      - Introduction: learning-graph/index.md
+      - Quality Metrics: learning-graph/quality-metrics.md
+      - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+      - Book Metrics: learning-graph/book-metrics.md
+      - Chapter Metrics: learning-graph/chapter-metrics.md
+  - FAQ: faq.md
+  - Roadmap: roadmap.md
+  - How to Cite: how-to-cite.md
+  - License: license.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  logo: img/mascot/neutral.png
+  favicon: img/favicon.png
+  palette:
+    - scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.action.edit
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - mascot-admonition-img
+
+markdown_extensions:
+  - abbr
+  - md_in_html
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # Currency-safe math: inline is \(...\) only, never single $ (so "$450" stays text).
+  - pymdownx.arithmatex:
+      generic: true
+      inline_syntax: ['round']
+      block_syntax: ['dollar', 'square']
+
+extra_css:
+  - css/extra.css
+  - css/mascot.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+exclude_docs: |
+  **/sim-spec.md
+  **/image-prompt*.md
+  **/TODO.md
+
+watch:
+  - docs
+  - mkdocs.yml
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aaryavvatts-lab/gut-brain-textbook
+  schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
+  textbook_name: 'Gut Check: The Neuroscience of How Your Gut and Brain Talk'
+  textbook_version: '1.0'
+  development_stage: 'Complete (v1.0)'
+  # The author adds Google Analytics later (needs their own GA4 ID):
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX

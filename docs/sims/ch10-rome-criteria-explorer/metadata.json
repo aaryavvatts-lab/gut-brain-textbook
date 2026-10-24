@@ -1,0 +1,71 @@
+{
+  "title": "Rome Criteria Explorer",
+  "description": "Educational checklist that applies the Rome IV (2016), Rome V (2026), and Rome IV child and teen criteria for irritable bowel syndrome to fictional symptom profiles, shows which criteria are met, and flags alarm features that need medical evaluation. It cannot diagnose any condition.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "irritable bowel syndrome",
+    "Rome IV criteria",
+    "Rome V criteria",
+    "disorders of gut-brain interaction",
+    "alarm features",
+    "positive diagnosis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch10-rome-criteria-explorer/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "10-ibs-and-dgbi",
+  "bloomLevel": [
+    "Apply"
+  ],
+  "learningObjectives": [
+    "Apply the Rome IV symptom criteria for IBS to fictional symptom profiles.",
+    "Compare how Rome IV (2016), Rome V (2026), and the child and teen criteria classify the same profile.",
+    "Recognize that alarm features require medical evaluation regardless of whether the symptom criteria are met."
+  ],
+  "concepts": [
+    "Rome IV Criteria",
+    "Irritable Bowel Syndrome",
+    "Alarm Features",
+    "Positive Diagnosis Strategy",
+    "Gut-Brain Interaction Disorder"
+  ],
+  "prerequisites": [
+    "Visceral pain and sensitivity (Chapter 8)",
+    "The difference between IBD and IBS (Chapter 9)"
+  ],
+  "keyQuestions": [
+    "What three bowel-related features appear in the Rome criteria for IBS?",
+    "How does Rome V change the pain-frequency rule compared with Rome IV?",
+    "Why does continuous pain not count as IBS under Rome V?",
+    "Why do alarm features call for medical evaluation even when the checklist is met?"
+  ],
+  "misconceptions": [
+    "IBS can only be diagnosed after every other disease has been ruled out with tests.",
+    "A symptom checklist is enough to diagnose yourself.",
+    "If tests are normal, nothing is really wrong.",
+    "Rome IV is still the newest version of the criteria."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 770,
+  "iframeHeight": 772
+}
