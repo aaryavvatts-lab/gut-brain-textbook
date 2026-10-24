@@ -49,7 +49,7 @@ const CARDS = [
   { claim: '"Poor sleep is linked to later Crohn\'s flares."', grade: 'Preliminary', ch: 18,
     reason: 'One large patient study found poor sleep during Crohn\'s remission went with twice the odds of a flare 6 months later. It needs repeating, and a link is not proof of cause.' },
   { claim: '"Vagus nerve stimulation can calm Crohn\'s disease."', grade: 'Preliminary', ch: 17,
-    reason: 'A pilot study of only 7 patients with no comparison group is a starting point. VNS is not approved for Crohn\'s.' },
+    reason: 'Only small open-label studies (7 and 16 patients) with no comparison group so far. VNS is not approved for Crohn\'s.' },
   { claim: '"Your gut has more neurons than your brain."', grade: 'Hype', ch: 1,
     reason: 'The gut has about 400 to 600 million neurons. The brain has about 86 billion.' },
   { claim: '"An FDA-approved microbiome pill helps stop C. diff infection from coming back."', grade: 'Strong', ch: 17,
