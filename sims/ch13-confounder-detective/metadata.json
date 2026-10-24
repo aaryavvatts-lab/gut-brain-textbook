@@ -1,0 +1,72 @@
+{
+  "title": "Confounder Detective",
+  "description": "Interactive investigation of confounding with simulated data. Two groups of children (an autistic group and a comparison group) differ in average microbiome diversity. Learners color the data by hidden variables (diet variety, age, recent antibiotics) and use statistical adjustment to discover that diet variety, which differs between groups, explains the gap, while balanced variables do not.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "confounding variable",
+    "diet as confounder",
+    "gut microbiome",
+    "autism",
+    "selective eating",
+    "correlation vs causation",
+    "sample size"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch13-confounder-detective/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "13-autism-adhd-gut",
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "learningObjectives": [
+    "Identify how a confounding variable (diet variety) can create an apparent microbiome difference between an autistic group and a comparison group.",
+    "Distinguish a confounder, which differs between groups and affects the outcome, from variables that affect the outcome but are balanced between groups.",
+    "Explain why small leftover differences change from sample to sample because of chance."
+  ],
+  "concepts": [
+    "Diet as Confounder",
+    "Selective Eating",
+    "Sample Size",
+    "Autism"
+  ],
+  "prerequisites": [
+    "Correlation vs causation",
+    "Confounding variable",
+    "Microbial diversity"
+  ],
+  "keyQuestions": [
+    "Which hidden variable lines up with the low microbiome scores?",
+    "Why does accounting for diet variety shrink the gap, while accounting for age does not?",
+    "Does a confounder mean the original difference was not real?",
+    "Why can't statistics fix a confounder nobody measured?"
+  ],
+  "misconceptions": [
+    "A microbiome difference between groups proves the condition causes it, or that the microbes cause the condition.",
+    "Every variable that affects the outcome is a confounder.",
+    "Adjusting for variables can fix any study, even for things that were never measured.",
+    "A leftover difference that is not exactly zero must be meaningful."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 580,
+  "iframeHeight": 582
+}

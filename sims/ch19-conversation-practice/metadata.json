@@ -1,0 +1,74 @@
+{
+  "title": "Conversation Practice",
+  "description": "Branching conversation scenarios in which the learner chooses how a fictional teen (Riya, who has Crohn's disease, or Sam, who has IBS) responds to an aunt, a teacher, a friend, and a coach. The other person's next line depends on the first choice, and feedback cards explain whether each reply is likely to land well, mixed, or likely to backfire, using strategies from the chapter. No data is stored or sent.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "stigma",
+    "family communication",
+    "504 plan",
+    "illness concealment",
+    "peer support",
+    "inflammatory bowel disease"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch19-conversation-practice/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "19-culture-family-stigma",
+  "bloomLevel": [
+    "Apply",
+    "Create"
+  ],
+  "learningObjectives": [
+    "Use supportive, accurate communication strategies (acknowledge, give one clear fact, offer a role, set calm boundaries, bring backup) to respond to mistaken or stigmatizing comments about gut and mental health.",
+    "Explain why a given reply might land well, have mixed effects, or backfire, including the costs of illness concealment and self-stigma."
+  ],
+  "concepts": [
+    "Stigma",
+    "Self-Stigma",
+    "Illness Concealment",
+    "Family Communication",
+    "Caregiver Role",
+    "504 Plan",
+    "School Accommodation",
+    "Peer Support"
+  ],
+  "prerequisites": [
+    "Basic facts about Crohn's disease and IBS (Chapters 9 and 10)",
+    "The definition of stigma and self-stigma (Chapter 19, Section 19.2)"
+  ],
+  "keyQuestions": [
+    "How can you correct a loved one's mistaken health advice without damaging the relationship?",
+    "How does mentioning a 504 plan change a conversation with a teacher?",
+    "What does self-stigma sound like, and how can you answer it?",
+    "When is saying nothing or setting a boundary a reasonable choice?"
+  ],
+  "misconceptions": [
+    "Talking about bowel symptoms is shameful and should be avoided.",
+    "Correcting someone always means proving them wrong in public.",
+    "Teachers are not allowed to accommodate students with gut conditions.",
+    "There is one perfect script for every hard conversation."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 510,
+  "iframeHeight": 512
+}

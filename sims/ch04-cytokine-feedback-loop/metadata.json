@@ -1,0 +1,75 @@
+{
+  "title": "Cytokine Feedback Loop",
+  "description": "Interactive feedback-loop model of immune-to-brain signaling. Gut inflammation releases cytokines (IL-1β, IL-6, TNF) that signal the brain and its microglia, producing sleep problems, low mood, and fatigue; sleep problems and stress feed back into inflammation. Learners set gut inflammation, sleep hours, and stress, watch the loop strengthen, and break one link to see the whole loop weaken.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "cytokine",
+    "inflammation",
+    "immune-to-brain signaling",
+    "sickness behavior",
+    "microglia",
+    "feedback loop",
+    "gut-brain axis"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch04-cytokine-feedback-loop/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "04-immune-sense-organ",
+  "bloomLevel": [
+    "Understand",
+    "Analyze"
+  ],
+  "learningObjectives": [
+    "Explain immune-to-brain signaling as a feedback loop in which gut inflammation releases cytokines that act on the brain and produce sleep problems, low mood, and fatigue.",
+    "Analyze how breaking one link in the loop (treating inflammation, protecting sleep, or managing stress) weakens the whole loop."
+  ],
+  "concepts": [
+    "Inflammation",
+    "Cytokine",
+    "Interleukin-6",
+    "Tumor Necrosis Factor",
+    "Interleukin-1 Beta",
+    "Immune-to-Brain Signaling",
+    "Microglia",
+    "Sickness Behavior"
+  ],
+  "prerequisites": [
+    "Inflammation as the body's response to infection or injury",
+    "Afferent vagus nerve signals carry information from the gut to the brain"
+  ],
+  "keyQuestions": [
+    "How do cytokines made in the gut change how the brain feels and acts?",
+    "What makes a feedback loop reinforcing?",
+    "Why does breaking any one link weaken the whole loop?",
+    "Why might someone still feel tired after gut inflammation is treated?"
+  ],
+  "misconceptions": [
+    "The brain is completely sealed off from the immune system.",
+    "Fatigue during illness is laziness or all in your head.",
+    "Inflammation is the only cause of low mood in people with gut disease.",
+    "Inflammation is always harmful."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 610,
+  "iframeHeight": 612
+}

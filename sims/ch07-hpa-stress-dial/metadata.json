@@ -1,0 +1,81 @@
+{
+  "title": "HPA Axis Stress Dial",
+  "description": "Interactive model of the hypothalamic-pituitary-adrenal (HPA) axis. Learners set stress intensity and choose a single acute stressor or daily chronic stress, then watch CRH, ACTH, and cortisol rise and fall on a graph. A negative-feedback switch shows how cortisol turns the system off. A gut panel shows colon movement, gut sensitivity, and gut permeability responding to stress signaling.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "stress response",
+    "HPA axis",
+    "cortisol",
+    "CRH",
+    "ACTH",
+    "negative feedback",
+    "gut motility",
+    "mast cells"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch07-hpa-stress-dial/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "07-stress-and-the-gut",
+  "bloomLevel": [
+    "Understand"
+  ],
+  "learningObjectives": [
+    "Explain the order of the HPA axis cascade: CRH from the hypothalamus, ACTH from the pituitary, and cortisol from the adrenal cortex.",
+    "Explain how cortisol's negative feedback returns the HPA axis to baseline after acute stress, and why repeated chronic stress keeps reactivating it.",
+    "Describe how stress signaling changes the gut: faster colon movement and, with repeated stress, more sensitivity and permeability."
+  ],
+  "concepts": [
+    "HPA Axis",
+    "Hypothalamus",
+    "Pituitary Gland",
+    "Adrenal Gland",
+    "Corticotropin-Releasing Hormone",
+    "ACTH",
+    "Cortisol",
+    "Negative Feedback",
+    "Acute Stress",
+    "Chronic Stress",
+    "Stress and Gut Motility",
+    "Mast Cell"
+  ],
+  "prerequisites": [
+    "Hormones are chemical messengers carried in the blood",
+    "The autonomic nervous system and gut motility (Chapter 1)",
+    "Intestinal permeability (Chapter 6)"
+  ],
+  "keyQuestions": [
+    "Which hormone rises first after a stressor, and which rises last?",
+    "What does cortisol do to CRH and ACTH, and why does that matter?",
+    "How does the pattern change when stress happens every day?",
+    "Why can stress speed up the colon even though fight-or-flight slows digestion?"
+  ],
+  "misconceptions": [
+    "Cortisol is purely harmful and should always be as low as possible.",
+    "Stress-related gut symptoms are imaginary.",
+    "The adrenal glands stop making cortisol because they run out, rather than because of negative feedback.",
+    "Acute stress and chronic stress affect the body in the same way."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 650,
+  "iframeHeight": 652
+}

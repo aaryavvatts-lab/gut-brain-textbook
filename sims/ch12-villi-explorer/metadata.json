@@ -1,0 +1,74 @@
+{
+  "title": "Villi Explorer",
+  "description": "Interactive model of the small-intestine lining in celiac disease. Learners choose whether a person has celiac disease and whether they eat gluten, then watch over simulated months as immune cells gather, intestinal villi shorten (villous atrophy), absorption falls, and tTG antibodies rise, or as the villi slowly heal on a gluten-free diet. A Run tests button shows why blood tests and biopsies should be done before a gluten-free diet starts.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "celiac disease",
+    "gluten",
+    "intestinal villi",
+    "villous atrophy",
+    "tissue transglutaminase antibody",
+    "small bowel biopsy",
+    "gluten-free diet"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch12-villi-explorer/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "12-celiac-and-food-reactions",
+  "bloomLevel": [
+    "Understand"
+  ],
+  "learningObjectives": [
+    "Explain how gluten exposure in a person with celiac disease leads to villous atrophy and reduced absorption of nutrients.",
+    "Explain why the villi of a person without celiac disease stay normal whether or not they eat gluten.",
+    "Explain why celiac testing (tTG antibody blood test and small bowel biopsy) should be done before starting a gluten-free diet."
+  ],
+  "concepts": [
+    "Celiac Disease",
+    "Gluten",
+    "Intestinal Villi",
+    "Villous Atrophy",
+    "Tissue Transglutaminase Antibody",
+    "Small Bowel Biopsy",
+    "Gluten-Free Diet"
+  ],
+  "prerequisites": [
+    "The small intestine as the main site of nutrient absorption",
+    "Basic idea of the immune system attacking a perceived threat"
+  ],
+  "keyQuestions": [
+    "Why does flattening of the villi reduce absorption?",
+    "Why do symptoms improve faster than the villi heal on a gluten-free diet?",
+    "Why can a gluten-free diet started before testing make the tests look normal?",
+    "Why does gluten not damage the villi of a person without celiac disease?"
+  ],
+  "misconceptions": [
+    "Gluten damages everyone's intestine.",
+    "Going gluten-free before testing helps the doctor make a diagnosis.",
+    "Once symptoms stop, the intestine has fully healed.",
+    "Celiac disease is the same as a wheat allergy."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 560,
+  "iframeHeight": 562
+}

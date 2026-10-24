@@ -1,0 +1,80 @@
+{
+  "title": "Pain Amplifier",
+  "description": "Interactive model of visceral pain processing. A gut stretch signal travels through a dorsal root ganglion and the spinal dorsal horn to the thalamus, insula, and anterior cingulate cortex. Learners hold the stretch constant and change peripheral sensitivity, central gain, and descending control from the brain (calm or stressed) to see how the felt pain on a 0 to 10 scale changes compared with a typical body.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-23",
+  "subject": "neuroscience (gut-brain axis)",
+  "keywords": [
+    "visceral pain",
+    "visceral hypersensitivity",
+    "peripheral sensitization",
+    "central sensitization",
+    "descending pain modulation",
+    "dorsal horn",
+    "irritable bowel syndrome"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/gut-brain-textbook/sims/ch08-pain-amplifier/",
+  "publisher": "Gut Check: The Neuroscience of How Your Gut and Brain Talk",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, Families",
+  "version": "1.0.0",
+  "chapter": "08-pain-and-sensitivity",
+  "bloomLevel": [
+    "Understand",
+    "Analyze"
+  ],
+  "learningObjectives": [
+    "Explain how peripheral sensitization, central sensitization, and descending modulation change the pain felt from the same gut stretch.",
+    "Analyze why a pain score alone cannot show where along the pathway a signal was amplified."
+  ],
+  "concepts": [
+    "Nociceptor",
+    "Visceral Pain",
+    "Dorsal Root Ganglion",
+    "Dorsal Horn",
+    "Thalamus",
+    "Insula",
+    "Anterior Cingulate Cortex",
+    "Pain Perception",
+    "Visceral Hypersensitivity",
+    "Peripheral Sensitization",
+    "Central Sensitization",
+    "Descending Pain Modulation"
+  ],
+  "prerequisites": [
+    "Basic idea of a neuron and a synapse",
+    "The spinal cord and brain as parts of the central nervous system",
+    "Stress and the HPA axis (Chapter 7)"
+  ],
+  "keyQuestions": [
+    "Why can the same gut stretch hurt more in one person than another?",
+    "Where along the pathway can a pain signal be turned up?",
+    "How can the brain turn pain signals down?",
+    "Does a normal scan mean pain is imaginary?"
+  ],
+  "misconceptions": [
+    "The amount of pain always equals the amount of tissue damage.",
+    "If tests are normal, the pain is imaginary.",
+    "Central sensitization means the pain is all in your head.",
+    "The brain only receives pain signals and cannot change them."
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10",
+  "canvasHeight": 610,
+  "iframeHeight": 612
+}
